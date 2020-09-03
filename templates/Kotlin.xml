@@ -310,4 +310,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="iiiBanner--Banner代码" value="// 设置适配器&#10;banner.setAdapter { banner, itemView, model, position -&gt;&#10;            Glide.with(this)&#10;                .load(model)&#10;                .centerCrop()&#10;                .into(itemView as ImageView)&#10;        }&#10;&#10;        // 设置数据&#10;        val list = arrayListOf&lt;Any&gt;()&#10;        list.add(&quot;url&quot;)&#10;        list.add(&quot;url&quot;)&#10;        banner.setData(list, arrayListOf())" description="自己的:文本输入对话框" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
