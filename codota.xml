@@ -3,8 +3,8 @@
     <option name="methodCompletionsPercentageSet" value="true" />
     <option name="id" value="9d9e4433-1c98-4536-868a-b56a93ad4966" />
     <option name="wasRunBefore" value="true" />
-    <option name="firstRun" value="1597283933697" />
-    <option name="generation" value="116" />
+    <option name="firstRun" value="1599097568129" />
+    <option name="generation" value="123" />
     <option name="updateGeneration" value="1" />
     <option name="isInJSBeta" value="YES" />
     <option name="isMethodCompletionsPercentageActive" value="true" />
@@ -26,7 +26,7 @@
     </option>
     <option name="completeIndexingProjects">
       <map>
-        <entry key="1b56a579" value="2" />
+        <entry key="e3a1d9be" value="2" />
       </map>
     </option>
     <option name="usedLanguages">
