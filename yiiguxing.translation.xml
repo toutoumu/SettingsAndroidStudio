@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exhausted" />
       <item value="approve" />
       <item value="赞" />
       <item value="震动" />
@@ -36,7 +37,6 @@
       <item value="patrol Num" />
       <item value="clamp Force" />
       <item value="tenant" />
-      <item value="exhausted" />
       <item value="Surmmary" />
       <item value="machine Id" />
       <item value="material" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="683" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
