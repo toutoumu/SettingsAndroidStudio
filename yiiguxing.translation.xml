@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILLISECONDS" />
       <item value="exhausted" />
       <item value="approve" />
       <item value="赞" />
@@ -50,12 +51,11 @@
       <item value="雇员" />
       <item value="recorde" />
       <item value="ACCESS FINE LOCATION" />
-      <item value="ACCESS COARSE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="682" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
