@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="货物" />
+      <item value="商品" />
+      <item value="Goose" />
       <item value="terminated" />
       <item value="兑换记录" />
       <item value="else" />
@@ -48,14 +51,11 @@
       <item value="Surmmary" />
       <item value="machine Id" />
       <item value="material" />
-      <item value="keep in repair" />
-      <item value="维修" />
-      <item value="修理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="691" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
