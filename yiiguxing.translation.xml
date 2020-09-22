@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remind" />
       <item value="预约" />
       <item value="caret" />
       <item value="Inspection" />
@@ -50,12 +51,11 @@
       <item value="patrol Num" />
       <item value="clamp Force" />
       <item value="tenant" />
-      <item value="Surmmary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="ENGLISH" value="694" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
