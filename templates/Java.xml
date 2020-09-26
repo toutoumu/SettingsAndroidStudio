@@ -40,4 +40,19 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiRequestWithDialog" value="BlockDialog dialog = BlockDialog.showDialog(mActivity);&#10;Api.create(ArticleApi.class)&#10;    .infoLike(article.getId())&#10;    .retry(timeoutRetry())&#10;    .compose(applySchedulers())&#10;    .compose(bindUntilEvent(FragmentEvent.DESTROY))&#10;    .subscribe(model -&gt; {&#10;        dialog.dismiss();&#10;        if (model.isError()) {&#10;            ToastyKtKt.infoToast(mActivity, model.getMessage());&#10;            return;&#10;        }&#10;        // 服务调用成功&#10;&#10;    }, throwable -&gt; {&#10;        dialog.dismiss();&#10;        Timber.e(throwable);&#10;        ToastyKtKt.infoToast(mActivity, throwable.getMessage());&#10;    });" description="服务请求带对话框" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iiiDialogButtonSheet-底部弹出的选择框" value="DialogPlus dialogPlus = DialogPlus.newDialog(mActivity)&#10;    .setHeader(R.layout.dialog_header)&#10;    .setAdapter(new ArrayAdapter(mActivity, R.layout.dialog_item, R.id.item, Arrays.asList(&quot;拍摄&quot;, &quot;从手机相册选择&quot;)))&#10;    .setOnItemClickListener((dialog, item, view, position) -&gt; {&#10;        dialog.dismiss();&#10;        switch (position) {&#10;            case 0: {&#10;                break;&#10;            }&#10;            case 1: {&#10;                // todo &#10;                break;&#10;            }&#10;        }&#10;    })&#10;    .setFooter(R.layout.dialog_footer)&#10;    .setGravity(Gravity.BOTTOM)&#10;    .setMargin(0, 0, 0, 0)&#10;    .setContentHeight(ViewGroup.LayoutParams.WRAP_CONTENT)&#10;    .setContentWidth(ViewGroup.LayoutParams.MATCH_PARENT)&#10;    .create();&#10;dialogPlus.show();&#10;TextView headerText = dialogPlus.getHeaderView().findViewById(R.id.header);&#10;headerText.setText(&quot;底部弹出对话框标题&quot;);&#10;&#10;TextView footText = dialogPlus.getFooterView().findViewById(R.id.footer);&#10;footText.setOnClickListener(v -&gt; dialogPlus.dismiss());" description="底部弹出的选择框" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iiiActivityFinishWithOutParam" value="// 关闭页面返回参数&#10;mActivity.setResult(Activity.RESULT_OK);&#10;mActivity.finish();" description="自己的:关闭页面不携带参数" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
