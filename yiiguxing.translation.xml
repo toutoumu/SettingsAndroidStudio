@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="折叠" />
       <item value="Non Null" />
       <item value="wrap" />
       <item value="纪录" />
@@ -50,12 +51,11 @@
       <item value="decoration" />
       <item value="DETECTION TYPE" />
       <item value="patrol Num" />
-      <item value="clamp Force" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="694" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
