@@ -35,4 +35,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiGlideCenterCrop" value="// 截取中间部分显示&#10;Glide.with(this)&#10;    .load(result.getNavImg())&#10;    .apply(RequestOptions.centerCropTransform())&#10;    .into((ImageView) holder.getView(R.id.image));" description="Glide截取中间部分显示" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
