@@ -4,7 +4,7 @@
     <property name="created">2020-07-04T18:33:20</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-09-13T21:50:10</property>
+    <property name="modified">2020-09-25T14:25:39</property>
     <property name="originalScheme">One Dark vivid</property>
   </metaInfo>
   <console-font>
@@ -1872,7 +1872,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
+        <option name="FOREGROUND" value="21252b" />
+        <option name="BACKGROUND" value="f9ff48" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="457dff" />
       </value>
     </option>
