@@ -310,4 +310,9 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="iiiSetupViewPage" value="/**&#10;     * 初始化直播信息区域ViewPager&#10;     *&#10;     * @param viewPager [ViewPager]&#10;     * @param tabLayout [TabLayout]&#10;     */&#10;    private fun setupViewPager(viewPager: ViewPager, tabLayout: TabLayout) {&#10;        // 设置Adapter&#10;        viewPager.adapter = FragmentAdapter(childFragmentManager).apply {&#10;            addFragment(&quot;关注&quot;, FollowListFragment())&#10;            addFragment(&quot;推荐&quot;, RecommendListFragment())&#10;        }&#10;        // 设置监听&#10;        viewPager.addOnPageChangeListener(object : TabLayout.TabLayoutOnPageChangeListener(tabLayout) {&#10;            override fun onPageSelected(position: Int) {&#10;                super.onPageSelected(position)&#10;            }&#10;        })&#10;        tabs.addOnTabSelectedListener(object : ViewPagerOnTabSelectedListener(viewPager) {&#10;            override fun onTabUnselected(tab: Tab?) {&#10;            }&#10;&#10;            override fun onTabReselected(tab: Tab?) {&#10;            }&#10;        })&#10;        tabs.setupWithViewPager(viewpager)&#10;&#10;        UiUtils.setCustomTab(tabs, arrayListOf(&quot;关注&quot;, &quot;推荐&quot;), object : ITabConvert&lt;String&gt; {&#10;            override fun convertPagerTitle(tabLayout: TabLayout, holder: FragmentViewHolder, data: String?, position: Int) {&#10;                holder.setText(R.id.text, data)&#10;            }&#10;&#10;            override fun getPagerTitleResId(): Int {&#10;                return R.layout.item_indicator_found&#10;            }&#10;        })&#10;    }" description="初始化TabLayout和ViewPage" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
