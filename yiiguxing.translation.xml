@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descendant Focusability" />
+      <item value="before Descendants" />
       <item value="介绍" />
       <item value="折叠" />
       <item value="Non Null" />
@@ -49,13 +51,11 @@
       <item value="工单" />
       <item value="equipment" />
       <item value="隐私" />
-      <item value="decoration" />
-      <item value="DETECTION TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="695" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
