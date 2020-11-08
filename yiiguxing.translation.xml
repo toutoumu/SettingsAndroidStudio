@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="项目投资" />
       <item value="header View" />
       <item value="会员企业" />
       <item value="企业" />
@@ -50,11 +51,10 @@
       <item value="review" />
       <item value="审核" />
       <item value="工单" />
-      <item value="equipment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
+        <entry key="CHINESE" value="699" />
         <entry key="ENGLISH" value="699" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
