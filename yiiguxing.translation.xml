@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="会员企业" />
+      <item value="企业" />
       <item value="推荐" />
       <item value="介绍" />
       <item value="lint Vital移动平板阿里云Release" />
@@ -49,13 +51,11 @@
       <item value="工单" />
       <item value="equipment" />
       <item value="隐私" />
-      <item value="decoration" />
-      <item value="DETECTION TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="698" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
