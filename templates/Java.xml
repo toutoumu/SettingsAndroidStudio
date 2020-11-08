@@ -40,4 +40,28 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiGlideCenter" value="// 中间部分                          &#10;Glide.with($Fragment$.this)&#10;    .load(&quot;$url$&quot;)&#10;    .apply(RequestOptions.centerCropTransform())&#10;    .into($Image$);" description="中间部分" toReformat="true" toShortenFQNames="true">
+    <variable name="Fragment" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Image" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iiiGlideCircle" value="// 圆形                           &#10;Glide.with($Fragment$.this)&#10;      .load(&quot;$url$&quot;)&#10;    .apply(RequestOptions.circleCropTransform())&#10;    .into($Image$)" description="圆形图片" toReformat="true" toShortenFQNames="true">
+    <variable name="Fragment" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Image" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iiiRound" value="// 圆角边框&#10;MultiTransformation t = new MultiTransformation(new CenterCrop(),&#10;                                                new RoundedCornersTransformation(SizeUtils.dp2px(5f), 0, RoundedCornersTransformation.CornerType.ALL));&#10;RequestOptions requestOptions = new RequestOptions().transform(t);&#10;&#10;Glide.with($Fragment$.this )&#10;    .load(&quot;$url$&quot;)&#10;    .apply(requestOptions)&#10;    .into($Image$);" description="圆角图片" toReformat="true" toShortenFQNames="true">
+    <variable name="Fragment" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Image" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
