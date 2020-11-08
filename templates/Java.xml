@@ -34,4 +34,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiSetupViewPage" value="private void setupViewPager(ViewPager viewPager, TabLayout tabLayout) {&#10;    tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);&#10;    FragmentAdapter fragmentAdapter = new FragmentAdapter(getChildFragmentManager());&#10;    fragmentAdapter.addFragment(&quot;推荐资讯&quot;, new RecommendNewsFragment());&#10;    fragmentAdapter.addFragment(&quot;会员企业&quot;, new RecommendNewsFragment());&#10;    viewPager.setAdapter(fragmentAdapter);&#10;    // 设置监听&#10;    viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout) {&#10;        @Override&#10;        public void onPageSelected(int position) {&#10;            super.onPageSelected(position);&#10;        }&#10;    });&#10;    tabLayout.setupWithViewPager(viewPager);&#10;}" description="Banner" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
