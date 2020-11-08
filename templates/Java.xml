@@ -64,4 +64,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiDialogButtonSheet-底部弹出的选择框" value="DialogPlus dialogPlus = DialogPlus.newDialog(mActivity)&#10;    .setHeader(R.layout.dialog_header)&#10;    .setAdapter(new ArrayAdapter&lt;&gt;(mActivity,&#10;                                   R.layout.dialog_item,&#10;                                   R.id.item,&#10;                                   Arrays.asList(&quot;拍摄&quot;, &quot;从手机相册选择&quot;)))&#10;    .setOnItemClickListener((dialog, item, view, position) -&gt; {&#10;        dialog.dismiss();&#10;        switch ((String) item) {&#10;            case &quot;&quot;:&#10;                break;&#10;            default:&#10;                break;&#10;        }&#10;    })&#10;    .setFooter(R.layout.dialog_footer)&#10;    .setGravity(Gravity.BOTTOM)&#10;    .setMargin(0, 0, 0, 0)&#10;    .setContentHeight(ViewGroup.LayoutParams.WRAP_CONTENT)&#10;    .setContentWidth(ViewGroup.LayoutParams.MATCH_PARENT)&#10;    .create();&#10;dialogPlus.show();&#10;TextView textView = dialogPlus.getHeaderView().findViewById(R.id.header);&#10;textView.setText(&quot;选择城市&quot;);&#10;TextView footer = dialogPlus.getFooterView().findViewById(R.id.footer);&#10;footer.setText(&quot;取消&quot;);&#10;footer.setOnClickListener(v1 -&gt; {&#10;    dialogPlus.dismiss();&#10;});" description="底部弹出的选择框" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
