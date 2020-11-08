@@ -24,4 +24,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiBanner" value="// 初始化banner&#10;BGABanner banner = holder.getView(R.id.banner);&#10;banner.setAdapter((banner1, itemView, model, position1) -&gt; {&#10;    // 绑定图片和点击事件&#10;    Glide.with(HomeFragment.this)&#10;        .load(((Article) model).getHotSuportImage())&#10;        .centerCrop()&#10;        .into((ImageView) itemView);&#10;    itemView.setOnClickListener(view -&gt; {&#10;        // todo banner 点击事件&#10;    });&#10;});&#10;banner.setOnPageChangeListener(new ViewPager.SimpleOnPageChangeListener() {&#10;    // todo banner切换事件&#10;});" description="Banner" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iiiAdapterOne" value="RecyclerView.Adapter&lt;?&gt; adapter = new RecyclerViewAdapter&lt;User&gt;(mActivity, R.layout.item_home, mData) {&#10;    @Override&#10;    protected void convert(@NonNull RecyclerViewHolder holder, @NonNull User data, int position) {&#10;        // todo 在这里绑定列表数据&#10;    }&#10;};&#10;&#10;// header &#10;adapter = new HeaderWrapper&lt;Object&gt;(adapter, 100) {&#10;    @Override&#10;    protected int getItemViewLayoutId() {&#10;        return R.layout.header_home;&#10;    }&#10;&#10;    @Override&#10;    protected void convert(@NonNull RecyclerViewHolder holder, int position) {&#10;        super.convert(holder, position);&#10;    }&#10;};&#10;&#10;// 加载更多&#10;adapter = new LoadMoreWrapper(adapter, this);&#10;return adapter;" description="一种类型的RecyclerView适配器初始化" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
