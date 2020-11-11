@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="税收政策" />
+      <item value="tax" />
       <item value="招商引资" />
       <item value="投资动向" />
       <item value="项目" />
@@ -49,13 +51,11 @@
       <item value="content" />
       <item value="heade" />
       <item value="header" />
-      <item value="foot" />
-      <item value="MODEL ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="707" />
+        <entry key="ENGLISH" value="707" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
