@@ -74,4 +74,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiDialogSelectCity" value="DialogPlus dialogPlus = DialogPlus.newDialog(mActivity)&#10;    .setContentHolder(new ViewHolder(R.layout.dialog_region))&#10;    .setHeader(R.layout.dialog_header_submit_cancel)&#10;    .create();&#10;dialogPlus.show();&#10;&#10;// 初始化滚轮&#10;List&lt;Region&gt; regions = Region.getRegions(mActivity);&#10;WheelView province = dialogPlus.getHolderView().findViewById(R.id.province);&#10;WheelView city = dialogPlus.getHolderView().findViewById(R.id.city);&#10;province.setCyclic(false);&#10;city.setCyclic(false);&#10;province.setAdapter(new ArrayWheelAdapter&lt;&gt;(regions));&#10;city.setAdapter(new ArrayWheelAdapter&lt;&gt;(regions.get(0).getCity()));&#10;province.setOnItemSelectedListener(index -&gt; {&#10;    city.setAdapter(new ArrayWheelAdapter&lt;&gt;(regions.get(index).getCity()));&#10;    city.invalidate();&#10;});&#10;&#10;province.setCurrentItem(0);&#10;&#10;// 确定取消&#10;dialogPlus.getHeaderView().findViewById(R.id.cancel).setOnClickListener(v12 -&gt; dialogPlus.dismiss());&#10;dialogPlus.getHeaderView().findViewById(R.id.confirm).setOnClickListener(v13 -&gt; {&#10;    dialogPlus.dismiss();&#10;    Region region = regions.get(province.getCurrentItem());&#10;    Region.CityBean cityBean = region.getCity().get(city.getCurrentItem());&#10;    filterCity = cityBean.getName();&#10;    headerBind.filterCity.setText(cityBean.getName());&#10;    obtainData(true);&#10;});" description="省份,城市选择" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
