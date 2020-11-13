@@ -79,4 +79,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="iiiRequestWithDialog" value="BlockDialog dialog = BlockDialog.showDialog(mActivity);&#10;Api.create(BeiJingApi.class)&#10;    .theme()&#10;    .retry(timeoutRetry())&#10;    .compose(applySchedulers())&#10;    .compose(bindUntilEvent(FragmentEvent.DESTROY))&#10;    .subscribe(model -&gt; {&#10;        dialog.dismiss();&#10;        if (model.isError()) {&#10;            showToast(model.getMessage());&#10;            return;&#10;        }&#10;        // todo 服务调用成功后的处理&#10;    }, throwable -&gt; {&#10;        dialog.dismiss();&#10;        showToast(throwable.getMessage());&#10;        Timber.e(throwable);&#10;    });" description="请求服务并展示对话框" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
