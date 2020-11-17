@@ -56,10 +56,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="iiiRound" value="// 圆角边框&#10;MultiTransformation t = new MultiTransformation(new CenterCrop(),&#10;                                                new RoundedCornersTransformation(SizeUtils.dp2px(5f), 0, RoundedCornersTransformation.CornerType.ALL));&#10;RequestOptions requestOptions = new RequestOptions().transform(t);&#10;&#10;Glide.with($Fragment$.this )&#10;    .load(&quot;$url$&quot;)&#10;    .apply(requestOptions)&#10;    .into($Image$);" description="圆角图片" toReformat="true" toShortenFQNames="true">
-    <variable name="Fragment" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Image" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="iiiRound" value="// 圆角边框&#10;RoundedCornersTransformation r = new RoundedCornersTransformation(SizeUtils.dp2px(5f), 0);&#10;MultiTransformation&lt;Bitmap&gt; t = new MultiTransformation&lt;&gt;(new CenterCrop(), r);&#10;RequestOptions requestOptions = new RequestOptions().transform(t);&#10;&#10;// 绑定图片和点击事件&#10;Glide.with(HomeHubFragment.this)&#10;    .load(((Banner) model).getAdPic())&#10;    .apply(requestOptions)&#10;    .into((ImageView) itemView);" description="圆角图片" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
