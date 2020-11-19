@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BEHAVIOR SET USER VISIBLE HINT" />
+      <item value="BEHAVIOR RESUME ONLY CURRENT FRAGMENT" />
       <item value="datum" />
       <item value="税收政策" />
       <item value="tax" />
@@ -49,13 +51,11 @@
       <item value="后缀" />
       <item value="前缀" />
       <item value="operation" />
-      <item value="content" />
-      <item value="heade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="707" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="709" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
