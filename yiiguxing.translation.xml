@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guide" />
       <item value="embedding" />
       <item value="INSTALL FAILED SHARED USER INCOMPATIBLE" />
       <item value="normalized Number" />
@@ -50,12 +51,11 @@
       <item value="商店" />
       <item value="积分" />
       <item value="我的" />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="CHINESE" value="713" />
+        <entry key="ENGLISH" value="714" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
