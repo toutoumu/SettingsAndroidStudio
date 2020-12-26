@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="Constant" />
       <item value="Whether the decoration is the same size as the input field." />
       <item value="Whether to show or hide a child. By default, the [visible] property controls whether the [child] is included in the subtree or not; when it is not [visible], the [replacement] child (typically a zero-sized box) is included instead. A variety of flags can be used to tweak exactly how the child is hidden. (Changing the flags dynamically is discouraged, as it can cause the [child] subtree to be rebuilt, with any state in the subtree being discarded. Typically, only the [visible] flag is changed dynamically.) These widgets provide some of the facets of this one: [Opacity], which can stop its child from being painted. [Offstage], which can stop its child from being laid out or painted. [TickerMode], which can stop its child from being animated. [ExcludeSemantics], which can hide the child from accessibility tools. [IgnorePointer], which can disable touch interactions with the child. Using this widget is not necessary to hide children. The simplest way to hide a child is just to not include it, or, if a child _must_ be given (e.g. because the parent is a [StatelessWidget]) then to use [SizedBox.shrink] instead of the child that would otherwise be included. See also: [AnimatedSwitcher], which can fade from one child to the next as the subtree changes. [AnimatedCrossFade], which can fade between two specific children." />
@@ -50,12 +51,11 @@
       <item value="社群" />
       <item value="个性" />
       <item value="礼物" />
-      <item value="reserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="716" />
-        <entry key="ENGLISH" value="717" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
