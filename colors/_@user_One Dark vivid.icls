@@ -4,7 +4,7 @@
     <property name="created">2020-07-04T18:33:20</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-10-13T17:20:29</property>
+    <property name="modified">2020-12-27T16:24:52</property>
     <property name="originalScheme">One Dark vivid</property>
   </metaInfo>
   <console-font>
@@ -34,7 +34,7 @@
     <option name="DIAGRAM_NOTE_BORDER" value="5c6370" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="89ca78" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
-    <option name="DOCUMENTATION_COLOR" value="3d424b" />
+    <option name="DOCUMENTATION_COLOR" value="3b4c57" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -51,6 +51,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
+    <option name="PROMOTION_PANE" value="3b4c57" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
