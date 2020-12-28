@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consults the current route's [Route.willPop] method, and acts accordingly, potentially popping the route as a result; returns whether the pop request should be considered handled. {@template flutter.widgets.navigator.maybePop} If [Route.willPop] returns [RoutePopDisposition.pop], then the [pop] method is called, and this method returns true, indicating that it handled the pop request. If [Route.willPop] returns [RoutePopDisposition.doNotPop], then this method returns true, but does not do anything beyond that. If [Route.willPop] returns [RoutePopDisposition.bubble], then this method returns false, and the caller is responsible for sending the request to the containing scope (e.g. by closing the application). This method is typically called for a user-initiated [pop]. For example on Android it's called by the binding for the system's back button. The `T` type argument is the type of the return value of the current route. (Typically this isn't known; consider specifying `dynamic` or `Null`.) {@endtemplate} See also: [Form], which provides an `onWillPop` callback that enables the form to veto a [pop] initiated by the app's back button. [ModalRoute], which provides a `scopedWillPopCallback` that can be used to define the route's `willPop` method." />
+      <item value="unrestricted" />
       <item value="is Scroll Controlled" />
       <item value="shrink Wrap" />
       <item value="separated" />
@@ -49,13 +51,11 @@
       <item value="follow closely" />
       <item value="关注" />
       <item value="MILLISECONDS" />
-      <item value="exhausted" />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="724" />
+        <entry key="ENGLISH" value="725" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
