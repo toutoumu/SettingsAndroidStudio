@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Show the refresh indicator and run the refresh callback as if it had been started interactively. If this method is called while the refresh callback is running, it quietly does nothing. Creating the [RefreshIndicator] with a [GlobalKey&lt;RefreshIndicatorState&gt;] makes it possible to refer to the [RefreshIndicatorState]. The future returned from this method completes when the [RefreshIndicator.onRefresh] callback's future completes. If you await the future returned by this function from a [State], you should check that the state is still [mounted] before calling [setState]. When initiated in this manner, the refresh indicator is independent of any actual scroll view. It defaults to showing the indicator at the top. To show it at the bottom, set `atTop` to false." />
       <item value="The domain of where to find the error code. This field is only available on iOS and represents a &quot;domain&quot; from where the [errorCode] is from. This value is taken directly from an `NSError` in Objective-C. See https:developer.apple.comlibraryarchivedocumentationCocoaConceptualErrorHandlingCocoaErrorObjectsDomainsErrorObjectsDomains.html for more information on error handling on iOS." />
       <item value="Description of the error that can be used to communicate the problem to the user." />
       <item value="Gets the URL for which the resource request was made. This value is not provided on iOS. Alternatively, you can keep track of the last values provided to [WebViewPlatformController.loadUrl]." />
@@ -50,12 +51,11 @@
       <item value="商品" />
       <item value="Goose" />
       <item value="terminated" />
-      <item value="兑换记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608776215043" />
+    <option name="lastTrimTime" value="1609248986133" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
