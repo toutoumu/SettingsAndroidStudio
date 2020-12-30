@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Performs an operation repeatedly until it returns `false`. The operation, [action], may be either synchronous or asynchronous. The operation is called repeatedly as long as it returns either the [bool] value `true` or a `Future&lt;bool&gt;` which completes with the value `true`. If a call to [action] returns `false` or a [Future] that completes to `false`, iteration ends and the future returned by [doWhile] is completed with a `null` value. If a call to [action] throws or a future returned by [action] completes with an error, iteration ends and the future returned by [doWhile] completes with the same error. Calls to [action] may happen at any time, including immediately after calling `doWhile`. The only restriction is a new call to [action] won't happen before the previous call has returned, and if it returned a `Future&lt;bool&gt;`, not until that future has completed." />
+      <item value="Waits for multiple futures to complete and collects their results. Returns a future which will complete once all the provided futures have completed, either with their results, or with an error if any of the provided futures fail. The value of the returned future will be a list of all the values that were produced in the order that the futures are provided by iterating [futures]. If any future completes with an error, then the returned future completes with that error. If further futures also complete with errors, those errors are discarded. If `eagerError` is true, the returned future completes with an error immediately on the first error from one of the futures. Otherwise all futures must complete before the returned future is completed (still with the first error; the remaining errors are silently dropped). In the case of an error, [cleanUp] (if provided), is invoked on any non-null result of successful futures. This makes it possible to `cleanUp` resources that would otherwise be lost (since the returned future does not provide access to these values). The [cleanUp] function is unused if there is no error. The call to [cleanUp] should not throw. If it does, the error will be an uncaught asynchronous error." />
+      <item value="Returns the result of the first future in [futures] to complete. The returned future is completed with the result of the first future in [futures] to report that it is complete, whether it's with a value or an error. The results of all the other futures are discarded. If [futures] is empty, or if none of its futures complete, the returned future never completes." />
       <item value="Refresh" />
       <item value="Show the refresh indicator and run the refresh callback as if it had been started interactively. If this method is called while the refresh callback is running, it quietly does nothing. Creating the [RefreshIndicator] with a [GlobalKey&lt;RefreshIndicatorState&gt;] makes it possible to refer to the [RefreshIndicatorState]. The future returned from this method completes when the [RefreshIndicator.onRefresh] callback's future completes. If you await the future returned by this function from a [State], you should check that the state is still [mounted] before calling [setState]. When initiated in this manner, the refresh indicator is independent of any actual scroll view. It defaults to showing the indicator at the top. To show it at the bottom, set `atTop` to false." />
       <item value="The domain of where to find the error code. This field is only available on iOS and represents a &quot;domain&quot; from where the [errorCode] is from. This value is taken directly from an `NSError` in Objective-C. See https:developer.apple.comlibraryarchivedocumentationCocoaConceptualErrorHandlingCocoaErrorObjectsDomainsErrorObjectsDomains.html for more information on error handling on iOS." />
@@ -48,14 +51,11 @@
       <item value="deprecated" />
       <item value="caret" />
       <item value="Inspection" />
-      <item value="货物" />
-      <item value="商品" />
-      <item value="Goose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="735" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
