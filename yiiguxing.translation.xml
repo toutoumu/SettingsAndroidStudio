@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resource belongs to video capture device, like camera." />
+      <item value="Resource belongs to protected media identifier. After the user grants this resource, the origin can use EME APIs to generate the license requests." />
       <item value="'This is the term used in the 2014 version of material design. The modern term is subtitle1. ' 'This feature was deprecated after v1.13.8.'" />
       <item value="Performs an operation repeatedly until it returns `false`. The operation, [action], may be either synchronous or asynchronous. The operation is called repeatedly as long as it returns either the [bool] value `true` or a `Future&lt;bool&gt;` which completes with the value `true`. If a call to [action] returns `false` or a [Future] that completes to `false`, iteration ends and the future returned by [doWhile] is completed with a `null` value. If a call to [action] throws or a future returned by [action] completes with an error, iteration ends and the future returned by [doWhile] completes with the same error. Calls to [action] may happen at any time, including immediately after calling `doWhile`. The only restriction is a new call to [action] won't happen before the previous call has returned, and if it returned a `Future&lt;bool&gt;`, not until that future has completed." />
       <item value="Waits for multiple futures to complete and collects their results. Returns a future which will complete once all the provided futures have completed, either with their results, or with an error if any of the provided futures fail. The value of the returned future will be a list of all the values that were produced in the order that the futures are provided by iterating [futures]. If any future completes with an error, then the returned future completes with that error. If further futures also complete with errors, those errors are discarded. If `eagerError` is true, the returned future completes with an error immediately on the first error from one of the futures. Otherwise all futures must complete before the returned future is completed (still with the first error; the remaining errors are silently dropped). In the case of an error, [cleanUp] (if provided), is invoked on any non-null result of successful futures. This makes it possible to `cleanUp` resources that would otherwise be lost (since the returned future does not provide access to these values). The [cleanUp] function is unused if there is no error. The call to [cleanUp] should not throw. If it does, the error will be an uncaught asynchronous error." />
@@ -49,13 +51,11 @@
       <item value="介绍" />
       <item value="lint Vital移动平板阿里云Release" />
       <item value="migration Version" />
-      <item value="deprecated" />
-      <item value="caret" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="737" />
+        <entry key="ENGLISH" value="738" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
