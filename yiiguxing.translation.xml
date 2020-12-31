@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="footer" />
       <item value="Resource belongs to video capture device, like camera." />
       <item value="Resource belongs to protected media identifier. After the user grants this resource, the origin can use EME APIs to generate the license requests." />
       <item value="'This is the term used in the 2014 version of material design. The modern term is subtitle1. ' 'This feature was deprecated after v1.13.8.'" />
@@ -50,12 +51,11 @@
       <item value="推荐" />
       <item value="介绍" />
       <item value="lint Vital移动平板阿里云Release" />
-      <item value="migration Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
