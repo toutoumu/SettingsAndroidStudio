@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="System Chrome" />
+      <item value="Controls specific aspects of the operating system's graphical interface and how it interacts with the application." />
+      <item value="Specifies the set of system overlays to have visible when the application is running." />
       <item value="footer" />
       <item value="Resource belongs to video capture device, like camera." />
       <item value="Resource belongs to protected media identifier. After the user grants this resource, the origin can use EME APIs to generate the license requests." />
@@ -48,14 +51,11 @@
       <item value="header View" />
       <item value="会员企业" />
       <item value="企业" />
-      <item value="推荐" />
-      <item value="介绍" />
-      <item value="lint Vital移动平板阿里云Release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
