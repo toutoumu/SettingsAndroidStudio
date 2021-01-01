@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Slivers" />
       <item value="System Chrome" />
       <item value="Controls specific aspects of the operating system's graphical interface and how it interacts with the application." />
       <item value="Specifies the set of system overlays to have visible when the application is running." />
@@ -50,12 +51,11 @@
       <item value="项目投资" />
       <item value="header View" />
       <item value="会员企业" />
-      <item value="企业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="743" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
