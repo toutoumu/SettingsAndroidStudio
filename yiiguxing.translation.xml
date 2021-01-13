@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sliver" />
       <item value="Sliver Fill Remaining" />
       <item value="Slivers" />
       <item value="System Chrome" />
@@ -50,12 +51,11 @@
       <item value="Conference" />
       <item value="招商会议" />
       <item value="项目投资" />
-      <item value="header View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
@@ -71,9 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609248986133" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1610530967124" />
   </component>
 </application>
