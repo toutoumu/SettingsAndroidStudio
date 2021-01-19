@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate key value violates unique constraint &quot;pk_account&quot;" />
       <item value="Called when the current route has been popped off." />
       <item value="Called when the current route has been pushed." />
       <item value="did Push" />
@@ -50,12 +51,11 @@
       <item value="guide" />
       <item value="embedding" />
       <item value="INSTALL FAILED SHARED USER INCOMPATIBLE" />
-      <item value="normalized Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
