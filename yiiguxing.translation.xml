@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pocket" />
+      <item value="Sku" />
       <item value="Drug" />
       <item value="apply Debouching Click Listener" />
       <item value="debouching Click" />
@@ -49,16 +51,14 @@
       <item value="Paged" />
       <item value="Fetch" />
       <item value="Always Scrollable Scroll Physics" />
-      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
-      <item value="Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="766" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="3" />
+        <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
