@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pocket" />
       <item value="pocket" />
       <item value="Sku" />
       <item value="Drug" />
@@ -50,12 +51,11 @@
       <item value="separated" />
       <item value="Paged" />
       <item value="Fetch" />
-      <item value="Always Scrollable Scroll Physics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="766" />
+        <entry key="ENGLISH" value="767" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
