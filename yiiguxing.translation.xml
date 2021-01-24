@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prescription Drug Audit Item Provider" />
       <item value="Pocket" />
       <item value="pocket" />
       <item value="Sku" />
@@ -50,12 +51,11 @@
       <item value="shrink Wrap" />
       <item value="separated" />
       <item value="Paged" />
-      <item value="Fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611048071991" />
+    <option name="lastTrimTime" value="1611487863958" />
   </component>
 </application>
