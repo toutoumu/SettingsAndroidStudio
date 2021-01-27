@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PULL DOWN" />
+      <item value="SILENCE" />
+      <item value="debouching Click" />
       <item value="简介" />
       <item value="association" />
       <item value="协会" />
@@ -13,7 +16,6 @@
       <item value="Sku" />
       <item value="Drug" />
       <item value="apply Debouching Click Listener" />
-      <item value="debouching Click" />
       <item value="init Immersion Bar" />
       <item value="Parcelize" />
       <item value="Coroutine" />
@@ -52,13 +54,11 @@
       <item value="Invoked when a web resource has failed to load. This can be called for any resource (iframe, image, etc.), not just for the main page." />
       <item value="Invoked when a page has finished loading. This is invoked only for the main frame. When [onPageFinished] is invoked on Android, the page being rendered may not be updated yet. When invoked on iOS or Android, any Javascript code that is embedded directly in the HTML has been loaded and code injected with [WebViewController.evaluateJavascript] can assume this." />
       <item value="Consults the current route's [Route.willPop] method, and acts accordingly, potentially popping the route as a result; returns whether the pop request should be considered handled. {@template flutter.widgets.navigator.maybePop} If [Route.willPop] returns [RoutePopDisposition.pop], then the [pop] method is called, and this method returns true, indicating that it handled the pop request. If [Route.willPop] returns [RoutePopDisposition.doNotPop], then this method returns true, but does not do anything beyond that. If [Route.willPop] returns [RoutePopDisposition.bubble], then this method returns false, and the caller is responsible for sending the request to the containing scope (e.g. by closing the application). This method is typically called for a user-initiated [pop]. For example on Android it's called by the binding for the system's back button. The `T` type argument is the type of the return value of the current route. (Typically this isn't known; consider specifying `dynamic` or `Null`.) {@endtemplate} See also: [Form], which provides an `onWillPop` callback that enables the form to veto a [pop] initiated by the app's back button. [ModalRoute], which provides a `scopedWillPopCallback` that can be used to define the route's `willPop` method." />
-      <item value="unrestricted" />
-      <item value="is Scroll Controlled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="769" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="772" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
