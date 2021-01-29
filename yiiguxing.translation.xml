@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prescription Drug" />
+      <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
       <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
       <item value="Pending Fragment" />
       <item value="PULL DOWN" />
@@ -52,13 +54,11 @@
       <item value="Show the refresh indicator and run the refresh callback as if it had been started interactively. If this method is called while the refresh callback is running, it quietly does nothing. Creating the [RefreshIndicator] with a [GlobalKey&lt;RefreshIndicatorState&gt;] makes it possible to refer to the [RefreshIndicatorState]. The future returned from this method completes when the [RefreshIndicator.onRefresh] callback's future completes. If you await the future returned by this function from a [State], you should check that the state is still [mounted] before calling [setState]. When initiated in this manner, the refresh indicator is independent of any actual scroll view. It defaults to showing the indicator at the top. To show it at the bottom, set `atTop` to false." />
       <item value="The domain of where to find the error code. This field is only available on iOS and represents a &quot;domain&quot; from where the [errorCode] is from. This value is taken directly from an `NSError` in Objective-C. See https:developer.apple.comlibraryarchivedocumentationCocoaConceptualErrorHandlingCocoaErrorObjectsDomainsErrorObjectsDomains.html for more information on error handling on iOS." />
       <item value="Description of the error that can be used to communicate the problem to the user." />
-      <item value="Gets the URL for which the resource request was made. This value is not provided on iOS. Alternatively, you can keep track of the last values provided to [WebViewPlatformController.loadUrl]." />
-      <item value="Invoked when a web resource has failed to load. This can be called for any resource (iframe, image, etc.), not just for the main page." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="776" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
