@@ -4,10 +4,12 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="NOT APPROVED" />
-      <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
-      <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
       <item value="APPROVED" />
+      <item value="NOT APPROVED" />
+      <item value="Prescription Drug Audit Details Fragment" />
+      <item value="EVENT DRUG ORDER DETAILS REPLACE FRAGMENT KEY" />
+      <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
+      <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
       <item value="PENDING REVIEW" />
       <item value="PENDING" />
       <item value="diseases History" />
@@ -52,13 +54,11 @@
       <item value="Slivers" />
       <item value="System Chrome" />
       <item value="Controls specific aspects of the operating system's graphical interface and how it interacts with the application." />
-      <item value="Specifies the set of system overlays to have visible when the application is running." />
-      <item value="footer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="794" />
+        <entry key="CHINESE" value="798" />
+        <entry key="ENGLISH" value="799" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
