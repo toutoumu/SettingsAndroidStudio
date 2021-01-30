@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NOT APPROVED" />
+      <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
+      <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
+      <item value="APPROVED" />
+      <item value="PENDING REVIEW" />
+      <item value="PENDING" />
       <item value="diseases History" />
       <item value="real name" />
       <item value="Prescription Drug Audit Details Processed Fragment" />
@@ -11,8 +17,6 @@
       <item value="PRESCRIPTION DRUG AUDIT" />
       <item value="PROCESSED" />
       <item value="prescription Drug" />
-      <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
-      <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
       <item value="Pending Fragment" />
       <item value="PULL DOWN" />
       <item value="SILENCE" />
@@ -50,15 +54,11 @@
       <item value="Controls specific aspects of the operating system's graphical interface and how it interacts with the application." />
       <item value="Specifies the set of system overlays to have visible when the application is running." />
       <item value="footer" />
-      <item value="Resource belongs to video capture device, like camera." />
-      <item value="Resource belongs to protected media identifier. After the user grants this resource, the origin can use EME APIs to generate the license requests." />
-      <item value="'This is the term used in the 2014 version of material design. The modern term is subtitle1. ' 'This feature was deprecated after v1.13.8.'" />
-      <item value="Performs an operation repeatedly until it returns `false`. The operation, [action], may be either synchronous or asynchronous. The operation is called repeatedly as long as it returns either the [bool] value `true` or a `Future&lt;bool&gt;` which completes with the value `true`. If a call to [action] returns `false` or a [Future] that completes to `false`, iteration ends and the future returned by [doWhile] is completed with a `null` value. If a call to [action] throws or a future returned by [action] completes with an error, iteration ends and the future returned by [doWhile] completes with the same error. Calls to [action] may happen at any time, including immediately after calling `doWhile`. The only restriction is a new call to [action] won't happen before the previous call has returned, and if it returned a `Future&lt;bool&gt;`, not until that future has completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
