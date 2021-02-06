@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns an Observable that emits only the first item emitted by the source ObservableSource during sequential time windows of a specified duration." />
       <item value="The time span." />
       <item value="association" />
       <item value="hangup" />
@@ -53,12 +54,11 @@
       <item value="Mix-in [DiagnosticableTreeMixin] to have access to [debugFillProperties] for the devtool" />
       <item value="Displays an Android View that continues showing the launch screen Drawable until Flutter paints its first frame, then this splash screen fades out. A splash screen is useful to avoid any visual gap between the end of Android's launch screen and the painting of Flutter's first frame." />
       <item value="Specifies an Android theme to apply to this Activity as soon as the Android process has started. This theme is visible to the user while the Flutter UI initializes. After that, this theme continues to determine the Window background behind the Flutter UI." />
-      <item value="advised" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="813" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
