@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is External Storage Manager" />
       <item value="Member Company" />
       <item value="Base class for activities that enables composition of higher level components. &lt;p&gt; Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components." />
       <item value="Courses Fragment" />
@@ -53,12 +54,11 @@
       <item value="Called when the current route has been popped off." />
       <item value="Called when the current route has been pushed." />
       <item value="did Push" />
-      <item value="app State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="CHINESE" value="819" />
+        <entry key="ENGLISH" value="820" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612514064510" />
+    <option name="lastTrimTime" value="1613114997949" />
   </component>
 </application>
