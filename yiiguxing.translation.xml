@@ -5,6 +5,7 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="Preparation Pharmacy Quick Activity" />
+      <item value="cy Activity::class.java)" />
       <item value="Quick Drug Order Details Add Online Shopping Mall Activity" />
       <item value="Quick Drug Order Details Add Chinese Medicine Mall Activity" />
       <item value="Quick Drug Order Details Add Preparation Pharmacy Activity" />
@@ -53,12 +54,11 @@
       <item value="Prescription Drug Audit Item Provider" />
       <item value="Pocket" />
       <item value="pocket" />
-      <item value="Sku" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="828" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
