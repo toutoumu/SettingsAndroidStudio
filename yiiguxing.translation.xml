@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Tv Order End Consultation" />
+      <item value="Serving Fragment" />
       <item value="SILENCE" />
       <item value="income New Instance" />
       <item value="The number of digits allowed in the fraction portion of value." />
@@ -52,13 +54,11 @@
       <item value="Prescription Drug Audit Details Processed Fragment" />
       <item value="Prescription Drug Audit Details Pending Process Fragment" />
       <item value="PRESCRIPTION DRUG AUDIT" />
-      <item value="prescription Drug" />
-      <item value="Pending Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
