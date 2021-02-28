@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The creator for the connection implemented with the okhttp3." />
+      <item value="Trust Any Trust Manager" />
       <item value="goods List" />
       <item value="is Push Retreat Price" />
       <item value="m Tv Order End Consultation" />
@@ -52,13 +54,11 @@
       <item value="PRESCRIPTION DRUG AUDIT DETAILS TYPE" />
       <item value="PENDING" />
       <item value="diseases History" />
-      <item value="real name" />
-      <item value="Prescription Drug Audit Details Processed Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="841" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="843" />
+        <entry key="ENGLISH" value="844" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
