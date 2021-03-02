@@ -4,8 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="get Logistics Info" />
+      <item value="pass Audit" />
       <item value="pass After Sale" />
+      <item value="get Logistics Info" />
       <item value="trello" />
       <item value="The creator for the connection implemented with the okhttp3." />
       <item value="Trust Any Trust Manager" />
@@ -53,12 +54,11 @@
       <item value="NOT APPROVED" />
       <item value="Prescription Drug Audit Details Fragment" />
       <item value="EVENT DRUG ORDER DETAILS REPLACE FRAGMENT KEY" />
-      <item value="EVENT PRESCRIPTION DRUG AUDIT DETAILS REPLACE FRAGMENT KEY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
