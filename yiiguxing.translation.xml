@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active. &lt;p&gt; If the observer was already added with an owner to this LiveData, LiveData throws an" />
       <item value="This scope is bound to [Dispatchers.Main.immediate][kotlinx.coroutines.MainCoroutineDispatcher.immediate]" />
       <item value="This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called" />
       <item value="[CoroutineScope] tied to this [ViewModel]." />
@@ -53,12 +54,11 @@
       <item value="Gregorian Calendar" />
       <item value="VIEW EVALUATION ENABLE" />
       <item value="EVALUATION MANAGEMENT" />
-      <item value="VIEW EVALUATION DISABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
