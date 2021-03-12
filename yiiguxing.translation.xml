@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
       <item value="determine" />
       <item value="Coroutine Scope" />
       <item value="immediate" />
@@ -53,12 +54,11 @@
       <item value="VIEW EVALUATION DISABLE" />
       <item value="prescription Pharmacist Audit" />
       <item value="PROCESSED" />
-      <item value="APPROVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
