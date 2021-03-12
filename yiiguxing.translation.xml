@@ -4,11 +4,6 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active. &lt;p&gt; If the observer was already added with an owner to this LiveData, LiveData throws an" />
-      <item value="This scope is bound to [Dispatchers.Main.immediate][kotlinx.coroutines.MainCoroutineDispatcher.immediate]" />
-      <item value="This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called" />
-      <item value="[CoroutineScope] tied to this [ViewModel]." />
-      <item value="The number of digits allowed in the fraction portion of value." />
       <item value="determine" />
       <item value="Coroutine Scope" />
       <item value="immediate" />
@@ -25,6 +20,7 @@
       <item value="Serving Fragment" />
       <item value="SILENCE" />
       <item value="income New Instance" />
+      <item value="The number of digits allowed in the fraction portion of value." />
       <item value="The minimum number of digits allowed in the integer portion of value." />
       <item value="True to set grouping will be used in this format, false otherwise." />
       <item value="exclude From Recents" />
@@ -54,11 +50,15 @@
       <item value="Gregorian Calendar" />
       <item value="VIEW EVALUATION ENABLE" />
       <item value="EVALUATION MANAGEMENT" />
+      <item value="VIEW EVALUATION DISABLE" />
+      <item value="prescription Pharmacist Audit" />
+      <item value="PROCESSED" />
+      <item value="APPROVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
