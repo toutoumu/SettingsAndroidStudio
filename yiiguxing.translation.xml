@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="FAIL ON PROJECT REPOS" />
       <item value="A layout composable that places its children in a horizontal sequence. For a layout composable that places its children in a vertical sequence, see [Column]. For a layout that places children in a horizontal sequence and is also scrollable, see `ScrollableRow`. For a horizontally scrollable list that only composes and lays out the currently visible items see `LazyRow`. The [Row] layout is able to assign children widths according to their weights provided using the [RowScope.weight] modifier. If a child is not provided a weight, it will be asked for its preferred width before the sizes of the children with weights are calculated proportionally to their weight based on the remaining available space. When none of its children have weights, a [Row] will be as small as possible to fit its children one next to the other. In order to change the width of the [Row], use the [Modifier.requiredWidth] modifiers; e.g. to make it fill the available width [Modifier.fillMaxWidth] can be used. If at least one child of a [Row] has a [weight][RowScope.weight], the [Row] will fill the available width, so there is no need for [Modifier.fillMaxWidth]. However, if [Row]'s size should be limited, the [Modifier.requiredWidth] or [Modifier.requiredSize] layout modifiers should be applied. When the size of the [Row] is larger than the sum of its children sizes, a [horizontalArrangement] can be specified to define the positioning of the children inside the [Row]. See [Arrangement] for available positioning behaviors; a custom arrangement can also be defined using the constructor of [Arrangement]." />
       <item value="recreating" />
       <item value="Bottom" />
@@ -53,12 +54,11 @@
       <item value="delay Millis" />
       <item value="Gregorian Calendar" />
       <item value="VIEW EVALUATION ENABLE" />
-      <item value="EVALUATION MANAGEMENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
