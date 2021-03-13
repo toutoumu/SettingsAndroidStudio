@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="surface" />
       <item value="mutable State Of" />
       <item value="Changes to the provided initial values will not result in the state being recreated or changed in any way if it has already been created." />
       <item value="remember Lazy List State" />
@@ -53,7 +54,6 @@
       <item value="association" />
       <item value="hangup" />
       <item value="mute Local Audio" />
-      <item value="Millis" />
     </histories>
     <option name="languageScores">
       <map>
