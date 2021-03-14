@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Allow the content to measure at its desired width without regard for the incoming measurement [minimum width constraint][Constraints.minWidth], and, if [unbounded] is true, also without regard for the incoming measurement [maximum width constraint][Constraints.maxWidth]. If the content's measured size is smaller than the minimum width constraint, [align] it within that minimum width space. If the content's measured size is larger than the maximum width constraint (only possible when [unbounded] is true), [align] over the maximum width space." />
+      <item value="Declare the preferred width of the content to be the same as the min or max intrinsic width of the content. The incoming measurement [Constraints] may override this value, forcing the content to be either smaller or larger." />
+      <item value="intrinsic Size" />
       <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
       <item value="propagate Min Constraints" />
       <item value="Typography" />
@@ -51,14 +54,11 @@
       <item value="咨询" />
       <item value="clinic Count" />
       <item value="is External Storage Manager" />
-      <item value="Member Company" />
-      <item value="Base class for activities that enables composition of higher level components. &lt;p&gt; Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components." />
-      <item value="Courses Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="ESTONIAN" value="2" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
