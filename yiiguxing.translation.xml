@@ -4,27 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="隐私政策" />
-      <item value="协议" />
-      <item value="This [Box] will fill maximum size, which is specified by the [Placeholder] above. Notice the width and height in [Placeholder] are specified in TextUnit, and are converted into pixel by text layout." />
-      <item value="surface" />
-      <item value="secondary Variant" />
-      <item value="Allow the content to measure at its desired width without regard for the incoming measurement [minimum width constraint][Constraints.minWidth], and, if [unbounded] is true, also without regard for the incoming measurement [maximum width constraint][Constraints.maxWidth]. If the content's measured size is smaller than the minimum width constraint, [align] it within that minimum width space. If the content's measured size is larger than the maximum width constraint (only possible when [unbounded] is true), [align] over the maximum width space." />
-      <item value="Declare the preferred width of the content to be the same as the min or max intrinsic width of the content. The incoming measurement [Constraints] may override this value, forcing the content to be either smaller or larger." />
-      <item value="intrinsic Size" />
       <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
-      <item value="propagate Min Constraints" />
-      <item value="Typography" />
-      <item value="overline" />
-      <item value="Shapes" />
-      <item value="Rounded Corner Shape" />
-      <item value="mutable State Of" />
-      <item value="Changes to the provided initial values will not result in the state being recreated or changed in any way if it has already been created." />
-      <item value="remember Lazy List State" />
-      <item value="FAIL ON PROJECT REPOS" />
-      <item value="A layout composable that places its children in a horizontal sequence. For a layout composable that places its children in a vertical sequence, see [Column]. For a layout that places children in a horizontal sequence and is also scrollable, see `ScrollableRow`. For a horizontally scrollable list that only composes and lays out the currently visible items see `LazyRow`. The [Row] layout is able to assign children widths according to their weights provided using the [RowScope.weight] modifier. If a child is not provided a weight, it will be asked for its preferred width before the sizes of the children with weights are calculated proportionally to their weight based on the remaining available space. When none of its children have weights, a [Row] will be as small as possible to fit its children one next to the other. In order to change the width of the [Row], use the [Modifier.requiredWidth] modifiers; e.g. to make it fill the available width [Modifier.fillMaxWidth] can be used. If at least one child of a [Row] has a [weight][RowScope.weight], the [Row] will fill the available width, so there is no need for [Modifier.fillMaxWidth]. However, if [Row]'s size should be limited, the [Modifier.requiredWidth] or [Modifier.requiredSize] layout modifiers should be applied. When the size of the [Row] is larger than the sum of its children sizes, a [horizontalArrangement] can be specified to define the positioning of the children inside the [Row]. See [Arrangement] for available positioning behaviors; a custom arrangement can also be defined using the constructor of [Arrangement]." />
-      <item value="recreating" />
-      <item value="Bottom" />
       <item value="determine" />
       <item value="Coroutine Scope" />
       <item value="immediate" />
@@ -54,12 +34,32 @@
       <item value="Quick Drug Order Details Add Preparation Pharmacy Activity" />
       <item value="Online Shopping Mall Quick Activity" />
       <item value="Chinese Medicine Mall Quick Activity" />
+      <item value="Inquiry Details Diagnostic Info" />
+      <item value="咨询" />
+      <item value="clinic Count" />
+      <item value="is External Storage Manager" />
+      <item value="Member Company" />
+      <item value="Base class for activities that enables composition of higher level components. &lt;p&gt; Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components." />
+      <item value="Courses Fragment" />
+      <item value="Returns an Observable that emits only the first item emitted by the source ObservableSource during sequential time windows of a specified duration." />
+      <item value="The time span." />
+      <item value="association" />
+      <item value="hangup" />
+      <item value="mute Local Audio" />
+      <item value="Millis" />
+      <item value="delay Millis" />
+      <item value="Gregorian Calendar" />
+      <item value="VIEW EVALUATION ENABLE" />
+      <item value="EVALUATION MANAGEMENT" />
+      <item value="VIEW EVALUATION DISABLE" />
+      <item value="prescription Pharmacist Audit" />
+      <item value="PROCESSED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="875" />
-        <entry key="ENGLISH" value="875" />
-        <entry key="ESTONIAN" value="2" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615553857350" />
+    <option name="lastTrimTime" value="1615114146705" />
   </component>
 </application>
