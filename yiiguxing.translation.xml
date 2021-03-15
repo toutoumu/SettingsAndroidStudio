@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="隐私政策" />
+      <item value="协议" />
       <item value="This [Box] will fill maximum size, which is specified by the [Placeholder] above. Notice the width and height in [Placeholder] are specified in TextUnit, and are converted into pixel by text layout." />
       <item value="surface" />
       <item value="secondary Variant" />
@@ -52,13 +54,11 @@
       <item value="Quick Drug Order Details Add Preparation Pharmacy Activity" />
       <item value="Online Shopping Mall Quick Activity" />
       <item value="Chinese Medicine Mall Quick Activity" />
-      <item value="Inquiry Details Diagnostic Info" />
-      <item value="咨询" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="873" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="875" />
+        <entry key="ENGLISH" value="875" />
         <entry key="ESTONIAN" value="2" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
