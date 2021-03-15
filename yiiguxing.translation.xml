@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="surface" />
+      <item value="secondary Variant" />
       <item value="Allow the content to measure at its desired width without regard for the incoming measurement [minimum width constraint][Constraints.minWidth], and, if [unbounded] is true, also without regard for the incoming measurement [maximum width constraint][Constraints.maxWidth]. If the content's measured size is smaller than the minimum width constraint, [align] it within that minimum width space. If the content's measured size is larger than the maximum width constraint (only possible when [unbounded] is true), [align] over the maximum width space." />
       <item value="Declare the preferred width of the content to be the same as the min or max intrinsic width of the content. The incoming measurement [Constraints] may override this value, forcing the content to be either smaller or larger." />
       <item value="intrinsic Size" />
@@ -13,7 +15,6 @@
       <item value="overline" />
       <item value="Shapes" />
       <item value="Rounded Corner Shape" />
-      <item value="surface" />
       <item value="mutable State Of" />
       <item value="Changes to the provided initial values will not result in the state being recreated or changed in any way if it has already been created." />
       <item value="remember Lazy List State" />
@@ -53,12 +54,11 @@
       <item value="Inquiry Details Diagnostic Info" />
       <item value="咨询" />
       <item value="clinic Count" />
-      <item value="is External Storage Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="870" />
-        <entry key="ENGLISH" value="871" />
+        <entry key="CHINESE" value="872" />
+        <entry key="ENGLISH" value="873" />
         <entry key="ESTONIAN" value="2" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
