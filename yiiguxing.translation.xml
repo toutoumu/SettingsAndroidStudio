@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Coroutine" />
       <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active." />
       <item value="To use only without reflection variants of viewBinding" />
       <item value="Prescription Drug Audit Details Fragment" />
@@ -53,12 +54,11 @@
       <item value="delay Millis" />
       <item value="Gregorian Calendar" />
       <item value="VIEW EVALUATION ENABLE" />
-      <item value="EVALUATION MANAGEMENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
