@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PREVIEW POST PROCESSING MODE" />
       <item value="Return the primary sharedexternal storage directory where this application's OBB files (if there are any) can be found. Note if the application does not have any OBB files, this directory may not exist. &lt;p&gt;" />
       <item value="Returns absolute path to application-specific directory in the preloaded cache. &lt;p&gt;Files stored in the cache directory can be deleted when the device runs low on storage. There is no guarantee when these files will be deleted." />
       <item value="Retrieve, creating if needed, a new directory in which the application can place its own custom data files. You can use the returned File object to create and access files in this directory. Note that files created through a File object will only be accessible by your own application; you can only set the mode of the entire directory, not of individual files." />
@@ -53,12 +54,11 @@
       <item value="association" />
       <item value="hangup" />
       <item value="mute Local Audio" />
-      <item value="Millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="859" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="860" />
+        <entry key="ENGLISH" value="861" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
