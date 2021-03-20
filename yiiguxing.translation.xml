@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="turn passcode on off" />
       <item value="PREVIEW POST PROCESSING MODE" />
       <item value="Return the primary sharedexternal storage directory where this application's OBB files (if there are any) can be found. Note if the application does not have any OBB files, this directory may not exist. &lt;p&gt;" />
       <item value="Returns absolute path to application-specific directory in the preloaded cache. &lt;p&gt;Files stored in the cache directory can be deleted when the device runs low on storage. There is no guarantee when these files will be deleted." />
@@ -53,7 +54,6 @@
       <item value="The time span." />
       <item value="association" />
       <item value="hangup" />
-      <item value="mute Local Audio" />
     </histories>
     <option name="languageScores">
       <map>
