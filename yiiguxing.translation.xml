@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="模具" />
       <item value="ACTION SCREEN OFF" />
       <item value="@deprecated Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state." />
       <item value="turn passcode on off" />
@@ -53,11 +54,10 @@
       <item value="Base class for activities that enables composition of higher level components. &lt;p&gt; Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components." />
       <item value="Courses Fragment" />
       <item value="Returns an Observable that emits only the first item emitted by the source ObservableSource during sequential time windows of a specified duration." />
-      <item value="The time span." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
+        <entry key="CHINESE" value="863" />
         <entry key="ENGLISH" value="863" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
