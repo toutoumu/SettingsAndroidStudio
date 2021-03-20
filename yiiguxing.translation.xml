@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@deprecated Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state." />
       <item value="turn passcode on off" />
       <item value="PREVIEW POST PROCESSING MODE" />
       <item value="Return the primary sharedexternal storage directory where this application's OBB files (if there are any) can be found. Note if the application does not have any OBB files, this directory may not exist. &lt;p&gt;" />
@@ -53,12 +54,11 @@
       <item value="Returns an Observable that emits only the first item emitted by the source ObservableSource during sequential time windows of a specified duration." />
       <item value="The time span." />
       <item value="association" />
-      <item value="hangup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="862" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
