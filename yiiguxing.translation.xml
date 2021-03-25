@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add From Customer" />
       <item value="Mission Statement Activity" />
       <item value="uses Cleartext Traffic" />
       <item value="Gloading Certification Pending Review View" />
@@ -53,12 +54,11 @@
       <item value="Quick Drug Order Details Add Preparation Pharmacy Activity" />
       <item value="Online Shopping Mall Quick Activity" />
       <item value="Chinese Medicine Mall Quick Activity" />
-      <item value="Inquiry Details Diagnostic Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="869" />
+        <entry key="ENGLISH" value="870" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
