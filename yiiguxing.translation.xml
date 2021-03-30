@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="保养" />
       <item value="Conversation Icon View" />
       <item value="do nothing" />
       <item value="doctor Certificate" />
@@ -53,11 +54,10 @@
       <item value="SILENCE" />
       <item value="income New Instance" />
       <item value="The number of digits allowed in the fraction portion of value." />
-      <item value="The minimum number of digits allowed in the integer portion of value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="878" />
+        <entry key="CHINESE" value="879" />
         <entry key="ENGLISH" value="879" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
