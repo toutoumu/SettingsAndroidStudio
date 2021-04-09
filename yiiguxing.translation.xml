@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns true if this request should cache the original unmodified data." />
+      <item value="Writes retrieved data directly to the disk cache before it's decoded." />
+      <item value="Writes resources to disk after they've been decoded." />
       <item value="Setter for max size for both width and height of bitmap that will be decoded from an input Uri and used in the view." />
       <item value="set to true to let user resize crop bounds (disabled by default)" />
       <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
@@ -53,14 +56,11 @@
       <item value="Coroutine" />
       <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active." />
       <item value="To use only without reflection variants of viewBinding" />
-      <item value="Prescription Drug Audit Details Fragment" />
-      <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
-      <item value="determine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="897" />
-        <entry key="ENGLISH" value="898" />
+        <entry key="CHINESE" value="900" />
+        <entry key="ENGLISH" value="901" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
