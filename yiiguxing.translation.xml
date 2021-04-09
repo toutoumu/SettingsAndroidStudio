@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="converter" />
       <item value="Returns true if this request should cache the original unmodified data." />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Writes resources to disk after they've been decoded." />
@@ -55,12 +56,11 @@
       <item value="Retrieve, creating if needed, a new directory in which the application can place its own custom data files. You can use the returned File object to create and access files in this directory. Note that files created through a File object will only be accessible by your own application; you can only set the mode of the entire directory, not of individual files." />
       <item value="Coroutine" />
       <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active." />
-      <item value="To use only without reflection variants of viewBinding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="901" />
+        <entry key="ENGLISH" value="902" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
