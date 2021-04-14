@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
+      <item value="before" />
       <item value="repair Staff Name" />
       <item value="converter" />
       <item value="Returns true if this request should cache the original unmodified data." />
@@ -54,13 +56,11 @@
       <item value="Return the primary sharedexternal storage directory where this application's OBB files (if there are any) can be found. Note if the application does not have any OBB files, this directory may not exist. &lt;p&gt;" />
       <item value="Returns absolute path to application-specific directory in the preloaded cache. &lt;p&gt;Files stored in the cache directory can be deleted when the device runs low on storage. There is no guarantee when these files will be deleted." />
       <item value="Retrieve, creating if needed, a new directory in which the application can place its own custom data files. You can use the returned File object to create and access files in this directory. Note that files created through a File object will only be accessible by your own application; you can only set the mode of the entire directory, not of individual files." />
-      <item value="Coroutine" />
-      <item value="Adds the given observer to the observers list. This call is similar to {@link LiveDataobserve(LifecycleOwner, Observer)} with a LifecycleOwner, which is always active. This means that the given observer will receive all events and will never be automatically removed. You should manually call {@link removeObserver(Observer)} to stop observing this LiveData. While LiveData has one of such observers, it will be considered as active." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="902" />
-        <entry key="ENGLISH" value="903" />
+        <entry key="CHINESE" value="904" />
+        <entry key="ENGLISH" value="905" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617773629430" />
+    <option name="lastTrimTime" value="1618389418359" />
   </component>
 </application>
