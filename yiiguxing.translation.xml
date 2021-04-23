@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Online Ignored Dialing" />
+      <item value="un Safety Call" />
       <item value="Recertification Activity" />
       <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
       <item value="before" />
@@ -54,13 +56,11 @@
       <item value="@deprecated Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state." />
       <item value="turn passcode on off" />
       <item value="PREVIEW POST PROCESSING MODE" />
-      <item value="Return the primary sharedexternal storage directory where this application's OBB files (if there are any) can be found. Note if the application does not have any OBB files, this directory may not exist. &lt;p&gt;" />
-      <item value="Returns absolute path to application-specific directory in the preloaded cache. &lt;p&gt;Files stored in the cache directory can be deleted when the device runs low on storage. There is no guarantee when these files will be deleted." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="905" />
-        <entry key="ENGLISH" value="906" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
