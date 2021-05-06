@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
@@ -24,6 +25,19 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="CodeVision" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
