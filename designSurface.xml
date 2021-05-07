@@ -24,6 +24,8 @@
         <entry key="projects/pajia/src/main/res/layout/empty_group_manage.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/empty_project_manage.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/empty_setting_select_project.xml" value="0.25" />
+        <entry key="projects/pajia/src/main/res/layout/item_gravity.xml" value="0.2064814814814815" />
+        <entry key="projects/pajia/src/main/res/layout/item_gravity_header.xml" value="0.2064814814814815" />
         <entry key="projects/pajia/src/main/res/layout/item_group_device.xml" value="0.30885416666666665" />
       </map>
     </option>

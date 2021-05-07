@@ -2,7 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="400" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="灰度" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="16" />
     <option name="MAX_LOOKUP_WIDTH2" value="915" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
