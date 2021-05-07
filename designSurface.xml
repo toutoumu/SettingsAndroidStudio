@@ -11,10 +11,12 @@
         <entry key="projects/pajia/src/main/res/layout/content_group_manage.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_group_new_query_device.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_login.xml" value="0.15020263424518743" />
-        <entry key="projects/pajia/src/main/res/layout/content_main_fragment.xml" value="0.15092592592592594" />
+        <entry key="projects/pajia/src/main/res/layout/content_main_fragment.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_project_detail.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_project_manage.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_project_new.xml" value="0.24351851851851852" />
+        <entry key="projects/pajia/src/main/res/layout/content_select_control.xml" value="0.2064814814814815" />
+        <entry key="projects/pajia/src/main/res/layout/content_setting.xml" value="0.2064814814814815" />
         <entry key="projects/pajia/src/main/res/layout/content_setting_select_group.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_setting_select_project1.xml" value="0.15020263424518743" />
         <entry key="projects/pajia/src/main/res/layout/content_stop.xml" value="0.15020263424518743" />
