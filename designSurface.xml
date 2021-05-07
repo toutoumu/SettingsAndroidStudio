@@ -5,7 +5,10 @@
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
         <entry key="projects/equipment/src/main/res/layout/content_operation_select.xml" value="0.15579710144927536" />
         <entry key="projects/pajia/src/main/res/layout/content_login.xml" value="0.15020263424518743" />
+        <entry key="projects/pajia/src/main/res/layout/content_project_new.xml" value="0.24351851851851852" />
+        <entry key="projects/pajia/src/main/res/layout/content_setting_select_project1.xml" value="0.15020263424518743" />
         <entry key="projects/pajia/src/main/res/layout/content_stop.xml" value="0.15020263424518743" />
+        <entry key="projects/pajia/src/main/res/layout/empty_setting_select_project.xml" value="0.25" />
       </map>
     </option>
   </component>
