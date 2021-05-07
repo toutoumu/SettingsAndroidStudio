@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CYAN" />
       <item value="m Pending Data" />
       <item value="synthetic" />
       <item value="try Get View Holder For Position By Deadline" />
@@ -55,7 +56,6 @@
       <item value="PENDING REVIEW" />
       <item value="mould Status" />
       <item value="maintain Status" />
-      <item value="模具" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619398191468" />
+    <option name="lastTrimTime" value="1620382659261" />
   </component>
 </application>
