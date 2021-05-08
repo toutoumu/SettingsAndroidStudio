@@ -6,6 +6,19 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PRESCRIPTION DRUG AUDIT" />
+      <item value="FREE CLINIC REPLY DETAILS" />
+      <item value="DRUG ORDER DETAILS" />
+      <item value="EVALUATIONS" />
+      <item value="PUSH PRODUCT" />
+      <item value="END CONSULTATION" />
+      <item value="ADDED DRUG" />
+      <item value="PREPARATION PHARMACY SEARCH" />
+      <item value="PREPARATION PHARMACY" />
+      <item value="CHINESE MEDICINE MALL" />
+      <item value="ONLINE SHOPPING MALL SEARCH" />
+      <item value="ONLINE SHOPPING MALL" />
+      <item value="INQUIRY DETAILS" />
       <item value="CYAN" />
       <item value="m Pending Data" />
       <item value="synthetic" />
@@ -43,19 +56,6 @@
       <item value="List = certification?" />
       <item value="clinical Department List" />
       <item value="Returns whether the primary sharedexternal storage media is physically removable." />
-      <item value="说明" />
-      <item value="Mission Statement" />
-      <item value="Ask For Task" />
-      <item value="Construction" />
-      <item value="施工" />
-      <item value="add From Customer" />
-      <item value="Mission Statement Activity" />
-      <item value="uses Cleartext Traffic" />
-      <item value="Gloading Certification Pending Review View" />
-      <item value="NOT APPLIED" />
-      <item value="PENDING REVIEW" />
-      <item value="mould Status" />
-      <item value="maintain Status" />
     </histories>
     <option name="languageScores">
       <map>
