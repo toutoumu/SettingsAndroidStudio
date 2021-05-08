@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
         <entry key="projects/equipment/src/main/res/layout/content_operation_select.xml" value="0.15579710144927536" />
         <entry key="projects/equipment/src/main/res/layout/header_machine_status.xml" value="0.2064814814814815" />
