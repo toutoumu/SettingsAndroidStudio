@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="can Master Consult Drug" />
+      <item value="can Image Text Consult Drug" />
+      <item value="can Audio Consult Drug" />
+      <item value="can Video Consult Drug" />
+      <item value="can Push Prescription Drug" />
       <item value="PRESCRIPTION DRUG AUDIT" />
       <item value="FREE CLINIC REPLY DETAILS" />
       <item value="DRUG ORDER DETAILS" />
@@ -51,11 +56,6 @@
       <item value="Preview of new language features: JVM records support, sealed interfaces, and stable inline classes. KotlinJVM: IR backend is now in Beta. KotlinNative: performance improvements, new `watchosX64` simulator target, support for Xcode 12.2 libraries. KotlinJS: prototype lazy initialization of top-level properties. Support for Gradle configuration cache. Standard library API improvements: locale-agnostic API for upperlowercasing text and clear Char-to-code and Char-to-digit conversions." />
       <item value="保养" />
       <item value="Conversation Icon View" />
-      <item value="do nothing" />
-      <item value="doctor Certificate" />
-      <item value="List = certification?" />
-      <item value="clinical Department List" />
-      <item value="Returns whether the primary sharedexternal storage media is physically removable." />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620382659261" />
+    <option name="lastTrimTime" value="1621232324929" />
   </component>
 </application>
