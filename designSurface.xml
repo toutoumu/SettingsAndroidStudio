@@ -26,9 +26,9 @@
         <entry key="app/src/main/res/layout/item_service_management_paused.xml" value="0.46328125" />
         <entry key="library/res/layout/activity_gpvideoplayer.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/activity_image_preview_photo.xml" value="0.2324074074074074" />
-        <entry key="library/res/layout/content_photo.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/content_photo.xml" value="0.25463743676222594" />
         <entry key="library/res/layout/content_picture_list.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.2324074074074074" />
+        <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.2324074074074074" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.3041025641025641" />
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
