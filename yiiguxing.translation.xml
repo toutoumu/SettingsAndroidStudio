@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="overlay" />
       <item value="Ui Utils" />
       <item value="can Master Consult Drug" />
       <item value="can Image Text Consult Drug" />
@@ -55,7 +56,6 @@
       <item value="practitioner Type List" />
       <item value="material Name" />
       <item value="Preview of new language features: JVM records support, sealed interfaces, and stable inline classes. KotlinJVM: IR backend is now in Beta. KotlinNative: performance improvements, new `watchosX64` simulator target, support for Xcode 12.2 libraries. KotlinJS: prototype lazy initialization of top-level properties. Support for Gradle configuration cache. Standard library API improvements: locale-agnostic API for upperlowercasing text and clear Char-to-code and Char-to-digit conversions." />
-      <item value="保养" />
     </histories>
     <option name="languageScores">
       <map>
