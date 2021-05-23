@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="quick pay" />
       <item value="牛" />
       <item value="overlay" />
       <item value="Ui Utils" />
@@ -55,7 +56,6 @@
       <item value="Clinical Department" />
       <item value="Certification Type" />
       <item value="practitioner Type List" />
-      <item value="material Name" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621232324929" />
+    <option name="lastTrimTime" value="1621752015867" />
   </component>
 </application>
