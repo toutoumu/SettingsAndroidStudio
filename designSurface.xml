@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/activity_custom_preview.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_grid.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_live.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24074074074074073" />
         <entry key="app/src/main/res/layout/activity_main3.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_server_settings.xml" value="0.20555555555555555" />
         <entry key="app/src/main/res/layout/activity_service_management.xml" value="0.30885416666666665" />
@@ -32,6 +33,8 @@
         <entry key="library/res/layout/content_picture_list.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.2324074074074074" />
+        <entry key="librarys/mylibrary/src/main/res/layout/content_list.xml" value="0.30885416666666665" />
+        <entry key="librarys/mylibrary/src/main/res/layout/dialog_footer.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.3041025641025641" />
         <entry key="projects/beijing/src/main/res/layout/activity_welcome.xml" value="0.26296296296296295" />
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
@@ -46,6 +49,7 @@
         <entry key="projects/niu/src/main/res/drawable/bg_admin.xml" value="0.26481481481481484" />
         <entry key="projects/niu/src/main/res/drawable/bg_search_edit.xml" value="0.24537037037037038" />
         <entry key="projects/niu/src/main/res/drawable/cursor.xml" value="0.32395833333333335" />
+        <entry key="projects/niu/src/main/res/drawable/selector_check_box_arrow.xml" value="0.32395833333333335" />
         <entry key="projects/niu/src/main/res/layout/activity_main.xml" value="0.17222222222222222" />
         <entry key="projects/niu/src/main/res/layout/activity_pay_result.xml" value="0.20462962962962963" />
         <entry key="projects/niu/src/main/res/layout/activity_preview.xml" value="0.121875" />
@@ -54,6 +58,7 @@
         <entry key="projects/niu/src/main/res/layout/conetnt_my.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_address_sreach.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_article_detail1.xml" value="0.121875" />
+        <entry key="projects/niu/src/main/res/layout/content_bao_yue_add.xml" value="0.1" />
         <entry key="projects/niu/src/main/res/layout/content_binding_phone.xml" value="0.121875" />
         <entry key="projects/niu/src/main/res/layout/content_comment_detail.xml" value="0.5" />
         <entry key="projects/niu/src/main/res/layout/content_image_scan.xml" value="0.121875" />
@@ -64,11 +69,18 @@
         <entry key="projects/niu/src/main/res/layout/content_my.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_protocol.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_quick_pay.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/content_report.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_scan.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_topic_video_detail.xml" value="0.121875" />
         <entry key="projects/niu/src/main/res/layout/content_video_detail.xml" value="0.121875" />
+        <entry key="projects/niu/src/main/res/layout/dialog_marker_info.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/empty_search_result.xml" value="0.5" />
+        <entry key="projects/niu/src/main/res/layout/foot_bao_yue.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_address_info.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/item_bao_yue.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/item_car.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/item_image_select.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/item_provence.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_search.xml" value="0.121875" />
         <entry key="projects/niu/src/main/res/layout/layout_publish.xml" value="0.22407407407407406" />
         <entry key="projects/niu/src/main/res/layout/layout_seg_bottom.xml" value="0.121875" />
