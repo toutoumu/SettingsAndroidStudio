@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="联系" />
+      <item value="concat" />
       <item value="钱包" />
       <item value="省份" />
       <item value="quick pay" />
@@ -54,8 +56,6 @@
       <item value="machine Position Name" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="qualification Certificate Deferred List" />
-      <item value="Practitioner Type" />
-      <item value="Clinical Department" />
     </histories>
     <option name="languageScores">
       <map>
