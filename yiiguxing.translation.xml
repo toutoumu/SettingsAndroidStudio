@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dist Balance" />
       <item value="联系" />
       <item value="concat" />
       <item value="钱包" />
@@ -55,7 +56,6 @@
       <item value="machine Type Name" />
       <item value="machine Position Name" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
-      <item value="qualification Certificate Deferred List" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621752015867" />
+    <option name="lastTrimTime" value="1622433999515" />
   </component>
 </application>
