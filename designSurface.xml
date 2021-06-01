@@ -35,7 +35,7 @@
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.2324074074074074" />
         <entry key="librarys/mylibrary/src/main/res/layout/content_list.xml" value="0.30885416666666665" />
-        <entry key="librarys/mylibrary/src/main/res/layout/content_tablayout.xml" value="0.20462962962962963" />
+        <entry key="librarys/mylibrary/src/main/res/layout/content_tablayout.xml" value="0.2212962962962963" />
         <entry key="librarys/mylibrary/src/main/res/layout/default_content_list.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/dialog_footer.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.30885416666666665" />
@@ -98,7 +98,7 @@
         <entry key="projects/niu/src/main/res/layout/item_car_list.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_image_select.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_message.xml" value="0.30885416666666665" />
-        <entry key="projects/niu/src/main/res/layout/item_order.xml" value="0.2601851851851852" />
+        <entry key="projects/niu/src/main/res/layout/item_order.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_parking.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_provence.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/item_reason.xml" value="0.2601851851851852" />
