@@ -47,6 +47,8 @@
         <entry key="librarys/mylibrary/src/main/res/layout/dialog_footer.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
+        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_left_image.xml" value="0.23425925925925925" />
+        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_right_image.xml" value="0.23425925925925925" />
         <entry key="projects/beijing/src/main/res/layout/activity_welcome.xml" value="0.26296296296296295" />
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
         <entry key="projects/equipment/src/main/res/layout/content_operation_select.xml" value="0.15579710144927536" />
