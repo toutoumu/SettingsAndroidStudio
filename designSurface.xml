@@ -45,7 +45,7 @@
         <entry key="librarys/mylibrary/src/main/res/layout/default_content_progress.xml" value="0.1" />
         <entry key="librarys/mylibrary/src/main/res/layout/default_toolbar_layout.xml" value="0.1388888888888889" />
         <entry key="librarys/mylibrary/src/main/res/layout/default_topbar_layout.xml" value="0.1388888888888889" />
-        <entry key="librarys/mylibrary/src/main/res/layout/dialog_blocking.xml" value="0.1" />
+        <entry key="librarys/mylibrary/src/main/res/layout/dialog_blocking.xml" value="0.23425925925925925" />
         <entry key="librarys/mylibrary/src/main/res/layout/dialog_footer.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
@@ -83,6 +83,7 @@
         <entry key="projects/niu/src/main/res/layout/content_binding_phone.xml" value="0.121875" />
         <entry key="projects/niu/src/main/res/layout/content_charge.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_comment_detail.xml" value="0.5" />
+        <entry key="projects/niu/src/main/res/layout/content_edit_info.xml" value="0.23425925925925925" />
         <entry key="projects/niu/src/main/res/layout/content_feed_back.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_guide1.xml" value="0.1388888888888889" />
         <entry key="projects/niu/src/main/res/layout/content_guide2.xml" value="0.1388888888888889" />
@@ -105,7 +106,7 @@
         <entry key="projects/niu/src/main/res/layout/content_scan_order.xml" value="0.23425925925925925" />
         <entry key="projects/niu/src/main/res/layout/content_set_password.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_topic_video_detail.xml" value="0.121875" />
-        <entry key="projects/niu/src/main/res/layout/content_user_center.xml" value="0.1" />
+        <entry key="projects/niu/src/main/res/layout/content_user_center.xml" value="0.23425925925925925" />
         <entry key="projects/niu/src/main/res/layout/content_validate_phone.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_video_detail.xml" value="0.121875" />
         <entry key="projects/niu/src/main/res/layout/content_wallet.xml" value="0.30885416666666665" />
