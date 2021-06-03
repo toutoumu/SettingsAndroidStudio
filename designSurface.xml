@@ -61,6 +61,7 @@
         <entry key="projects/equipment/src/main/res/layout/item_task_select.xml" value="0.1" />
         <entry key="projects/niu/src/main/res/drawable/bg_admin.xml" value="0.26481481481481484" />
         <entry key="projects/niu/src/main/res/drawable/bg_search_edit.xml" value="0.24537037037037038" />
+        <entry key="projects/niu/src/main/res/drawable/checkbox_style.xml" value="0.18333333333333332" />
         <entry key="projects/niu/src/main/res/drawable/cursor.xml" value="0.32395833333333335" />
         <entry key="projects/niu/src/main/res/drawable/selector_car_arrow.xml" value="0.262037037037037" />
         <entry key="projects/niu/src/main/res/drawable/selector_check_box_arrow.xml" value="0.32395833333333335" />
@@ -132,6 +133,8 @@
         <entry key="projects/niu/src/main/res/menu/navigation.xml" value="0.22407407407407406" />
         <entry key="projects/niu/src/main/res/menu/navigation_main.xml" value="0.22407407407407406" />
         <entry key="projects/pajia/src/main/res/drawable/bg_button_blue.xml" value="0.32395833333333335" />
+        <entry key="projects/pajia/src/main/res/drawable/checkbox_style.xml" value="0.275" />
+        <entry key="projects/pajia/src/main/res/drawable/checkbox_style_square.xml" value="0.18333333333333332" />
         <entry key="projects/pajia/src/main/res/layout/content_common_info.xml" value="0.30885416666666665" />
         <entry key="projects/pajia/src/main/res/layout/content_control_select_group.xml" value="0.1" />
         <entry key="projects/pajia/src/main/res/layout/content_control_select_project.xml" value="0.30885416666666665" />
