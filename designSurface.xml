@@ -65,6 +65,7 @@
         <entry key="projects/niu/src/main/res/drawable/cursor.xml" value="0.32395833333333335" />
         <entry key="projects/niu/src/main/res/drawable/selector_car_arrow.xml" value="0.262037037037037" />
         <entry key="projects/niu/src/main/res/drawable/selector_check_box_arrow.xml" value="0.32395833333333335" />
+        <entry key="projects/niu/src/main/res/drawable/selector_ic_light.xml" value="0.275" />
         <entry key="projects/niu/src/main/res/layout/activity_main.xml" value="0.17222222222222222" />
         <entry key="projects/niu/src/main/res/layout/activity_pay_result.xml" value="0.20462962962962963" />
         <entry key="projects/niu/src/main/res/layout/activity_preview.xml" value="0.121875" />
@@ -98,7 +99,7 @@
         <entry key="projects/niu/src/main/res/layout/content_protocol.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_quick_pay.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_report.xml" value="0.2601851851851852" />
-        <entry key="projects/niu/src/main/res/layout/content_scan.xml" value="0.30885416666666665" />
+        <entry key="projects/niu/src/main/res/layout/content_scan.xml" value="0.1" />
         <entry key="projects/niu/src/main/res/layout/content_scan_order.xml" value="0.23425925925925925" />
         <entry key="projects/niu/src/main/res/layout/content_set_password.xml" value="0.30885416666666665" />
         <entry key="projects/niu/src/main/res/layout/content_topic_video_detail.xml" value="0.121875" />
