@@ -30,6 +30,7 @@
         <entry key="app/src/main/res/layout/item_service_management_approved.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_service_management_not_applied.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/item_service_management_paused.xml" value="0.46328125" />
+        <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.13148148148148148" />
         <entry key="library/res/layout/activity_album.xml" value="0.1" />
         <entry key="library/res/layout/activity_gpvideoplayer.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
