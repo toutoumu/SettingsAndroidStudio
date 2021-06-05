@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="RECEIVE USER PRESENT" />
       <item value="userkey plat nomatch" />
       <item value="plat" />
       <item value="nomatch" />
@@ -55,7 +56,6 @@
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Writes resources to disk after they've been decoded." />
       <item value="Setter for max size for both width and height of bitmap that will be decoded from an input Uri and used in the view." />
-      <item value="set to true to let user resize crop bounds (disabled by default)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622433999515" />
+    <option name="lastTrimTime" value="1622875152725" />
   </component>
 </application>
