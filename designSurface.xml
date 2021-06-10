@@ -9,12 +9,13 @@
         <entry key="ImagePreview/src/main/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.29259259259259257" />
-        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/activity_custom_preview.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_device_list.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/layout/activity_drug_details.xml" value="0.45267175572519086" />
         <entry key="app/src/main/res/layout/activity_edit_clinic.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/activity_grid.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/activity_help_detail.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_live.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_lock_operation.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.24074074074074073" />
