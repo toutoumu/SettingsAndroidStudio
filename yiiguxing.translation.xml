@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="desired" />
+      <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
+      <item value="Set maximum size for result cropped image. Maximum size cannot be less then {@value MIN_SIZE}" />
+      <item value="Set an aspect ratio for crop bounds that is evaluated from source image width and height. User won't see the menu with other ratios options." />
+      <item value="Set an aspect ratio for crop bounds. User won't see the menu with other ratios options." />
       <item value="RECEIVE USER PRESENT" />
       <item value="userkey plat nomatch" />
       <item value="plat" />
@@ -51,11 +56,6 @@
       <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
       <item value="before" />
       <item value="repair Staff Name" />
-      <item value="converter" />
-      <item value="Returns true if this request should cache the original unmodified data." />
-      <item value="Writes retrieved data directly to the disk cache before it's decoded." />
-      <item value="Writes resources to disk after they've been decoded." />
-      <item value="Setter for max size for both width and height of bitmap that will be decoded from an input Uri and used in the view." />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622875152725" />
+    <option name="lastTrimTime" value="1623377435451" />
   </component>
 </application>
