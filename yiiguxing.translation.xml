@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Burst Counter" />
+      <item value="SENSOR MAX ANALOG SENSITIVITY" />
+      <item value="SENSOR AVAILABLE TEST PATTERN MODES" />
       <item value="STATE WAIT FOR PRECAPTURE" />
       <item value="desired" />
       <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
@@ -53,9 +56,6 @@
       <item value="obtain Data" />
       <item value="is Online Ignored Dialing" />
       <item value="un Safety Call" />
-      <item value="Recertification Activity" />
-      <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
-      <item value="before" />
     </histories>
     <option name="languageScores">
       <map>
