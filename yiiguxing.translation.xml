@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sizes are just placeholders" />
       <item value="Burst Counter" />
       <item value="SENSOR MAX ANALOG SENSITIVITY" />
       <item value="SENSOR AVAILABLE TEST PATTERN MODES" />
@@ -55,7 +56,6 @@
       <item value="try Get View Holder For Position By Deadline" />
       <item value="obtain Data" />
       <item value="is Online Ignored Dialing" />
-      <item value="un Safety Call" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623377435451" />
+    <option name="lastTrimTime" value="1624238545058" />
   </component>
 </application>
