@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="request Disallow Intercept Touch Event" />
       <item value="Sizes are just placeholders" />
       <item value="Burst Counter" />
       <item value="SENSOR MAX ANALOG SENSITIVITY" />
@@ -55,7 +56,6 @@
       <item value="synthetic" />
       <item value="try Get View Holder For Position By Deadline" />
       <item value="obtain Data" />
-      <item value="is Online Ignored Dialing" />
     </histories>
     <option name="languageScores">
       <map>
