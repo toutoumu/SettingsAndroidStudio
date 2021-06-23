@@ -46,13 +46,13 @@
         <entry key="app/src/main/res/layout/layout_certification_did_not_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
-        <entry key="library/res/layout/activity_album.xml" value="0.1" />
+        <entry key="library/res/layout/activity_album.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_gpvideoplayer.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_picture.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/app_passcode_keyboard.xml" value="0.22685185185185186" />
         <entry key="library/res/layout/content_photo.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/content_picture_list.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/content_picture_list.xml" value="0.1" />
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/preference.xml" value="0.22685185185185186" />
