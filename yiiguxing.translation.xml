@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="KEY SHOULD INFLATE" />
       <item value="persistent" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="Sizes are just placeholders" />
@@ -55,7 +56,6 @@
       <item value="CYAN" />
       <item value="m Pending Data" />
       <item value="synthetic" />
-      <item value="try Get View Holder For Position By Deadline" />
     </histories>
     <option name="languageScores">
       <map>
