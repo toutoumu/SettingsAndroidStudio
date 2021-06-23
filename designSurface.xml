@@ -59,6 +59,9 @@
         <entry key="library/res/layout/preference.xml" value="0.25" />
         <entry key="library/res/layout/pro.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/sample_activity.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/toolbar_left_image.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/toolbar_right_image.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/ucrop_activity_photobox.xml" value="0.25" />
         <entry key="library/res/layout/ucrop_controls.xml" value="0.30885416666666665" />
         <entry key="library/res/menu/album.xml" value="0.2351851851851852" />
@@ -80,8 +83,8 @@
         <entry key="librarys/mylibrary/src/main/res/layout/dialog_footer.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/item_test.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
-        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_left_image.xml" value="0.23425925925925925" />
-        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_right_image.xml" value="0.23425925925925925" />
+        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_left_image.xml" value="0.24814814814814815" />
+        <entry key="librarys/mylibrary/src/main/res/layout/toolbar_right_image.xml" value="0.24814814814814815" />
         <entry key="projects/app/src/main/res/layout/content_picture_list.xml" value="0.2600877192982456" />
         <entry key="projects/app/src/main/res/layout/fragment_dialog_plus.xml" value="0.13157894736842105" />
         <entry key="projects/app/src/main/res/layout/item_image.xml" value="0.2600877192982456" />
