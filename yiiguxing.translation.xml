@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="KEY SHOULD INFLATE" />
       <item value="persistent" />
+      <item value="KEY SHOULD INFLATE" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="Sizes are just placeholders" />
       <item value="Burst Counter" />
