@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="its called when a saving task is done and the imagemovie is rdy to get attached to the MainActivityscreenslideFragment" />
       <item value="True if the child does not want the parent to intercept touch events." />
       <item value="Add a user's movement to the tracker. You should call this for the initial {@link MotionEventACTION_DOWN}, the following {@link MotionEventACTION_MOVE} events that you receive, and the final {@link MotionEventACTION_UP}. You can, however, call this for whichever events you desire." />
       <item value="Intrinsic" />
@@ -55,7 +56,6 @@
       <item value="ADDED DRUG" />
       <item value="PREPARATION PHARMACY SEARCH" />
       <item value="PREPARATION PHARMACY" />
-      <item value="CHINESE MEDICINE MALL" />
     </histories>
     <option name="languageScores">
       <map>
