@@ -58,6 +58,7 @@
         <entry key="library/res/layout/app_passcode_keyboard.xml" value="0.25833333333333336" />
         <entry key="library/res/layout/content_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/content_picture_list.xml" value="0.1" />
+        <entry key="library/res/layout/custom_fragment.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/preference.xml" value="0.30885416666666665" />
