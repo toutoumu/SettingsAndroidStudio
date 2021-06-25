@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Matrix" />
       <item value="bound Position" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="persistent" />
@@ -55,7 +56,6 @@
       <item value="ONLINE SHOPPING MALL" />
       <item value="INQUIRY DETAILS" />
       <item value="CYAN" />
-      <item value="m Pending Data" />
     </histories>
     <option name="languageScores">
       <map>
