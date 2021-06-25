@@ -50,20 +50,22 @@
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
         <entry key="library/res/drawable/img_empty.xml" value="0.32395833333333335" />
+        <entry key="library/res/layout-sw600dp/app_passcode_keyboard.xml" value="0.231640625" />
         <entry key="library/res/layout/activity_album.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_crop.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_gpvideoplayer.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_picture.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/app_passcode_keyboard.xml" value="0.25833333333333336" />
+        <entry key="library/res/layout/app_passcode_keyboard.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/content_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/content_picture_list.xml" value="0.1" />
         <entry key="library/res/layout/custom_fragment.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_image.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/preference.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/preferences.xml" value="0.22870370370370371" />
         <entry key="library/res/layout/pro.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/sample_activity.xml" value="0.1" />
+        <entry key="library/res/layout/sample_activity.xml" value="0.22870370370370371" />
         <entry key="library/res/layout/switch_preference.xml" value="0.19506578947368422" />
         <entry key="library/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/toolbar_left_image.xml" value="0.30885416666666665" />
