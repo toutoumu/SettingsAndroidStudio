@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Intrinsic" />
+      <item value="Transform" />
       <item value="m Matrix" />
       <item value="bound Position" />
       <item value="request Disallow Intercept Touch Event" />
@@ -54,8 +56,6 @@
       <item value="CHINESE MEDICINE MALL" />
       <item value="ONLINE SHOPPING MALL SEARCH" />
       <item value="ONLINE SHOPPING MALL" />
-      <item value="INQUIRY DETAILS" />
-      <item value="CYAN" />
     </histories>
     <option name="languageScores">
       <map>
