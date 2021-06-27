@@ -30,6 +30,7 @@
         <entry key="app/src/main/res/layout/audio_effects_dialog.xml" value="0.14010416666666667" />
         <entry key="app/src/main/res/layout/content_guide1.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_guide_hub.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/default_content_empty.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/fragment_after_sale_status_passed_return.xml" value="0.45267175572519086" />
         <entry key="app/src/main/res/layout/fragment_after_sale_status_pending_retun.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/fragment_after_sale_status_pending_returned_refunded.xml" value="0.1" />
@@ -42,6 +43,7 @@
         <entry key="app/src/main/res/layout/item_binding_record_applying.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/item_binding_record_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/item_image.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/item_message.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/item_service_management_approved.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_service_management_not_applied.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/item_service_management_paused.xml" value="0.46328125" />
