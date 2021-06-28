@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely." />
+      <item value="INPUT MODE BUFFER" />
       <item value="Please refer to the documentations on individual methods for the exact usage." />
       <item value="This class writes one or more still images (of the same dimensions) into a heif file." />
       <item value="If not null, client will receive all callbacks on the handler's looper. Otherwise, client will receive callbacks on a looper created by us." />
@@ -54,8 +56,6 @@
       <item value="overlay" />
       <item value="Ui Utils" />
       <item value="can Master Consult Drug" />
-      <item value="can Image Text Consult Drug" />
-      <item value="can Audio Consult Drug" />
     </histories>
     <option name="languageScores">
       <map>
