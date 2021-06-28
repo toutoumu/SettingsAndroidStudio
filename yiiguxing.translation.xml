@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="microsec" />
       <item value="Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely." />
       <item value="INPUT MODE BUFFER" />
       <item value="Please refer to the documentations on individual methods for the exact usage." />
@@ -55,7 +56,6 @@
       <item value="牛" />
       <item value="overlay" />
       <item value="Ui Utils" />
-      <item value="can Master Consult Drug" />
     </histories>
     <option name="languageScores">
       <map>
