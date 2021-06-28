@@ -75,6 +75,7 @@
         <entry key="library/res/layout/toolbar_right_text.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/ucrop_activity_photobox.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/ucrop_controls.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/ucrop_fragment_photobox.xml" value="0.26944444444444443" />
         <entry key="library/res/menu/album.xml" value="0.2351851851851852" />
         <entry key="library/res/menu/crop.xml" value="0.30885416666666665" />
         <entry key="library/res/menu/option.xml" value="0.30885416666666665" />
