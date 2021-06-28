@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/3a053e83d3ac3c4d2f93fe69886c445a/jetified-ucrop-2.2.6/res/layout/ucrop_fragment_photobox.xml" value="0.26944444444444443" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/66b606266a9d3ed5c2b5fb1a465f6ad7/preference-1.1.1/res/layout/preference.xml" value="0.30885416666666665" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/78be485c09b159ccd6437b5ce26410a0/jetified-appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.2759259259259259" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/a093faf67487f7c195dbfb8b9f96eb87/jetified-ImagePreview-2.3.7/res/layout/fragment_image_photo_layout.xml" value="0.2462962962962963" />
