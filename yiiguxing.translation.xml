@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please refer to the documentations on individual methods for the exact usage." />
+      <item value="This class writes one or more still images (of the same dimensions) into a heif file." />
+      <item value="If not null, client will receive all callbacks on the handler's looper. Otherwise, client will receive callbacks on a looper created by us." />
+      <item value="This class encodes images into HEIF-compatible samples using HEVC encoder." />
       <item value="schedule" />
       <item value="Schedules the specified task for repeated &lt;i&gt;fixed-delay execution&lt;i&gt;, beginning after the specified delay. Subsequent executions take place at approximately regular intervals separated by the specified period." />
       <item value="Schedules the specified task for execution after the specified delay." />
@@ -52,10 +56,6 @@
       <item value="can Master Consult Drug" />
       <item value="can Image Text Consult Drug" />
       <item value="can Audio Consult Drug" />
-      <item value="can Video Consult Drug" />
-      <item value="can Push Prescription Drug" />
-      <item value="PRESCRIPTION DRUG AUDIT" />
-      <item value="FREE CLINIC REPLY DETAILS" />
     </histories>
     <option name="languageScores">
       <map>
