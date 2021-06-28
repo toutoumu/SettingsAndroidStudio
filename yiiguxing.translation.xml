@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add Exif data for the specified image. The data must be a valid Exif data block, starting with &quot;Exif\0\0&quot; followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
       <item value="temp File" />
       <item value="in favor of the more explicit" />
       <item value="A number between 0 and 100 (inclusive), with 100 indicating the best quality supported by this implementation. Default is 100." />
@@ -55,7 +56,6 @@
       <item value="nomatch" />
       <item value="NOMATCH" />
       <item value="USERKEY PLAT NOMATCH" />
-      <item value="cycle" />
     </histories>
     <option name="languageScores">
       <map>
