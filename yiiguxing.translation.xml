@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Orientation 90 is not a valid EXIF orientation value, android doc says that is valid! The clockwise rotation angle in degrees, relative to the orientation to the camera, that the JPEG picture needs to be rotated by, to be viewed upright." />
       <item value="Gets the specified tag's value as an byte array, if possible. Only supported where the tag is set as String, Integer, int[], byte[] or Rational[]." />
       <item value="ROTATION = 6;" />
       <item value="get Standalone Attributes" />
@@ -55,7 +56,6 @@
       <item value="Set an aspect ratio for crop bounds. User won't see the menu with other ratios options." />
       <item value="RECEIVE USER PRESENT" />
       <item value="userkey plat nomatch" />
-      <item value="plat" />
     </histories>
     <option name="languageScores">
       <map>
