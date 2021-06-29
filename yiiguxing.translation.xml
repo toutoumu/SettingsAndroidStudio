@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gets the specified tag's value as an byte array, if possible. Only supported where the tag is set as String, Integer, int[], byte[] or Rational[]." />
+      <item value="ROTATION = 6;" />
       <item value="get Standalone Attributes" />
       <item value="Add Exif data for the specified image. The data must be a valid Exif data block, starting with &quot;Exif\0\0&quot; followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
       <item value="temp File" />
@@ -54,8 +56,6 @@
       <item value="RECEIVE USER PRESENT" />
       <item value="userkey plat nomatch" />
       <item value="plat" />
-      <item value="nomatch" />
-      <item value="NOMATCH" />
     </histories>
     <option name="languageScores">
       <map>
