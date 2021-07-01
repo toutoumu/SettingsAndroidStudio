@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Make this drawable mutable" />
       <item value="CONTROLS ANIMATION DURATION" />
       <item value="set Dimmed Color" />
       <item value="set Freestyle Crop Enabled" />
@@ -55,7 +56,6 @@
       <item value="persistent" />
       <item value="KEY SHOULD INFLATE" />
       <item value="Sizes are just placeholders" />
-      <item value="Burst Counter" />
     </histories>
     <option name="languageScores">
       <map>
