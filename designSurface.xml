@@ -34,6 +34,7 @@
         <entry key="app/src/main/res/layout/activity_verify_phone.xml" value="0.26944444444444443" />
         <entry key="app/src/main/res/layout/activity_view_logistics.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/audio_effects_dialog.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/cameraui_fragment.xml" value="0.2574074074074074" />
         <entry key="app/src/main/res/layout/content_guide1.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_guide_hub.xml" value="0.1" />
         <entry key="app/src/main/res/layout/default_content_empty.xml" value="0.18981481481481483" />
@@ -59,6 +60,7 @@
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
         <entry key="library/res/drawable/img_empty.xml" value="0.32395833333333335" />
+        <entry key="library/res/drawable/table_frame_gray.xml" value="0.29814814814814816" />
         <entry key="library/res/layout-sw600dp/app_passcode_keyboard.xml" value="0.231640625" />
         <entry key="library/res/layout/activity_album.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_crop.xml" value="0.30885416666666665" />

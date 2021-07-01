@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CONTROLS ANIMATION DURATION" />
+      <item value="set Dimmed Color" />
+      <item value="set Freestyle Crop Enabled" />
+      <item value="SCALE WIDGET SENSITIVITY COEFFICIENT" />
       <item value="ROTATE WIDGET SENSITIVITY COEFFICIENT" />
       <item value="enclosing" />
       <item value="is not an enclosing class" />
@@ -52,10 +56,6 @@
       <item value="KEY SHOULD INFLATE" />
       <item value="Sizes are just placeholders" />
       <item value="Burst Counter" />
-      <item value="SENSOR MAX ANALOG SENSITIVITY" />
-      <item value="SENSOR AVAILABLE TEST PATTERN MODES" />
-      <item value="STATE WAIT FOR PRECAPTURE" />
-      <item value="desired" />
     </histories>
     <option name="languageScores">
       <map>
