@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Before" />
       <item value="nothing Picture Selected" />
       <item value="Boolean method 'selectCountCheck' is always inverted" />
       <item value="Orientation 90 is not a valid EXIF orientation value, android doc says that is valid! The clockwise rotation angle in degrees, relative to the orientation to the camera, that the JPEG picture needs to be rotated by, to be viewed upright." />
@@ -55,7 +56,6 @@
       <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
       <item value="Set maximum size for result cropped image. Maximum size cannot be less then {@value MIN_SIZE}" />
       <item value="Set an aspect ratio for crop bounds that is evaluated from source image width and height. User won't see the menu with other ratios options." />
-      <item value="Set an aspect ratio for crop bounds. User won't see the menu with other ratios options." />
     </histories>
     <option name="languageScores">
       <map>
