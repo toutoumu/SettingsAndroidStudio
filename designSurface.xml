@@ -12,6 +12,7 @@
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/drawable/ucrop_vector_loader_animated.xml" value="0.32395833333333335" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/layout/ucrop_activity_photobox.xml" value="0.2574074074074074" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/layout/ucrop_layout_rotate_wheel.xml" value="0.30885416666666665" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/layout/ucrop_layout_scale_wheel.xml" value="0.2574074074074074" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/menu/ucrop_menu_activity.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
