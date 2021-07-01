@@ -99,6 +99,7 @@
         <entry key="library/res/menu/sample.xml" value="0.30885416666666665" />
         <entry key="library/res/xml/passcode_preferences.xml" value="0.4201146865198085" />
         <entry key="library/res/xml/preferences_lock.xml" value="0.1" />
+        <entry key="librarys/ImagePreview/src/main/res/layout/fragment_image_photo_layout.xml" value="0.2600877192982456" />
         <entry key="librarys/mylibrary/src/main/res/layout/activity_common.xml" value="0.1388888888888889" />
         <entry key="librarys/mylibrary/src/main/res/layout/activity_custom_preview.xml" value="0.2600877192982456" />
         <entry key="librarys/mylibrary/src/main/res/layout/activity_image_preview_photo.xml" value="0.19537037037037036" />
