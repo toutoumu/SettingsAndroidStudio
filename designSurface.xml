@@ -7,6 +7,7 @@
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/3a053e83d3ac3c4d2f93fe69886c445a/jetified-ucrop-2.2.6/res/layout/ucrop_fragment_photobox.xml" value="0.26944444444444443" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/66b606266a9d3ed5c2b5fb1a465f6ad7/preference-1.1.1/res/layout/preference.xml" value="0.30885416666666665" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/78be485c09b159ccd6437b5ce26410a0/jetified-appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.2759259259259259" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/a093faf67487f7c195dbfb8b9f96eb87/jetified-ImagePreview-2.3.7/res/layout/activity_image_preview_photo.xml" value="0.2600877192982456" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/a093faf67487f7c195dbfb8b9f96eb87/jetified-ImagePreview-2.3.7/res/layout/fragment_image_photo_layout.xml" value="0.2462962962962963" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/drawable/ucrop_vector_ic_crop.xml" value="0.32395833333333335" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/drawable/ucrop_vector_loader_animated.xml" value="0.32395833333333335" />
@@ -81,7 +82,7 @@
         <entry key="library/res/layout/preference.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/preferences.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/pro.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/sample_activity.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/sample_activity.xml" value="0.1" />
         <entry key="library/res/layout/swipeback_layout.xml" value="0.23703703703703705" />
         <entry key="library/res/layout/switch_preference.xml" value="0.19506578947368422" />
         <entry key="library/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
@@ -99,7 +100,7 @@
         <entry key="library/res/xml/passcode_preferences.xml" value="0.4201146865198085" />
         <entry key="library/res/xml/preferences_lock.xml" value="0.1" />
         <entry key="librarys/mylibrary/src/main/res/layout/activity_common.xml" value="0.1388888888888889" />
-        <entry key="librarys/mylibrary/src/main/res/layout/activity_custom_preview.xml" value="0.2567099567099567" />
+        <entry key="librarys/mylibrary/src/main/res/layout/activity_custom_preview.xml" value="0.2600877192982456" />
         <entry key="librarys/mylibrary/src/main/res/layout/activity_image_preview_photo.xml" value="0.19537037037037036" />
         <entry key="librarys/mylibrary/src/main/res/layout/content_list.xml" value="0.30885416666666665" />
         <entry key="librarys/mylibrary/src/main/res/layout/content_tablayout.xml" value="0.3041025641025641" />
