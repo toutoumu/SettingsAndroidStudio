@@ -72,6 +72,7 @@
         <entry key="library/res/layout/activity_gpvideoplayer.xml" value="0.2324074074074074" />
         <entry key="library/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_picture.xml" value="0.30885416666666665" />
+        <entry key="library/res/layout/activity_test.xml" value="0.287962962962963" />
         <entry key="library/res/layout/app_passcode_keyboard.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/content_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/content_picture_list.xml" value="0.1" />
@@ -142,6 +143,7 @@
         <entry key="projects/niu/src/main/res/drawable/selector_car_arrow.xml" value="0.262037037037037" />
         <entry key="projects/niu/src/main/res/drawable/selector_check_box_arrow.xml" value="0.32395833333333335" />
         <entry key="projects/niu/src/main/res/drawable/selector_ic_light.xml" value="0.275" />
+        <entry key="projects/niu/src/main/res/layout/activity_custom_preview.xml" value="0.24814814814814815" />
         <entry key="projects/niu/src/main/res/layout/activity_main.xml" value="0.17222222222222222" />
         <entry key="projects/niu/src/main/res/layout/activity_pay_result.xml" value="0.20462962962962963" />
         <entry key="projects/niu/src/main/res/layout/activity_preview.xml" value="0.121875" />
