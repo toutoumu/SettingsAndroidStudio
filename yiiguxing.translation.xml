@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Create a waveform vibration. Waveform vibrations are a potentially repeating series of timing and amplitude pairs. For each pair, the value in the amplitude array determines the strength of the vibration and the value in the timing array determines how long it vibrates for. An amplitude of 0 implies no vibration (i.e. off), and any pairs with a timing value of 0 will be ignored. &lt;p&gt; The amplitude array of the generated waveform will be the same size as the given timing array with alternating values of 0 (i.e. off) and {@link DEFAULT_AMPLITUDE}, starting with 0. Therefore the first timing value will be the period to wait before turning the vibrator on, the second value will be how long to vibrate at {@link DEFAULT_AMPLITUDE} strength, etc. &lt;p&gt;&lt;p&gt; To cause the pattern to repeat, pass the index into the timings array at which to start the repetition, or -1 to disable repeating. &lt;p&gt;" />
+      <item value="amplitude" />
+      <item value="PARCEL TOKEN WAVEFORM" />
+      <item value="PARCEL TOKEN ONE SHOT" />
       <item value="Check is a file is writable. Detects write issues on external SD card." />
       <item value="The specified dimension holds a float and should be multiplied by the height or width of the parent of the object being animated." />
       <item value="Change in Y coordinate to apply at the start of the animation" />
@@ -52,10 +56,6 @@
       <item value="count拍摄" />
       <item value="its called when a saving task is done and the imagemovie is rdy to get attached to the MainActivityscreenslideFragment" />
       <item value="True if the child does not want the parent to intercept touch events." />
-      <item value="Add a user's movement to the tracker. You should call this for the initial {@link MotionEventACTION_DOWN}, the following {@link MotionEventACTION_MOVE} events that you receive, and the final {@link MotionEventACTION_UP}. You can, however, call this for whichever events you desire." />
-      <item value="Intrinsic" />
-      <item value="Transform" />
-      <item value="m Matrix" />
     </histories>
     <option name="languageScores">
       <map>
