@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Check is a file is writable. Detects write issues on external SD card." />
       <item value="The specified dimension holds a float and should be multiplied by the height or width of the parent of the object being animated." />
       <item value="Change in Y coordinate to apply at the start of the animation" />
       <item value="Pass true if all of the animations in this set should use the interpolator associated with this AnimationSet. Pass false if each animation should use its own interpolator" />
@@ -55,7 +56,6 @@
       <item value="Intrinsic" />
       <item value="Transform" />
       <item value="m Matrix" />
-      <item value="bound Position" />
     </histories>
     <option name="languageScores">
       <map>
