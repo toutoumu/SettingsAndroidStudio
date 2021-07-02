@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pass true if all of the animations in this set should use the interpolator associated with this AnimationSet. Pass false if each animation should use its own interpolator" />
       <item value="pecifies how fromXValue should be interpreted. One of Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or Animation.RELATIVE_TO_PARENT." />
       <item value="Make this drawable mutable" />
       <item value="CONTROLS ANIMATION DURATION" />
@@ -55,7 +56,6 @@
       <item value="bound Position" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="persistent" />
-      <item value="KEY SHOULD INFLATE" />
     </histories>
     <option name="languageScores">
       <map>
