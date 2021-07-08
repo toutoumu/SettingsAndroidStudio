@@ -64,6 +64,9 @@
         <entry key="app/src/main/res/layout/layout_certification_did_not_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
+        <entry key="library/res/drawable-v21/ic_lock_white_48dp.xml" value="0.5" />
+        <entry key="library/res/drawable-v21/ic_settings_white_24dp.xml" value="0.5" />
+        <entry key="library/res/drawable-v21/img_default.xml" value="0.24015444015444015" />
         <entry key="library/res/drawable/img_empty.xml" value="0.32395833333333335" />
         <entry key="library/res/drawable/table_frame_gray.xml" value="0.29814814814814816" />
         <entry key="library/res/layout-sw600dp/app_passcode_keyboard.xml" value="0.231640625" />
