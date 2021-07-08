@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclude From Recents" />
       <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
       <item value="Create a waveform vibration. Waveform vibrations are a potentially repeating series of timing and amplitude pairs. For each pair, the value in the amplitude array determines the strength of the vibration and the value in the timing array determines how long it vibrates for. An amplitude of 0 implies no vibration (i.e. off), and any pairs with a timing value of 0 will be ignored. &lt;p&gt; The amplitude array of the generated waveform will be the same size as the given timing array with alternating values of 0 (i.e. off) and {@link DEFAULT_AMPLITUDE}, starting with 0. Therefore the first timing value will be the period to wait before turning the vibrator on, the second value will be how long to vibrate at {@link DEFAULT_AMPLITUDE} strength, etc. &lt;p&gt;&lt;p&gt; To cause the pattern to repeat, pass the index into the timings array at which to start the repetition, or -1 to disable repeating. &lt;p&gt;" />
       <item value="amplitude" />
@@ -55,7 +56,6 @@
       <item value="the intrinsic width, or -1 if no intrinsic width" />
       <item value="Set the matrix to identity" />
       <item value="count拍摄" />
-      <item value="its called when a saving task is done and the imagemovie is rdy to get attached to the MainActivityscreenslideFragment" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625106709512" />
+    <option name="lastTrimTime" value="1625744954767" />
   </component>
 </application>
