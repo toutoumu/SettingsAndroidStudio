@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transparent" />
+      <item value="透明" />
       <item value="Called when a load completes successfully, immediately before" />
       <item value="14:05 File type recognized: File extension .analysis_options was reassigned to YAML Revert" />
       <item value="Accelerate Decelerate Interpolator" />
@@ -54,8 +56,6 @@
       <item value="This class encodes images into HEIF-compatible samples using HEVC encoder." />
       <item value="schedule" />
       <item value="Schedules the specified task for repeated &lt;i&gt;fixed-delay execution&lt;i&gt;, beginning after the specified delay. Subsequent executions take place at approximately regular intervals separated by the specified period." />
-      <item value="Schedules the specified task for execution after the specified delay." />
-      <item value="Intrinsic width is the width at which the drawable would like to be laid out, including any inherent padding. If the drawable has no intrinsic width, such as a solid color, this method returns -1." />
     </histories>
     <option name="languageScores">
       <map>

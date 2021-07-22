@@ -71,6 +71,7 @@
         <entry key="library/res/drawable/passcode_logo.xml" value="0.29259259259259257" />
         <entry key="library/res/drawable/table_frame_gray.xml" value="0.29814814814814816" />
         <entry key="library/res/drawable/traceparent_drawable.xml" value="0.32395833333333335" />
+        <entry key="library/res/drawable/transparent_drawable.xml" value="0.32395833333333335" />
         <entry key="library/res/layout-sw600dp/app_passcode_keyboard.xml" value="0.231640625" />
         <entry key="library/res/layout/activity_album.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/activity_crop.xml" value="0.30885416666666665" />
