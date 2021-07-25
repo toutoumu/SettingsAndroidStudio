@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="oval" />
       <item value="transparent" />
       <item value="透明" />
       <item value="Called when a load completes successfully, immediately before" />
@@ -55,7 +56,6 @@
       <item value="If not null, client will receive all callbacks on the handler's looper. Otherwise, client will receive callbacks on a looper created by us." />
       <item value="This class encodes images into HEIF-compatible samples using HEVC encoder." />
       <item value="schedule" />
-      <item value="Schedules the specified task for repeated &lt;i&gt;fixed-delay execution&lt;i&gt;, beginning after the specified delay. Subsequent executions take place at approximately regular intervals separated by the specified period." />
     </histories>
     <option name="languageScores">
       <map>
