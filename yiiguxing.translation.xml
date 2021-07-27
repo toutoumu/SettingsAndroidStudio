@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="compress" />
       <item value="ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
       <item value="Stop the heif writer synchronously. Throws exception if the writer didn't finish writing successfully. Upon a success return: - For buffer and bitmap inputs, all images sent before stop will be written. - For surface input, images with timestamp on or before that specified in {@link setInputEndOfStreamTimestamp(long)} will be written. In case where {@link setInputEndOfStreamTimestamp(long)} was never called, stop will block until maximum number of images are received. @param timeoutMs Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely. @see setInputEndOfStreamTimestamp(long) @throws Exception if encountered error, in which case the output file may not be valid. In particular, {@link TimeoutException} is thrown when timed out, and {@link MediaCodec.CodecException} is thrown when encountered codec error." />
       <item value="synchronously" />
@@ -55,7 +56,6 @@
       <item value="Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely." />
       <item value="INPUT MODE BUFFER" />
       <item value="Please refer to the documentations on individual methods for the exact usage." />
-      <item value="This class writes one or more still images (of the same dimensions) into a heif file." />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626848758696" />
+    <option name="lastTrimTime" value="1627351429642" />
   </component>
 </application>
