@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="byte array containing the YUV data. If the format has more than one planes, they must be concatenated" />
+      <item value="byte array containing the YUV data. If the format has more than one planes, they must be concatenated." />
       <item value="If set to a value &gt; 1, requests the decoder to subsample the original image, returning a smaller image to save memory. The sample size is the number of pixels in either dimension that correspond to a single pixel in the decoded bitmap. For example, inSampleSize == 4 returns an image that is 14 the widthheight of the original, and 116 the number of pixels. Any value &lt;= 1 is treated the same as 1. Note: the decoder uses a final value based on powers of 2, any other value will be rounded down to the nearest power of 2." />
       <item value="Keep aspect ratio if one dimension is set to 0" />
       <item value="compress" />
@@ -52,10 +54,8 @@
       <item value="Whether to enable grid option. If enabled, the tile size will be automatically chosen. Default is to enable." />
       <item value="If set to true, the decoder will return null (no bitmap), but the &lt;code&gt;out...&lt;code&gt; fields will still be set, allowing the caller to query the bitmap without having to allocate the memory for its pixels." />
       <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling" />
-      <item value="byte array containing the YUV data. If the format has more than one planes, they must be concatenated." />
       <item value="microsec" />
       <item value="Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely." />
-      <item value="INPUT MODE BUFFER" />
     </histories>
     <option name="languageScores">
       <map>
