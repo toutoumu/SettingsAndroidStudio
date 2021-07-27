@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If set to a value &gt; 1, requests the decoder to subsample the original image, returning a smaller image to save memory. The sample size is the number of pixels in either dimension that correspond to a single pixel in the decoded bitmap. For example, inSampleSize == 4 returns an image that is 14 the widthheight of the original, and 116 the number of pixels. Any value &lt;= 1 is treated the same as 1. Note: the decoder uses a final value based on powers of 2, any other value will be rounded down to the nearest power of 2." />
       <item value="Keep aspect ratio if one dimension is set to 0" />
       <item value="compress" />
       <item value="ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
@@ -50,7 +51,6 @@
       <item value="Max number of images to write. Frames exceeding this number will not be written to file. The writing can be stopped earlier before this number of images are written by {@link stop(long)}, except for the input mode of {@link INPUT_MODE_SURFACE}, where the EOS timestamp must be specified (via {@link setInputEndOfStreamTimestamp(long)} and reached. Default is 1." />
       <item value="Whether to enable grid option. If enabled, the tile size will be automatically chosen. Default is to enable." />
       <item value="If set to true, the decoder will return null (no bitmap), but the &lt;code&gt;out...&lt;code&gt; fields will still be set, allowing the caller to query the bitmap without having to allocate the memory for its pixels." />
-      <item value="If set to a value &gt; 1, requests the decoder to subsample the original image, returning a smaller image to save memory. The sample size is the number of pixels in either dimension that correspond to a single pixel in the decoded bitmap. For example, inSampleSize == 4 returns an image that is 14 the widthheight of the original, and 116 the number of pixels. Any value &lt;= 1 is treated the same as 1. Note: the decoder uses a final value based on powers of 2, any other value will be rounded down to the nearest power of 2." />
       <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling" />
       <item value="byte array containing the YUV data. If the format has more than one planes, they must be concatenated." />
       <item value="microsec" />
