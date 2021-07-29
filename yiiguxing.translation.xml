@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Glide uses it's own default tag id, so there's no need to specify your own. This method will be removed in a future version." />
+      <item value="Indicates data was retrieved from the in memory cache." />
       <item value="if" />
       <item value="39164794512" />
       <item value="(Optional) Row bytes of each image plane. If yuv contains padding, the stride of each image must be provided. If strides is null, the method assumes no padding and derives the row bytes by format and width itself." />
@@ -54,8 +56,6 @@
       <item value="Add Exif data for the specified image. The data must be a valid Exif data block, starting with &quot;Exif\0\0&quot; followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
       <item value="temp File" />
       <item value="in favor of the more explicit" />
-      <item value="A number between 0 and 100 (inclusive), with 100 indicating the best quality supported by this implementation. Default is 100." />
-      <item value="Max number of images to write. Frames exceeding this number will not be written to file. The writing can be stopped earlier before this number of images are written by {@link stop(long)}, except for the input mode of {@link INPUT_MODE_SURFACE}, where the EOS timestamp must be specified (via {@link setInputEndOfStreamTimestamp(long)} and reached. Default is 1." />
     </histories>
     <option name="languageScores">
       <map>
