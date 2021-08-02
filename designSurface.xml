@@ -17,8 +17,9 @@
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/menu/ucrop_menu_activity.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.29259259259259257" />
-        <entry key="app/src/main/res/drawable/transparent_drawable.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/drawable/transparent_drawable.xml" value="0.318974358974359" />
         <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/activity_custom_preview.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_device_list.xml" value="0.23425925925925925" />
