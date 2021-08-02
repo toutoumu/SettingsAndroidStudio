@@ -61,7 +61,7 @@
         <entry key="app/src/main/res/layout/item_binding_record_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/item_image.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_message.xml" value="0.18981481481481483" />
-        <entry key="app/src/main/res/layout/item_photo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_photo.xml" value="0.28055555555555556" />
         <entry key="app/src/main/res/layout/item_service_management_approved.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_service_management_not_applied.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/item_service_management_paused.xml" value="0.46328125" />
@@ -69,15 +69,15 @@
         <entry key="app/src/main/res/layout/layout_certification_did_not_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
-        <entry key="app/src/main/res/layout/toolbar_center_title.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/toolbar_left_image.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/toolbar_center_title.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/layout/toolbar_left_image.xml" value="0.28055555555555556" />
         <entry key="app/src/main/res/layout/toolbar_right_image.xml" value="0.1" />
         <entry key="app/src/main/res/layout/toolbar_right_text.xml" value="0.12314814814814815" />
         <entry key="app/src/main/res/menu/album.xml" value="0.2564814814814815" />
         <entry key="app/src/main/res/menu/options.xml" value="0.2564814814814815" />
         <entry key="app/src/main/res/menu/sample.xml" value="0.11875" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2972222222222222" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.318974358974359" />
         <entry key="library/res/drawable-v21/ic_lock_white_48dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/ic_settings_white_24dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/img_default.xml" value="0.24015444015444015" />
