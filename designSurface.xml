@@ -72,9 +72,11 @@
         <entry key="app/src/main/res/layout/toolbar_left_image.xml" value="0.1" />
         <entry key="app/src/main/res/layout/toolbar_right_image.xml" value="0.1" />
         <entry key="app/src/main/res/layout/toolbar_right_text.xml" value="0.12314814814814815" />
-        <entry key="app/src/main/res/menu/album.xml" value="0.1" />
-        <entry key="app/src/main/res/menu/options.xml" value="0.12314814814814815" />
-        <entry key="app/src/main/res/menu/sample.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/album.xml" value="0.2564814814814815" />
+        <entry key="app/src/main/res/menu/options.xml" value="0.2564814814814815" />
+        <entry key="app/src/main/res/menu/sample.xml" value="0.11875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2972222222222222" />
         <entry key="library/res/drawable-v21/ic_lock_white_48dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/ic_settings_white_24dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/img_default.xml" value="0.24015444015444015" />
