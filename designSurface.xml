@@ -17,7 +17,9 @@
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b06d87206962b680aaa2b930bc5df086/jetified-ucrop-2.2.6-native/res/menu/ucrop_menu_activity.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/activity_image_preview_photo.xml" value="0.30885416666666665" />
         <entry key="ImagePreview/src/main/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.29259259259259257" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/drawable/transparent_drawable.xml" value="0.318974358974359" />
         <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/activity_custom_preview.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_device_list.xml" value="0.23425925925925925" />
@@ -31,6 +33,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.24074074074074073" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4041666666666667" />
         <entry key="app/src/main/res/layout/activity_main3.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/activity_picture.xml" value="0.2564814814814815" />
         <entry key="app/src/main/res/layout/activity_prescription_drug_audit_details.xml" value="0.3041025641025641" />
         <entry key="app/src/main/res/layout/activity_server_settings.xml" value="0.20555555555555555" />
         <entry key="app/src/main/res/layout/activity_service_management.xml" value="0.30885416666666665" />
@@ -53,10 +56,12 @@
         <entry key="app/src/main/res/layout/fragment_prescription_drug_audit_details.xml" value="0.375" />
         <entry key="app/src/main/res/layout/fragment_workbench.xml" value="0.1" />
         <entry key="app/src/main/res/layout/freedviewer_gridviewfragment.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/freedviewer_screenslide_fragment.xml" value="0.11875" />
         <entry key="app/src/main/res/layout/item_binding_record_applying.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/item_binding_record_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/item_image.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_message.xml" value="0.18981481481481483" />
+        <entry key="app/src/main/res/layout/item_photo.xml" value="0.28055555555555556" />
         <entry key="app/src/main/res/layout/item_service_management_approved.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_service_management_not_applied.xml" value="0.46328125" />
         <entry key="app/src/main/res/layout/item_service_management_paused.xml" value="0.46328125" />
@@ -64,6 +69,15 @@
         <entry key="app/src/main/res/layout/layout_certification_did_not_passed.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/layout_certification_pending_review.xml" value="0.35138888888888886" />
         <entry key="app/src/main/res/layout/ppw_protocol.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/layout/toolbar_center_title.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/layout/toolbar_left_image.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/layout/toolbar_right_image.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/toolbar_right_text.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/menu/album.xml" value="0.2564814814814815" />
+        <entry key="app/src/main/res/menu/options.xml" value="0.2564814814814815" />
+        <entry key="app/src/main/res/menu/sample.xml" value="0.11875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.318974358974359" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.318974358974359" />
         <entry key="library/res/drawable-v21/ic_lock_white_48dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/ic_settings_white_24dp.xml" value="0.5" />
         <entry key="library/res/drawable-v21/img_default.xml" value="0.24015444015444015" />
@@ -85,13 +99,13 @@
         <entry key="library/res/layout/custom_fragment.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/fragment_image_photo_layout.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/item_album.xml" value="0.30885416666666665" />
-        <entry key="library/res/layout/item_image.xml" value="0.1" />
+        <entry key="library/res/layout/item_image.xml" value="0.1787037037037037" />
         <entry key="library/res/layout/item_photo.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/preference.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/preferences.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/pro.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/sample_activity.xml" value="0.1" />
-        <entry key="library/res/layout/swipeback_layout.xml" value="0.23703703703703705" />
+        <entry key="library/res/layout/swipeback_layout.xml" value="0.2564814814814815" />
         <entry key="library/res/layout/switch_preference.xml" value="0.19506578947368422" />
         <entry key="library/res/layout/toolbar_center_title.xml" value="0.30885416666666665" />
         <entry key="library/res/layout/toolbar_left_image.xml" value="0.30885416666666665" />
@@ -127,11 +141,14 @@
         <entry key="projects/app/src/main/res/layout/content_picture_list.xml" value="0.2600877192982456" />
         <entry key="projects/app/src/main/res/layout/fragment_dialog_plus.xml" value="0.13157894736842105" />
         <entry key="projects/app/src/main/res/layout/item_image.xml" value="0.2600877192982456" />
-        <entry key="projects/beijing/src/main/res/layout/activity_custom_preview.xml" value="0.1962962962962963" />
+        <entry key="projects/beijing/src/main/res/layout/activity_custom_preview.xml" value="0.2567099567099567" />
+        <entry key="projects/beijing/src/main/res/layout/activity_custom_preview1.xml" value="0.15745614035087718" />
         <entry key="projects/beijing/src/main/res/layout/activity_welcome.xml" value="0.26296296296296295" />
         <entry key="projects/beijing/src/main/res/layout/content_abc.xml" value="0.3041025641025641" />
         <entry key="projects/beijing/src/main/res/layout/content_image_text_live.xml" value="0.13157894736842105" />
+        <entry key="projects/beijing/src/main/res/layout/item_article_list_banner.xml" value="0.2600877192982456" />
         <entry key="projects/beijing/src/main/res/layout/item_grid_image_tw.xml" value="0.2600877192982456" />
+        <entry key="projects/beijing/src/main/res/layout/item_header_topic.xml" value="0.2600877192982456" />
         <entry key="projects/beijing/src/main/res/layout/item_image.xml" value="0.2600877192982456" />
         <entry key="projects/beijing/src/main/res/layout/item_tw_image.xml" value="0.2600877192982456" />
         <entry key="projects/equipment/src/main/res/layout/content_main_fragment.xml" value="0.15020263424518743" />
