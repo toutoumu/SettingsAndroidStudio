@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ONLINE SHOPPING MALL QUICK" />
       <item value="attach" />
       <item value="图片浏览器" />
       <item value="Glide uses it's own default tag id, so there's no need to specify your own. This method will be removed in a future version." />
@@ -55,7 +56,6 @@
       <item value="Gets the specified tag's value as an byte array, if possible. Only supported where the tag is set as String, Integer, int[], byte[] or Rational[]." />
       <item value="ROTATION = 6;" />
       <item value="get Standalone Attributes" />
-      <item value="Add Exif data for the specified image. The data must be a valid Exif data block, starting with &quot;Exif\0\0&quot; followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627824859378" />
+    <option name="lastTrimTime" value="1628778714757" />
   </component>
 </application>
