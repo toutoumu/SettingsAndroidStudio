@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SENSOR PRESET PORTRAIT" />
       <item value="camera image Mega Pixels" />
       <item value="Default zoom. Accepts a float representing the factor to zoom by." />
       <item value="coroutines" />
@@ -55,7 +56,6 @@
       <item value="is not an enclosing class" />
       <item value="Before" />
       <item value="nothing Picture Selected" />
-      <item value="Boolean method 'selectCountCheck' is always inverted" />
     </histories>
     <option name="languageScores">
       <map>
