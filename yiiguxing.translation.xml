@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TORCH" />
+      <item value="&lt;p&gt;Whether auto-white balance (AWB) is currently setting the color transform fields, and what its illumination target is.&lt;p&gt; &lt;p&gt;This control is only effective if {@link CaptureRequestCONTROL_MODE android.control.mode} is AUTO.&lt;p&gt; &lt;p&gt;When set to the ON mode, the camera device's auto-white balance routine is enabled, overriding the application's selected {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}. Note that when {@link CaptureRequestCONTROL_AE_MODE android.control.aeMode} is OFF, the behavior of AWB is device dependent. It is recommened to also set AWB mode to OFF or lock AWB by using {@link CaptureRequestCONTROL_AWB_LOCK android.control.awbLock} before setting AE mode to OFF.&lt;p&gt; &lt;p&gt;When set to the OFF mode, the camera device's auto-white balance routine is disabled. The application manually controls the white balance by {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}.&lt;p&gt; &lt;p&gt;When set to any other modes, the camera device's auto-white balance routine is disabled. The camera device uses each particular illumination target for white balance adjustment. The application's values for" />
+      <item value="CONTROL AWB MODE" />
+      <item value="CONTROL MODE" />
       <item value="CONTROL AE TARGET FPS RANGE" />
       <item value="PREVIEW EFFECT SOLARIZE" />
       <item value="PREVIEW EFFECT MONO" />
@@ -52,10 +56,6 @@
       <item value="Change in Y coordinate to apply at the start of the animation" />
       <item value="Pass true if all of the animations in this set should use the interpolator associated with this AnimationSet. Pass false if each animation should use its own interpolator" />
       <item value="pecifies how fromXValue should be interpreted. One of Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or Animation.RELATIVE_TO_PARENT." />
-      <item value="Make this drawable mutable" />
-      <item value="CONTROLS ANIMATION DURATION" />
-      <item value="set Dimmed Color" />
-      <item value="set Freestyle Crop Enabled" />
     </histories>
     <option name="languageScores">
       <map>
