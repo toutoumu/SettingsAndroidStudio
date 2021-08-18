@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclude Problematic Sizes" />
+      <item value="ImageFormat.PRIVATE is only public after Android level 23. Therefore, using SurfaceTexture.class to get the supported output sizes before Android level 23." />
+      <item value="SCALER STREAM CONFIGURATION MAP" />
       <item value="OPTION ROTATION" />
       <item value="Simulate a button click, including a small delay while it is being pressed to trigger the appropriate animations." />
       <item value="Restrict To" />
@@ -33,7 +36,6 @@
       <item value="SENSOR PRESET LANDSCAPE" />
       <item value="SENSOR PRESET PORTRAIT" />
       <item value="SENSOR PRESET ACTION" />
-      <item value="SCALER STREAM CONFIGURATION MAP" />
       <item value="camera image Mega Pixels" />
       <item value="Default zoom. Accepts a float representing the factor to zoom by." />
       <item value="coroutines" />
@@ -54,8 +56,6 @@
       <item value="Keep aspect ratio if one dimension is set to 0" />
       <item value="compress" />
       <item value="ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
-      <item value="Stop the heif writer synchronously. Throws exception if the writer didn't finish writing successfully. Upon a success return: - For buffer and bitmap inputs, all images sent before stop will be written. - For surface input, images with timestamp on or before that specified in {@link setInputEndOfStreamTimestamp(long)} will be written. In case where {@link setInputEndOfStreamTimestamp(long)} was never called, stop will block until maximum number of images are received. @param timeoutMs Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely. @see setInputEndOfStreamTimestamp(long) @throws Exception if encountered error, in which case the output file may not be valid. In particular, {@link TimeoutException} is thrown when timed out, and {@link MediaCodec.CodecException} is thrown when encountered codec error." />
-      <item value="synchronously" />
     </histories>
     <option name="languageScores">
       <map>
