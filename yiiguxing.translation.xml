@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="OPTION ROTATION" />
+      <item value="Simulate a button click, including a small delay while it is being pressed to trigger the appropriate animations." />
+      <item value="Restrict To" />
+      <item value="Sets the intended output target resolution. &lt;p&gt;The target resolution attempts to establish a minimum bound for the image resolution. The actual image resolution will be the closest available resolution in size that is not smaller than the target resolution, as determined by the Camera implementation. However, if no resolution exists that is equal to or larger than the target resolution, the nearest available resolution smaller than the target resolution will be chosen. Resolutions with the same aspect ratio of the provided {@link Size} will be considered in higher priority before resolutions of different aspect ratios. &lt;p&gt;It is not allowed to set both target aspect ratio and target resolution on the same use case. Attempting so will throw an IllegalArgumentException when building the Config. &lt;p&gt;The resolution {@link Size} should be expressed in the coordinate frame after rotating the supported sizes by the target rotation. For example, a device with portrait natural orientation in natural target rotation requesting a portrait image may specify 480x640, and the same device, rotated 90 degrees and targeting landscape orientation may specify 640x480. &lt;p&gt;When the target resolution is set, {@link ImageCapturesetCropAspectRatio(Rational)} will be automatically called to set corresponding value. Such that the output image will be cropped into the desired aspect ratio. &lt;p&gt;The maximum available resolution that could be selected for an {@link ImageCapture} will depend on the camera device's capability. &lt;p&gt;If not set, the largest available resolution will be selected to use. Usually, users will intend to get the largest still image that the camera device can support. @param resolution The target resolution to choose from supported output sizes list. @return The current Builder." />
       <item value="CAPTURE MODE MAXIMIZE QUALITY" />
       <item value="CAPTURE MODE MINIMIZE LATENCY" />
       <item value="Directions" />
@@ -52,10 +56,6 @@
       <item value="ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
       <item value="Stop the heif writer synchronously. Throws exception if the writer didn't finish writing successfully. Upon a success return: - For buffer and bitmap inputs, all images sent before stop will be written. - For surface input, images with timestamp on or before that specified in {@link setInputEndOfStreamTimestamp(long)} will be written. In case where {@link setInputEndOfStreamTimestamp(long)} was never called, stop will block until maximum number of images are received. @param timeoutMs Maximum time (in microsec) to wait for the writer to complete, with zero indicating waiting indefinitely. @see setInputEndOfStreamTimestamp(long) @throws Exception if encountered error, in which case the output file may not be valid. In particular, {@link TimeoutException} is thrown when timed out, and {@link MediaCodec.CodecException} is thrown when encountered codec error." />
       <item value="synchronously" />
-      <item value="oval" />
-      <item value="transparent" />
-      <item value="透明" />
-      <item value="Called when a load completes successfully, immediately before" />
     </histories>
     <option name="languageScores">
       <map>
