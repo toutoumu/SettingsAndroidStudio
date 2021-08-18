@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A singleton which can be used to bind the lifecycle of cameras to any {@link LifecycleOwner} within an application's process. &lt;p&gt;Only a single process camera provider can exist within a process, and it can be retrieved with {@link getInstance(Context)}. &lt;p&gt;Heavyweight resources, such as open and running camera devices, will be scoped to the lifecycle provided to {@link bindToLifecycle(LifecycleOwner, CameraSelector, UseCase...)}. Other lightweight resources, such as static camera characteristics, may be retrieved and cached upon first retrieval of this provider with {@link getInstance(Context)}, and will persist for the lifetime of the process. &lt;p&gt;This is the standard provider for applications to use." />
+      <item value="LENS FACING FRONT" />
+      <item value="is Reversed Horizontal" />
+      <item value="format" />
+      <item value="In the background, load latest photo taken (if any) for gallery thumbnail" />
+      <item value="Remove previous UI if any" />
+      <item value="Wait for the views to be properly laid out" />
       <item value="performance" />
       <item value="compatible" />
       <item value="implementation Mode" />
@@ -49,13 +56,6 @@
       <item value="SENSOR PRESET LANDSCAPE" />
       <item value="SENSOR PRESET PORTRAIT" />
       <item value="SENSOR PRESET ACTION" />
-      <item value="camera image Mega Pixels" />
-      <item value="Default zoom. Accepts a float representing the factor to zoom by." />
-      <item value="coroutines" />
-      <item value="PREPARATION PHARMACY" />
-      <item value="ONLINE SHOPPING MALL QUICK" />
-      <item value="attach" />
-      <item value="图片浏览器" />
     </histories>
     <option name="languageScores">
       <map>
