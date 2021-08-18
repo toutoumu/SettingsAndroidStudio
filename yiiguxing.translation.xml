@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="performance" />
+      <item value="compatible" />
+      <item value="implementation Mode" />
+      <item value="USE FRAME PROCESSOR" />
       <item value="exposure Correction" />
       <item value="filter Control 1" />
       <item value="take Picture Snapshot" />
@@ -52,10 +56,6 @@
       <item value="ONLINE SHOPPING MALL QUICK" />
       <item value="attach" />
       <item value="图片浏览器" />
-      <item value="Glide uses it's own default tag id, so there's no need to specify your own. This method will be removed in a future version." />
-      <item value="Indicates data was retrieved from the in memory cache." />
-      <item value="if" />
-      <item value="39164794512" />
     </histories>
     <option name="languageScores">
       <map>
