@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exposure Correction" />
+      <item value="filter Control 1" />
+      <item value="take Picture Snapshot" />
+      <item value="camera Experimental" />
       <item value="Sets the image capture mode. &lt;p&gt;Valid capture modes are {@link CaptureModeCAPTURE_MODE_MINIMIZE_LATENCY}, which prioritizes latency over image quality, or {@link CaptureModeCAPTURE_MODE_MAXIMIZE_QUALITY}, which prioritizes image quality over latency. &lt;p&gt;If not set, the capture mode will default to {@link CaptureModeCAPTURE_MODE_MINIMIZE_LATENCY}. @param captureMode The requested image capture mode. @return The current Builder." />
       <item value="Create a SurfaceSizeDefinition object with input analysis, preview, record and maximum sizes" />
       <item value="get Analysis Size" />
@@ -52,10 +56,6 @@
       <item value="Indicates data was retrieved from the in memory cache." />
       <item value="if" />
       <item value="39164794512" />
-      <item value="(Optional) Row bytes of each image plane. If yuv contains padding, the stride of each image must be provided. If strides is null, the method assumes no padding and derives the row bytes by format and width itself." />
-      <item value="remaining" />
-      <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling" />
-      <item value="byte array containing the YUV data. If the format has more than one planes, they must be concatenated" />
     </histories>
     <option name="languageScores">
       <map>
