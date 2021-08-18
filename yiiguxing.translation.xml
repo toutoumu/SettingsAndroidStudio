@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Custom View that displays the camera feed for CameraX's {@link Preview} use case. &lt;p&gt; This class manages the preview {@link Surface}'s lifecycle. It internally uses either a {@link TextureView} or {@link SurfaceView} to display the camera feed, and applies required transformations on them to correctly display the preview, this involves correcting their aspect ratio, scale and rotation. &lt;p&gt; If {@link PreviewView} uses a {@link SurfaceView} to display the preview stream, be careful when overlapping a {@link View} that's initially not visible (either {@link ViewINVISIBLE} or {@link ViewGONE}) on top of it. When the {@link SurfaceView} is attached to the display window, it calls {@link android.view.ViewParentrequestTransparentRegion(View)} which requests a computation of the transparent regions on the display. At this point, the {@link View} isn't visible, causing the overlapped region between the {@link SurfaceView} and the {@link View} to be considered transparent. Later if the {@link View} becomes {@linkplain ViewVISIBLE visible}, it will not be displayed on top of {@link SurfaceView}. A way around this is to call {@link android.view.ViewParentrequestTransparentRegion(View)} right after making the {@link View} visible, or initially hiding the {@link View} by setting its {@linkplain ViewsetAlpha(float) opacity} to 0, then setting it to 1.0F to show it." />
       <item value="TORCH" />
       <item value="&lt;p&gt;Whether auto-white balance (AWB) is currently setting the color transform fields, and what its illumination target is.&lt;p&gt; &lt;p&gt;This control is only effective if {@link CaptureRequestCONTROL_MODE android.control.mode} is AUTO.&lt;p&gt; &lt;p&gt;When set to the ON mode, the camera device's auto-white balance routine is enabled, overriding the application's selected {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}. Note that when {@link CaptureRequestCONTROL_AE_MODE android.control.aeMode} is OFF, the behavior of AWB is device dependent. It is recommened to also set AWB mode to OFF or lock AWB by using {@link CaptureRequestCONTROL_AWB_LOCK android.control.awbLock} before setting AE mode to OFF.&lt;p&gt; &lt;p&gt;When set to the OFF mode, the camera device's auto-white balance routine is disabled. The application manually controls the white balance by {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}.&lt;p&gt; &lt;p&gt;When set to any other modes, the camera device's auto-white balance routine is disabled. The camera device uses each particular illumination target for white balance adjustment. The application's values for" />
       <item value="CONTROL AWB MODE" />
@@ -55,7 +56,6 @@
       <item value="The specified dimension holds a float and should be multiplied by the height or width of the parent of the object being animated." />
       <item value="Change in Y coordinate to apply at the start of the animation" />
       <item value="Pass true if all of the animations in this set should use the interpolator associated with this AnimationSet. Pass false if each animation should use its own interpolator" />
-      <item value="pecifies how fromXValue should be interpreted. One of Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or Animation.RELATIVE_TO_PARENT." />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628778714757" />
+    <option name="lastTrimTime" value="1629250197797" />
   </component>
 </application>
