@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="pop Up To Inclusive" />
       <item value="Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
       <item value="incremental" />
       <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven2(http:repo.pageturner-reader.org)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.0.2dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
@@ -55,7 +56,6 @@
       <item value="CONTROL MODE" />
       <item value="CONTROL AE TARGET FPS RANGE" />
       <item value="PREVIEW EFFECT SOLARIZE" />
-      <item value="PREVIEW EFFECT MONO" />
     </histories>
     <option name="languageScores">
       <map>
