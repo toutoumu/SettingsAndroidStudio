@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="destination" />
       <item value="pop Up To Inclusive" />
       <item value="Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
       <item value="incremental" />
@@ -55,7 +56,6 @@
       <item value="CONTROL AWB MODE" />
       <item value="CONTROL MODE" />
       <item value="CONTROL AE TARGET FPS RANGE" />
-      <item value="PREVIEW EFFECT SOLARIZE" />
     </histories>
     <option name="languageScores">
       <map>
