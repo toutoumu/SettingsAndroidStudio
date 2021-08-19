@@ -6,8 +6,9 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="destination" />
       <item value="pop Up To Inclusive" />
+      <item value="This method is called whenever the user chooses to navigate Up within your application's activity hierarchy from the action bar. &lt;p&gt;If a parent was specified in the manifest for this activity or an activity-alias to it, default Up navigation will be handled automatically. See {@link getSupportParentActivityIntent()} for how to specify the parent. If any activity along the parent chain requires extra Intent arguments, the Activity subclass should override the method {@link onPrepareSupportNavigateUpTaskStack(androidx.core.app.TaskStackBuilder)} to supply those arguments.&lt;p&gt; &lt;p&gt;See &lt;a href=&quot;{@docRoot}guidetopicsfundamentalstasks-and-back-stack.html&quot;&gt;Tasks and Back Stack&lt;a&gt; from the developer guide and &lt;a href=&quot;{@docRoot}designpatternsnavigation.html&quot;&gt;Navigation&lt;a&gt; from the design guide for more information about navigating within your app.&lt;p&gt;" />
+      <item value="destination" />
       <item value="Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
       <item value="incremental" />
       <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven2(http:repo.pageturner-reader.org)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.0.2dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
@@ -55,7 +56,6 @@
       <item value="&lt;p&gt;Whether auto-white balance (AWB) is currently setting the color transform fields, and what its illumination target is.&lt;p&gt; &lt;p&gt;This control is only effective if {@link CaptureRequestCONTROL_MODE android.control.mode} is AUTO.&lt;p&gt; &lt;p&gt;When set to the ON mode, the camera device's auto-white balance routine is enabled, overriding the application's selected {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}. Note that when {@link CaptureRequestCONTROL_AE_MODE android.control.aeMode} is OFF, the behavior of AWB is device dependent. It is recommened to also set AWB mode to OFF or lock AWB by using {@link CaptureRequestCONTROL_AWB_LOCK android.control.awbLock} before setting AE mode to OFF.&lt;p&gt; &lt;p&gt;When set to the OFF mode, the camera device's auto-white balance routine is disabled. The application manually controls the white balance by {@link CaptureRequestCOLOR_CORRECTION_TRANSFORM android.colorCorrection.transform}, {@link CaptureRequestCOLOR_CORRECTION_GAINS android.colorCorrection.gains} and {@link CaptureRequestCOLOR_CORRECTION_MODE android.colorCorrection.mode}.&lt;p&gt; &lt;p&gt;When set to any other modes, the camera device's auto-white balance routine is disabled. The camera device uses each particular illumination target for white balance adjustment. The application's values for" />
       <item value="CONTROL AWB MODE" />
       <item value="CONTROL MODE" />
-      <item value="CONTROL AE TARGET FPS RANGE" />
     </histories>
     <option name="languageScores">
       <map>
