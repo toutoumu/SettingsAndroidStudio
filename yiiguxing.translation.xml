@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="245" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Transform Start" />
       <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the given values. This is useful for thumbnails, and should only be used for other cases when you need a very specific image size. @param width The width in pixels to use to load the resource. @param height The height in pixels to use to load the resource. @return This request builder." />
       <item value="Navigate to a destination via the given deep link {@link Uri}. {@link NavDestinationhasDeepLink(Uri)} should be called on {@link getGraph() the navigation graph} prior to calling this method to check if the deep link is valid. If an invalid deep link is given, an {@link IllegalArgumentException} will be thrown. @param deepLink deepLink to the destination reachable from the current NavGraph @param navOptions special options for this navigation operation @param navigatorExtras extras to pass to the Navigator @see navigate(NavDeepLinkRequest, NavOptions, Navigator.Extras)" />
       <item value="Navigate to a destination via the given deep link {@link Uri}. {@link NavDestinationhasDeepLink(Uri)} should be called on {@link getGraph() the navigation graph} prior to calling this method to check if the deep link is valid. If an invalid deep link is given, an {@link IllegalArgumentException} will be thrown." />
@@ -55,7 +56,6 @@
       <item value="generate" />
       <item value="generated" />
       <item value="generic" />
-      <item value="Sets the rotation that the intended target resolution is expressed in. &lt;p&gt;This sets the rotation that is used when specifying a target resolution using {@link setTargetResolution(Size)}, which accepts a resolution at the target orientation. &lt;p&gt;rotation is one of four valid values: {@link SurfaceROTATION_0}, {@link SurfaceROTATION_90}, {@link SurfaceROTATION_180}, {@link SurfaceROTATION_270}. Rotation values are relative to the &quot;natural&quot; rotation, {@link SurfaceROTATION_0}. &lt;p&gt;For example a portrait natural device may specify a portrait image target resolution as 480x640, and the same device rotated to and displaying in landscape (i.e. as returned by {@link DisplaygetRotation()}) may set the target rotation to {@link SurfaceROTATION_90} and resolution to 640x480. &lt;p&gt;If not set, the target rotation will default to the value of {@link DisplaygetRotation()} of the default display at the time the use case is created. The use case is fully created once it has been attached to a camera. &lt;p&gt; Note that {@link SurfaceView} does not support non-display rotation. If the target rotation is different than the value of {@link DisplaygetRotation()}, {@link SurfaceView} should not be used to provide the {@link Surface} in {@link SurfaceRequestprovideSurface(Surface, Executor, Consumer)} @param rotation The rotation of the intended target. @return The current Builder. @see setTargetResolution(Size)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629250197797" />
+    <option name="lastTrimTime" value="1629769348430" />
   </component>
 </application>
