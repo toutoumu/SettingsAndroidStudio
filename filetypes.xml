@@ -8,6 +8,7 @@
       <mapping pattern="部门动态" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dollar_text" type="PLAIN_TEXT" />
+      <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
       <mapping pattern="Flutter 常用命令.md" type="PLAIN_TEXT" />
       <mapping pattern="mock" type="PLAIN_TEXT" />
       <mapping pattern="at_text" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping pattern="attrs_form" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
