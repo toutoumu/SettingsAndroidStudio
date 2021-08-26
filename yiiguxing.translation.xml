@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Composition Local Provider" />
+      <item value="Create a ViewWindowInsetObserver using this view, and call start() to start listening now. The WindowInsets instance is returned, allowing us to provide it to AmbientWindowInsets in our content below." />
       <item value="Circular Reveal" />
       <item value="Workaround for simplicity" />
       <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
@@ -52,13 +54,11 @@
       <item value="mute Local Audio" />
       <item value="Millis" />
       <item value="delay Millis" />
-      <item value="Gregorian Calendar" />
-      <item value="VIEW EVALUATION ENABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="858" />
+        <entry key="CHINESE" value="859" />
+        <entry key="ENGLISH" value="860" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
