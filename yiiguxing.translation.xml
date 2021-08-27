@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
+      <item value="Use navigationBarsWithImePadding(), to move the input panel above both the navigation bar, and on-screen keyboard (IME)" />
       <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
       <item value="keyboard Shown Property" />
       <item value="content Description" />
@@ -52,13 +54,11 @@
       <item value="咨询" />
       <item value="clinic Count" />
       <item value="is External Storage Manager" />
-      <item value="Member Company" />
-      <item value="Base class for activities that enables composition of higher level components. &lt;p&gt; Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="866" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="868" />
+        <entry key="ENGLISH" value="869" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
