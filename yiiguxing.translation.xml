@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="annotation" />
       <item value="Mutable Transition State" />
       <item value="Opt-in to experiment animated insets support" />
       <item value="Composition Local Provider" />
@@ -53,7 +54,6 @@
       <item value="The time span." />
       <item value="association" />
       <item value="hangup" />
-      <item value="mute Local Audio" />
     </histories>
     <option name="languageScores">
       <map>
