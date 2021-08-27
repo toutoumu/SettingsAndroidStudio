@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
+      <item value="reverse Layout" />
       <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
       <item value="Use navigationBarsWithImePadding(), to move the input panel above both the navigation bar, and on-screen keyboard (IME)" />
       <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
@@ -52,13 +54,11 @@
       <item value="Chinese Medicine Mall Quick Activity" />
       <item value="Inquiry Details Diagnostic Info" />
       <item value="咨询" />
-      <item value="clinic Count" />
-      <item value="is External Storage Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
