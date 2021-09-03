@@ -1,66 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="387" />
-    <option name="newTranslationDialogWidth" value="835" />
-    <option name="newTranslationDialogX" value="331" />
-    <option name="newTranslationDialogY" value="245" />
+    <option name="newTranslationDialogX" value="566" />
+    <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="ONLINE SHOPPING MALL" />
-      <item value="CHINESE MEDICINE MALL" />
-      <item value="PREPARATION PHARMACY" />
-      <item value="This mode is not recommended for production use, as no stabilitycompatibility guarantees are given on compiler or generated code. Use it at your own risk!" />
-      <item value="fill" />
-      <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
-      <item value="bounds" />
-      <item value="Transform" />
-      <item value="m Transform Start" />
-      <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the given values. This is useful for thumbnails, and should only be used for other cases when you need a very specific image size. @param width The width in pixels to use to load the resource. @param height The height in pixels to use to load the resource. @return This request builder." />
-      <item value="Navigate to a destination via the given deep link {@link Uri}. {@link NavDestinationhasDeepLink(Uri)} should be called on {@link getGraph() the navigation graph} prior to calling this method to check if the deep link is valid. If an invalid deep link is given, an {@link IllegalArgumentException} will be thrown. @param deepLink deepLink to the destination reachable from the current NavGraph @param navOptions special options for this navigation operation @param navigatorExtras extras to pass to the Navigator @see navigate(NavDeepLinkRequest, NavOptions, Navigator.Extras)" />
-      <item value="Navigate to a destination via the given deep link {@link Uri}. {@link NavDestinationhasDeepLink(Uri)} should be called on {@link getGraph() the navigation graph} prior to calling this method to check if the deep link is valid. If an invalid deep link is given, an {@link IllegalArgumentException} will be thrown." />
-      <item value="factor Degree to which the animation should be eased. Setting factor to 1.0f produces an upside-down y=x^2 parabola. Increasing factor above 1.0f exaggerates the ease-out effect (i.e., it starts even faster and ends evens slower)." />
-      <item value="ceil" />
-      <item value="pop Up To Inclusive" />
-      <item value="navigation" />
-      <item value="This method is called whenever the user chooses to navigate Up within your application's activity hierarchy from the action bar. &lt;p&gt;If a parent was specified in the manifest for this activity or an activity-alias to it, default Up navigation will be handled automatically. See {@link getSupportParentActivityIntent()} for how to specify the parent. If any activity along the parent chain requires extra Intent arguments, the Activity subclass should override the method {@link onPrepareSupportNavigateUpTaskStack(androidx.core.app.TaskStackBuilder)} to supply those arguments.&lt;p&gt; &lt;p&gt;See &lt;a href=&quot;{@docRoot}guidetopicsfundamentalstasks-and-back-stack.html&quot;&gt;Tasks and Back Stack&lt;a&gt; from the developer guide and &lt;a href=&quot;{@docRoot}designpatternsnavigation.html&quot;&gt;Navigation&lt;a&gt; from the design guide for more information about navigating within your app.&lt;p&gt;" />
-      <item value="destination" />
-      <item value="Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
-      <item value="incremental" />
-      <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven2(http:repo.pageturner-reader.org)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.0.2dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
-      <item value="A singleton which can be used to bind the lifecycle of cameras to any {@link LifecycleOwner} within an application's process. &lt;p&gt;Only a single process camera provider can exist within a process, and it can be retrieved with {@link getInstance(Context)}. &lt;p&gt;Heavyweight resources, such as open and running camera devices, will be scoped to the lifecycle provided to {@link bindToLifecycle(LifecycleOwner, CameraSelector, UseCase...)}. Other lightweight resources, such as static camera characteristics, may be retrieved and cached upon first retrieval of this provider with {@link getInstance(Context)}, and will persist for the lifetime of the process. &lt;p&gt;This is the standard provider for applications to use." />
-      <item value="LENS FACING FRONT" />
-      <item value="is Reversed Horizontal" />
-      <item value="format" />
-      <item value="In the background, load latest photo taken (if any) for gallery thumbnail" />
-      <item value="Remove previous UI if any" />
-      <item value="Wait for the views to be properly laid out" />
-      <item value="performance" />
-      <item value="compatible" />
-      <item value="implementation Mode" />
-      <item value="USE FRAME PROCESSOR" />
-      <item value="exposure Correction" />
-      <item value="filter Control 1" />
-      <item value="take Picture Snapshot" />
-      <item value="camera Experimental" />
-      <item value="Sets the image capture mode. &lt;p&gt;Valid capture modes are {@link CaptureModeCAPTURE_MODE_MINIMIZE_LATENCY}, which prioritizes latency over image quality, or {@link CaptureModeCAPTURE_MODE_MAXIMIZE_QUALITY}, which prioritizes image quality over latency. &lt;p&gt;If not set, the capture mode will default to {@link CaptureModeCAPTURE_MODE_MINIMIZE_LATENCY}. @param captureMode The requested image capture mode. @return The current Builder." />
-      <item value="Create a SurfaceSizeDefinition object with input analysis, preview, record and maximum sizes" />
-      <item value="get Analysis Size" />
-      <item value="Transform to a SurfaceConfig object with image format and size info @param imageFormat the image format info for the surface configuration object @param size the size info for the surface configuration object @retur" />
-      <item value="Compare with surface size definition to determine the surface configuration size" />
-      <item value="exclude Problematic Sizes" />
-      <item value="ImageFormat.PRIVATE is only public after Android level 23. Therefore, using SurfaceTexture.class to get the supported output sizes before Android level 23." />
-      <item value="SCALER STREAM CONFIGURATION MAP" />
-      <item value="OPTION ROTATION" />
-      <item value="Simulate a button click, including a small delay while it is being pressed to trigger the appropriate animations." />
-      <item value="Restrict To" />
-      <item value="Sets the intended output target resolution. &lt;p&gt;The target resolution attempts to establish a minimum bound for the image resolution. The actual image resolution will be the closest available resolution in size that is not smaller than the target resolution, as determined by the Camera implementation. However, if no resolution exists that is equal to or larger than the target resolution, the nearest available resolution smaller than the target resolution will be chosen. Resolutions with the same aspect ratio of the provided {@link Size} will be considered in higher priority before resolutions of different aspect ratios. &lt;p&gt;It is not allowed to set both target aspect ratio and target resolution on the same use case. Attempting so will throw an IllegalArgumentException when building the Config. &lt;p&gt;The resolution {@link Size} should be expressed in the coordinate frame after rotating the supported sizes by the target rotation. For example, a device with portrait natural orientation in natural target rotation requesting a portrait image may specify 480x640, and the same device, rotated 90 degrees and targeting landscape orientation may specify 640x480. &lt;p&gt;When the target resolution is set, {@link ImageCapturesetCropAspectRatio(Rational)} will be automatically called to set corresponding value. Such that the output image will be cropped into the desired aspect ratio. &lt;p&gt;The maximum available resolution that could be selected for an {@link ImageCapture} will depend on the camera device's capability. &lt;p&gt;If not set, the largest available resolution will be selected to use. Usually, users will intend to get the largest still image that the camera device can support. @param resolution The target resolution to choose from supported output sizes list. @return The current Builder." />
-      <item value="CAPTURE MODE MAXIMIZE QUALITY" />
-      <item value="CAPTURE MODE MINIMIZE LATENCY" />
+      <item value="Combines cells with adaptive number of rows or columns. It will try to position as many rows or columns as possible on the condition that every cell has at least [minSize] space and all extra space distributed evenly. For example, for the vertical [LazyVerticalGrid] Adaptive(20.dp) would mean that there will be as many columns as possible and every column will be at least 20.dp and all the columns will have equal width. If the screen is 88.dp wide then there will be 4 columns 22.dp each." />
+      <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the [OnBackPressedDispatcher] of the [LocalOnBackPressedDispatcherOwner]. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. @sample androidx.activity.compose.samples.BackHandler @param enabled if this BackHandler should be enabled @param onBack the action invoked by pressing the system back" />
+      <item value="Caches the [PagingData] such that any downstream collection from this flow will share the same [PagingData]. The flow is kept active as long as the given [scope] is active. To avoid leaks, make sure to use a [scope] that is already managed (like a ViewModel scope) or manually cancel it when you don't need paging anymore. A common use case for this caching is to cache [PagingData] in a ViewModel. This can ensure that, upon configuration change (e.g. rotation), then new Activity will receive the existing data immediately rather than fetching it from scratch. Calling [cachedIn] is required to allow calling [submitData][androidx.paging.AsyncPagingDataAdapter] on the same instance of [PagingData] emitted by [Pager] or any of its transformed derivatives, as reloading data from scratch on the same generation of [PagingData] is an unsupported operation. Note that this does not turn the `Flow&lt;PagingData&gt;` into a hot stream. It won't execute any unnecessary code unless it is being collected." />
+      <item value="repository" />
+      <item value="coroutine" />
+      <item value="Onboarding" />
+      <item value="Tell Compose runtime that this object will not change so it can perform optimizations" />
+      <item value="This app draws behind the system bars, so we want to handle fitting system windows" />
+      <item value="expect" />
+      <item value="用户协议" />
+      <item value="Remember the value produced by [init]. It behaves similarly to [remember], but the stored value will survive the activity or process recreation using the saved instance state mechanism (for example it happens when the screen is rotated in the Android application). @sample androidx.compose.runtime.saveable.samples.RememberSaveable If you use it with types which can be stored inside the Bundle then it will be saved and restored automatically using [autoSaver], otherwise you will need to provide a custom [Saver] implementation via the [saver] param. @sample androidx.compose.runtime.saveable.samples.RememberSaveableCustomSaver You can use it with a value stored inside [androidx.compose.runtime.mutableStateOf]. @sample androidx.compose.runtime.saveable.samples.RememberSaveableWithMutableState If the value inside the MutableState can be stored inside the Bundle it would be saved and restored automatically, otherwise you will need to provide a custom [Saver] implementation via an overload with which has `stateSaver` param. @sample androidx.compose.runtime.saveable.samples.RememberSaveableWithMutableStateAndCustomSaver @param inputs A set of inputs such that, when any of them have changed, will cause the state to reset and [init] to be rerun @param saver The [Saver] object which defines how the state is saved and restored. @param key An optional key to be used as a key for the saved value. If not provided we use the automatically generated by the Compose runtime which is unique for the every exact code location in the composition tree @param init A factory function to create the initial value of this state" />
+      <item value="Snapshot" />
+      <item value="Return a new [MutableState] initialized with the passed in [value] The MutableState class is a single value holder whose reads and writes are observed by Compose. Additionally, writes to it are transacted as part of the [Snapshot] system. @param value the initial value for the [MutableState] @param policy a policy to controls how changes are handled in mutable snapshots." />
+      <item value="enable Placeholders" />
+      <item value="UNSPLASH STARTING PAGE INDEX" />
+      <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
+      <item value="reverse Layout" />
+      <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
+      <item value="Use navigationBarsWithImePadding(), to move the input panel above both the navigation bar, and on-screen keyboard (IME)" />
+      <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
+      <item value="keyboard Shown Property" />
+      <item value="content Description" />
+      <item value="semantics" />
+      <item value="[CompositionLocalProvider] binds values to [ProvidableCompositionLocal] keys. Reading the [CompositionLocal] using [CompositionLocal.current] will return the value provided in [CompositionLocalProvider]'s [values] parameter for all composable functions called directly or indirectly in the [content] lambda." />
+      <item value="annotation" />
+      <item value="Mutable Transition State" />
+      <item value="Opt-in to experiment animated insets support" />
+      <item value="Composition Local Provider" />
+      <item value="Create a ViewWindowInsetObserver using this view, and call start() to start listening now. The WindowInsets instance is returned, allowing us to provide it to AmbientWindowInsets in our content below." />
+      <item value="Circular Reveal" />
+      <item value="Workaround for simplicity" />
+      <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
+      <item value="Prescription Drug Audit Details Fragment" />
+      <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
+      <item value="determine" />
+      <item value="Coroutine Scope" />
+      <item value="immediate" />
+      <item value="Launches a new coroutine without blocking the current thread and returns a reference to the coroutine as a [Job]. The coroutine is cancelled when the resulting job is [cancelled][Job.cancel]. The coroutine context is inherited from a [CoroutineScope]. Additional context elements can be specified with [context] argument. If the context does not have any dispatcher nor any other [ContinuationInterceptor], then [Dispatchers.Default] is used. The parent job is inherited from a [CoroutineScope] as well, but it can also be overridden with a corresponding [context] element. By default, the coroutine is immediately scheduled for execution. Other start options can be specified via `start` parameter. See [CoroutineStart] for details. An optional [start] parameter can be set to [CoroutineStart.LAZY] to start coroutine _lazily_. In this case, the coroutine [Job] is created in _new_ state. It can be explicitly started with [start][Job.start] function and will be started implicitly on the first invocation of [join][Job.join]. Uncaught exceptions in this coroutine cancel the parent job in the context by default (unless [CoroutineExceptionHandler] is explicitly specified), which means that when `launch` is used with the context of another coroutine, then any uncaught exception leads to the cancellation of the parent coroutine. See [newCoroutineContext] for a description of debugging facilities that are available for a newly created coroutine. @param context additional to [CoroutineScope.coroutineContext] context of the coroutine. @param start coroutine start option. The default value is [CoroutineStart.DEFAULT]. @param block the coroutine code which will be invoked in the context of the provided scope." />
+      <item value="pass Audit" />
+      <item value="pass After Sale" />
+      <item value="get Logistics Info" />
+      <item value="trello" />
+      <item value="The creator for the connection implemented with the okhttp3." />
+      <item value="Trust Any Trust Manager" />
+      <item value="goods List" />
+      <item value="is Push Retreat Price" />
+      <item value="m Tv Order End Consultation" />
+      <item value="Serving Fragment" />
+      <item value="SILENCE" />
+      <item value="income New Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="884" />
+        <entry key="ENGLISH" value="885" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -78,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629769348430" />
+    <option name="lastTrimTime" value="1630389045922" />
   </component>
 </application>
