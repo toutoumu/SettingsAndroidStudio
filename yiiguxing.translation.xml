@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Lots" />
       <item value="Prking Item" />
       <item value="隐私政策" />
       <item value="Combines cells with adaptive number of rows or columns. It will try to position as many rows or columns as possible on the condition that every cell has at least [minSize] space and all extra space distributed evenly. For example, for the vertical [LazyVerticalGrid] Adaptive(20.dp) would mean that there will be as many columns as possible and every column will be at least 20.dp and all the columns will have equal width. If the screen is 88.dp wide then there will be 4 columns 22.dp each." />
@@ -53,12 +54,11 @@
       <item value="goods List" />
       <item value="is Push Retreat Price" />
       <item value="m Tv Order End Consultation" />
-      <item value="Serving Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="886" />
+        <entry key="ENGLISH" value="887" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
