@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PROVICE" />
       <item value="Lots" />
       <item value="Prking Item" />
       <item value="隐私政策" />
@@ -53,12 +54,11 @@
       <item value="Trust Any Trust Manager" />
       <item value="goods List" />
       <item value="is Push Retreat Price" />
-      <item value="m Tv Order End Consultation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="889" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
