@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Prking Item" />
       <item value="隐私政策" />
       <item value="Combines cells with adaptive number of rows or columns. It will try to position as many rows or columns as possible on the condition that every cell has at least [minSize] space and all extra space distributed evenly. For example, for the vertical [LazyVerticalGrid] Adaptive(20.dp) would mean that there will be as many columns as possible and every column will be at least 20.dp and all the columns will have equal width. If the screen is 88.dp wide then there will be 4 columns 22.dp each." />
       <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the [OnBackPressedDispatcher] of the [LocalOnBackPressedDispatcherOwner]. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. @sample androidx.activity.compose.samples.BackHandler @param enabled if this BackHandler should be enabled @param onBack the action invoked by pressing the system back" />
@@ -53,12 +54,11 @@
       <item value="is Push Retreat Price" />
       <item value="m Tv Order End Consultation" />
       <item value="Serving Fragment" />
-      <item value="SILENCE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="885" />
+        <entry key="ENGLISH" value="886" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630389045922" />
+    <option name="lastTrimTime" value="1630978642775" />
   </component>
 </application>
