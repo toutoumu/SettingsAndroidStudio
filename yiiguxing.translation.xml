@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add semantics keyvalue pairs to the layout node, for use in testing, accessibility, etc. The provided lambda receiver scope provides &quot;key = value&quot;-style setters for any [SemanticsPropertyKey]. Additionally, chaining multiple semantics modifiers is also a supported style. The resulting semantics produce two [SemanticsNode] trees: The &quot;unmerged tree&quot; rooted at [SemanticsOwner.unmergedRootSemanticsNode] has one [SemanticsNode] per layout node which has any [SemanticsModifier] on it. This [SemanticsNode] contains all the properties set in all the [SemanticsModifier]s on that node. The &quot;merged tree&quot; rooted at [SemanticsOwner.rootSemanticsNode] has equal-or-fewer nodes: it simplifies the structure based on [mergeDescendants] and [clearAndSetSemantics]. For most purposes (especially accessibility, or the testing of accessibility), the merged semantics tree should be used. @param mergeDescendants Whether the semantic information provided by the owning component and its descendants should be treated as one logical entity. Most commonly set on screen-reader-focusable items such as buttons or form fields. In the merged semantics tree, all descendant nodes (except those themselves marked [mergeDescendants]) will disappear from the tree, and their properties will get merged into the parent's configuration (using a merging algorithm that varies based on the type of property -- for example, text properties will get concatenated, separated by commas). In the unmerged semantics tree, the node is simply marked with [SemanticsConfiguration.isMergingSemanticsOfDescendants]. @param properties properties to add to the semantics. [SemanticsPropertyReceiver] will be provided in the scope to allow access for common properties and its values." />
       <item value="Make the emoji selector focusable so it can steal focus from TextField" />
       <item value="Provide WindowInsets to our content. We don't want to consume them, so that they keep being pass down the view hierarchy (since we're using fragments)." />
       <item value="Launched Effect" />
@@ -53,12 +54,11 @@
       <item value="Prescription Drug Audit Details Fragment" />
       <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
       <item value="determine" />
-      <item value="Coroutine Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="901" />
+        <entry key="ENGLISH" value="902" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
