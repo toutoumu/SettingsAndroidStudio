@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="systemuicontroller" />
+      <item value="accompanist" />
       <item value="Surface" />
       <item value="When [LaunchedEffect] enters the composition it will launch [block] into the composition's [CoroutineContext]. The coroutine will be [cancelled][Job.cancel] and re-launched when [LaunchedEffect] is recomposed with a different [key1]. The coroutine will be [cancelled][Job.cancel] when the [LaunchedEffect] leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in [MutableState] passed to [key1]. Instead, see [rememberCoroutineScope] to obtain a [CoroutineScope] that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
       <item value="Add semantics keyvalue pairs to the layout node, for use in testing, accessibility, etc. The provided lambda receiver scope provides &quot;key = value&quot;-style setters for any [SemanticsPropertyKey]. Additionally, chaining multiple semantics modifiers is also a supported style. The resulting semantics produce two [SemanticsNode] trees: The &quot;unmerged tree&quot; rooted at [SemanticsOwner.unmergedRootSemanticsNode] has one [SemanticsNode] per layout node which has any [SemanticsModifier] on it. This [SemanticsNode] contains all the properties set in all the [SemanticsModifier]s on that node. The &quot;merged tree&quot; rooted at [SemanticsOwner.rootSemanticsNode] has equal-or-fewer nodes: it simplifies the structure based on [mergeDescendants] and [clearAndSetSemantics]. For most purposes (especially accessibility, or the testing of accessibility), the merged semantics tree should be used. @param mergeDescendants Whether the semantic information provided by the owning component and its descendants should be treated as one logical entity. Most commonly set on screen-reader-focusable items such as buttons or form fields. In the merged semantics tree, all descendant nodes (except those themselves marked [mergeDescendants]) will disappear from the tree, and their properties will get merged into the parent's configuration (using a merging algorithm that varies based on the type of property -- for example, text properties will get concatenated, separated by commas). In the unmerged semantics tree, the node is simply marked with [SemanticsConfiguration.isMergingSemanticsOfDescendants]. @param properties properties to add to the semantics. [SemanticsPropertyReceiver] will be provided in the scope to allow access for common properties and its values." />
@@ -52,13 +54,11 @@
       <item value="Create a ViewWindowInsetObserver using this view, and call start() to start listening now. The WindowInsets instance is returned, allowing us to provide it to AmbientWindowInsets in our content below." />
       <item value="Circular Reveal" />
       <item value="Workaround for simplicity" />
-      <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
-      <item value="Prescription Drug Audit Details Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
