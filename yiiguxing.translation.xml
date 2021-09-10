@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obscure Text" />
       <item value="periodic" />
       <item value="{@macro flutter.widgets.widgetsApp.builder} Material specific features such as [showDialog] and [showMenu], and widgets such as [Tooltip], [PopupMenuButton], also require a [Navigator] to properly function." />
       <item value="Makes `Counter` readable inside the devtools by listing all of its properties" />
@@ -53,7 +54,6 @@
       <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
       <item value="determine" />
       <item value="Coroutine Scope" />
-      <item value="immediate" />
     </histories>
     <option name="languageScores">
       <map>
