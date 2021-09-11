@@ -17,4 +17,24 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="container" value="Container(&#10;  child: $Widget$(),&#10;)," description="Create Container Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="Widget" expression="&quot;Widget&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="column" value="Column(&#10;  children: &lt;Widget&gt;[$goto$],&#10;)," description="Create Column Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="goto" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="txt" value="TextButton.icon(&#10; onPressed: () {&#10; print(&quot;TextButton.icon&quot;);&#10; },&#10; icon: Icon(Icons.local_florist),&#10; label: Text(&quot;TextButton.icon&quot;))," description="Create TextButton.icon Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_dropdown" value="           DropdownButton(&#10; value: dropdownValue,&#10; items: [&#10; DropdownMenuItem(&#10; child: Text('北京'),&#10; value: &quot;北京&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('天津'),&#10; value: &quot;天津&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('河北'),&#10; value: &quot;河北&quot;,&#10; )&#10; ],&#10; onChanged: (value) {&#10; setState(() {&#10; dropdownValue = value;&#10; });&#10; }),&#10; " description="Create DropdownButton Widget" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_icon" value="IconButton(icon: Icon(Icons.add_circle_sharp), onPressed: (){&#10; print(&quot;IconButton&quot;);&#10; })," description="Create IconButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
