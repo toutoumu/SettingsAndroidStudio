@@ -29,6 +29,10 @@
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="stf" value="class $NAME$ extends StatelessWidget {&#10;  @override&#10;  _$NAME$State createState() =&gt; _$NAME$State();&#10;}&#10;&#10;class _$NAME$State extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;&#10;" description="Create StatelessWidget Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="btn_dropdown" value="           DropdownButton(&#10; value: dropdownValue,&#10; items: [&#10; DropdownMenuItem(&#10; child: Text('北京'),&#10; value: &quot;北京&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('天津'),&#10; value: &quot;天津&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('河北'),&#10; value: &quot;河北&quot;,&#10; )&#10; ],&#10; onChanged: (value) {&#10; setState(() {&#10; dropdownValue = value;&#10; });&#10; }),&#10; " description="Create DropdownButton Widget" toReformat="false" toShortenFQNames="true">
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
