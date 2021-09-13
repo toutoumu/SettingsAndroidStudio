@@ -4,19 +4,11 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Load State" />
-      <item value="&lt;a href=&quot;https:material.iodesigncolorthe-color-system.html&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Material Design color system&lt;a&gt;. The Material Design color system can help you create a color theme that reflects your brand or style. ![Color image](https:developer.android.comimagesreferenceandroidxcomposematerialcolor.png) To create a light set of colors using the baseline values, use [lightColors] To create a dark set of colors using the baseline values, use [darkColors] @property primary The primary color is the color displayed most frequently across your app’s screens and components. @property primaryVariant The primary variant color is used to distinguish two elements of the app using the primary color, such as the top app bar and the system bar. @property secondary The secondary color provides more ways to accent and distinguish your product. Secondary colors are best for: - Floating action buttons - Selection controls, like checkboxes and radio buttons - Highlighting selected text - Links and headlines @property secondaryVariant The secondary variant color is used to distinguish two elements of the app using the secondary color. @property background The background color appears behind scrollable content. @property surface The surface color is used on surfaces of components, such as cards, sheets and menus. @property error The error color is used to indicate error within components, such as text fields. @property onPrimary Color used for text and icons displayed on top of the primary color. @property onSecondary Color used for text and icons displayed on top of the secondary color. @property onBackground Color used for text and icons displayed on top of the background color. @property onSurface Color used for text and icons displayed on top of the surface color. @property onError Color used for text and icons displayed on top of the error color. @property isLight Whether this Colors is considered as a 'light' or 'dark' set of colors. This affects default behavior for some components: for example, in a light theme a [TopAppBar] will use [primary] by default for its background color, when in a dark theme it will use [surface]." />
-      <item value="Typography" />
-      <item value="systemuicontroller" />
-      <item value="accompanist" />
-      <item value="Surface" />
-      <item value="When [LaunchedEffect] enters the composition it will launch [block] into the composition's [CoroutineContext]. The coroutine will be [cancelled][Job.cancel] and re-launched when [LaunchedEffect] is recomposed with a different [key1]. The coroutine will be [cancelled][Job.cancel] when the [LaunchedEffect] leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in [MutableState] passed to [key1]. Instead, see [rememberCoroutineScope] to obtain a [CoroutineScope] that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
-      <item value="Add semantics keyvalue pairs to the layout node, for use in testing, accessibility, etc. The provided lambda receiver scope provides &quot;key = value&quot;-style setters for any [SemanticsPropertyKey]. Additionally, chaining multiple semantics modifiers is also a supported style. The resulting semantics produce two [SemanticsNode] trees: The &quot;unmerged tree&quot; rooted at [SemanticsOwner.unmergedRootSemanticsNode] has one [SemanticsNode] per layout node which has any [SemanticsModifier] on it. This [SemanticsNode] contains all the properties set in all the [SemanticsModifier]s on that node. The &quot;merged tree&quot; rooted at [SemanticsOwner.rootSemanticsNode] has equal-or-fewer nodes: it simplifies the structure based on [mergeDescendants] and [clearAndSetSemantics]. For most purposes (especially accessibility, or the testing of accessibility), the merged semantics tree should be used. @param mergeDescendants Whether the semantic information provided by the owning component and its descendants should be treated as one logical entity. Most commonly set on screen-reader-focusable items such as buttons or form fields. In the merged semantics tree, all descendant nodes (except those themselves marked [mergeDescendants]) will disappear from the tree, and their properties will get merged into the parent's configuration (using a merging algorithm that varies based on the type of property -- for example, text properties will get concatenated, separated by commas). In the unmerged semantics tree, the node is simply marked with [SemanticsConfiguration.isMergingSemanticsOfDescendants]. @param properties properties to add to the semantics. [SemanticsPropertyReceiver] will be provided in the scope to allow access for common properties and its values." />
-      <item value="Make the emoji selector focusable so it can steal focus from TextField" />
-      <item value="Provide WindowInsets to our content. We don't want to consume them, so that they keep being pass down the view hierarchy (since we're using fragments)." />
-      <item value="Launched Effect" />
-      <item value="semantics" />
-      <item value="Request focus to force the TextField to lose it If the selector is shown, always request focus to trigger a TextField.onFocusChange." />
+      <item value="Clip Oval" />
+      <item value="obscure Text" />
+      <item value="periodic" />
+      <item value="{@macro flutter.widgets.widgetsApp.builder} Material specific features such as [showDialog] and [showMenu], and widgets such as [Tooltip], [PopupMenuButton], also require a [Navigator] to properly function." />
+      <item value="Makes `Counter` readable inside the devtools by listing all of its properties" />
       <item value="Declare the preferred height of the content to match the height of the navigation bars when present at the bottom of the screen. This is very handy when used with `Spacer` to push content below the navigation bars: ``` Column { Content to be drawn above status bars (y-axis) Spacer(Modifier.navigationBarHeight()) } ``` It's also useful when used to draw a scrim which matches the navigation bars: ``` Spacer( Modifier.navigationBarHeight() .fillMaxWidth() .drawBackground(MaterialTheme.colors.background.copy(alpha = 0.3f) ) ``` Internally this matches the behavior of the [Modifier.height] modifier." />
       <item value="Apply additional space which matches the height of the status bars height along the top edge of the content." />
       <item value="velocity" />
@@ -49,16 +41,24 @@
       <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
       <item value="keyboard Shown Property" />
       <item value="content Description" />
+      <item value="semantics" />
       <item value="[CompositionLocalProvider] binds values to [ProvidableCompositionLocal] keys. Reading the [CompositionLocal] using [CompositionLocal.current] will return the value provided in [CompositionLocalProvider]'s [values] parameter for all composable functions called directly or indirectly in the [content] lambda." />
       <item value="annotation" />
       <item value="Mutable Transition State" />
       <item value="Opt-in to experiment animated insets support" />
       <item value="Composition Local Provider" />
+      <item value="Create a ViewWindowInsetObserver using this view, and call start() to start listening now. The WindowInsets instance is returned, allowing us to provide it to AmbientWindowInsets in our content below." />
+      <item value="Circular Reveal" />
+      <item value="Workaround for simplicity" />
+      <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
+      <item value="Prescription Drug Audit Details Fragment" />
+      <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
+      <item value="determine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
