@@ -25,4 +25,8 @@
     <variable name="NAME" expression="" defaultValue="&quot;ClassName&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="statefulBldr" value="StatefulBuilder(&#10;builder: (BuildContext context, StateSetter setState){&#10;return $widget$&#10;}&#10;)," description="New Stateful Builder" toReformat="true" toShortenFQNames="true">
+    <variable name="widget" expression="&quot;widget&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
