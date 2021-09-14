@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gem files will remain installed in" />
       <item value="Clip Oval" />
       <item value="obscure Text" />
       <item value="periodic" />
@@ -53,7 +54,6 @@
       <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
       <item value="Prescription Drug Audit Details Fragment" />
       <item value="Have the content fill (possibly only partially) the [Constraints.maxWidth] of the incoming measurement constraints, by setting the [minimum width][Constraints.minWidth] and the [maximum width][Constraints.maxWidth] to be equal to the [maximum width][Constraints.maxWidth] multiplied by [fraction]. Note that, by default, the [fraction] is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is [Constraints.Infinity] this modifier will have no effect." />
-      <item value="determine" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630978642775" />
+    <option name="lastTrimTime" value="1631582169807" />
   </component>
 </application>
