@@ -1,0 +1,6 @@
+<application>
+  <component name="ProviderDataService">
+    <option name="defaultMode" value="1" />
+    <option name="usePrefix" value="true" />
+  </component>
+</application>
