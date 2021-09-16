@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rectang" />
+      <item value="Rectangle" />
       <item value="circular" />
       <item value="Creates a border radius where all radii are [Radius.circular(radius)]." />
       <item value="The minimum size of the button itself. The size of the rectangle the button lies within may be larger per [tapTargetSize]. This value must be less than or equal to [maximumSize]." />
@@ -52,8 +54,6 @@
       <item value="semantics" />
       <item value="[CompositionLocalProvider] binds values to [ProvidableCompositionLocal] keys. Reading the [CompositionLocal] using [CompositionLocal.current] will return the value provided in [CompositionLocalProvider]'s [values] parameter for all composable functions called directly or indirectly in the [content] lambda." />
       <item value="annotation" />
-      <item value="Mutable Transition State" />
-      <item value="Opt-in to experiment animated insets support" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,5 +77,12 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1631582169807" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
