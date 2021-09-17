@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicator Decoration" />
+      <item value="line Connector Decoration" />
       <item value="Creates a snapping position that is given a positionFactor [positionFactor]: 1 = Full size; 0 = Smallest size. Can be bigger than 1 and smaller than 0 if that is wanted." />
       <item value="This sets the position of the snapping sheet directly without any animation. To use animation, see the [snapToPosition] method." />
       <item value="Add your grabbing widget here," />
@@ -52,8 +54,6 @@
       <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
       <item value="reverse Layout" />
       <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
-      <item value="Use navigationBarsWithImePadding(), to move the input panel above both the navigation bar, and on-screen keyboard (IME)" />
-      <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
     </histories>
     <option name="languageScores">
       <map>
