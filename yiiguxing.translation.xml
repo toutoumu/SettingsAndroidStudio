@@ -4,6 +4,24 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Repaint Boundary" />
+      <item value="milliseconds" />
+      <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
+      <item value="indicator Decoration" />
+      <item value="line Connector Decoration" />
+      <item value="Creates a snapping position that is given a positionFactor [positionFactor]: 1 = Full size; 0 = Smallest size. Can be bigger than 1 and smaller than 0 if that is wanted." />
+      <item value="This sets the position of the snapping sheet directly without any animation. To use animation, see the [snapToPosition] method." />
+      <item value="Add your grabbing widget here," />
+      <item value="maintain Back Layer State" />
+      <item value="reveal Back Layer At Start" />
+      <item value="Rectang" />
+      <item value="Rectangle" />
+      <item value="circular" />
+      <item value="Creates a border radius where all radii are [Radius.circular(radius)]." />
+      <item value="The minimum size of the button itself. The size of the rectangle the button lies within may be larger per [tapTargetSize]. This value must be less than or equal to [maximumSize]." />
+      <item value="side" />
+      <item value="UNIDENTIFIED" />
+      <item value="Cubit" />
       <item value="Comsummer" />
       <item value="Gem files will remain installed in" />
       <item value="Clip Oval" />
@@ -36,24 +54,6 @@
       <item value="Return a new [MutableState] initialized with the passed in [value] The MutableState class is a single value holder whose reads and writes are observed by Compose. Additionally, writes to it are transacted as part of the [Snapshot] system. @param value the initial value for the [MutableState] @param policy a policy to controls how changes are handled in mutable snapshots." />
       <item value="enable Placeholders" />
       <item value="UNSPLASH STARTING PAGE INDEX" />
-      <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
-      <item value="reverse Layout" />
-      <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
-      <item value="Use navigationBarsWithImePadding(), to move the input panel above both the navigation bar, and on-screen keyboard (IME)" />
-      <item value="SemanticsPropertyReceiver is the scope provided by semantics {} blocks, letting you set keyvalue pairs primarily via extension functions." />
-      <item value="keyboard Shown Property" />
-      <item value="content Description" />
-      <item value="semantics" />
-      <item value="[CompositionLocalProvider] binds values to [ProvidableCompositionLocal] keys. Reading the [CompositionLocal] using [CompositionLocal.current] will return the value provided in [CompositionLocalProvider]'s [values] parameter for all composable functions called directly or indirectly in the [content] lambda." />
-      <item value="annotation" />
-      <item value="Mutable Transition State" />
-      <item value="Opt-in to experiment animated insets support" />
-      <item value="Composition Local Provider" />
-      <item value="Create a ViewWindowInsetObserver using this view, and call start() to start listening now. The WindowInsets instance is returned, allowing us to provide it to AmbientWindowInsets in our content below." />
-      <item value="Circular Reveal" />
-      <item value="Workaround for simplicity" />
-      <item value="Turn off the decor fitting system windows, which allows us to handle insets, including IME animations" />
-      <item value="Prescription Drug Audit Details Fragment" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,5 +77,12 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1631582169807" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
