@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Repaint Boundary" />
+      <item value="milliseconds" />
       <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
       <item value="indicator Decoration" />
       <item value="line Connector Decoration" />
@@ -52,8 +54,6 @@
       <item value="Return a new [MutableState] initialized with the passed in [value] The MutableState class is a single value holder whose reads and writes are observed by Compose. Additionally, writes to it are transacted as part of the [Snapshot] system. @param value the initial value for the [MutableState] @param policy a policy to controls how changes are handled in mutable snapshots." />
       <item value="enable Placeholders" />
       <item value="UNSPLASH STARTING PAGE INDEX" />
-      <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
-      <item value="reverse Layout" />
     </histories>
     <option name="languageScores">
       <map>
