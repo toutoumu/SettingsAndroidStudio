@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
       <item value="indicator Decoration" />
       <item value="line Connector Decoration" />
       <item value="Creates a snapping position that is given a positionFactor [positionFactor]: 1 = Full size; 0 = Smallest size. Can be bigger than 1 and smaller than 0 if that is wanted." />
@@ -53,7 +54,6 @@
       <item value="UNSPLASH STARTING PAGE INDEX" />
       <item value="Add content padding so that the content can be scrolled (y-axis) below the status bar + app bar" />
       <item value="reverse Layout" />
-      <item value="Use statusBarsPadding() to move the app bar content below the status bar" />
     </histories>
     <option name="languageScores">
       <map>
