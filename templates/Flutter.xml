@@ -17,9 +17,4 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="snk" value="Stream&lt;$type$&gt; get name =&gt; _$nameController$.sink; &#10;  final _$nameController$ = StreamController&lt;$type$&gt;();" description="Sink" toReformat="true" toShortenFQNames="true">
-    <variable name="type" expression="$type$" defaultValue="" alwaysStopAt="true" />
-    <variable name="nameController" expression="$nameController$" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
