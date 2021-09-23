@@ -20,7 +20,6 @@
   <template name="snk" value="Stream&lt;$type$&gt; get name =&gt; _$nameController$.sink; &#10;  final _$nameController$ = StreamController&lt;$type$&gt;();" description="Sink" toReformat="true" toShortenFQNames="true">
     <variable name="type" expression="$type$" defaultValue="" alwaysStopAt="true" />
     <variable name="nameController" expression="$nameController$" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="animatedBldr" value="AnimatedBuilder(&#10;  animation: $animationController$,&#10;  child: $childWidget$,&#10;  builder: (BuildContext context, Widget child) {&#10;    return $buildWidget$;&#10;  },&#10;);" description="New AnimatedBuilder" toReformat="true" toShortenFQNames="true">
     <variable name="animationController" expression="&quot;animationController&quot;" defaultValue="" alwaysStopAt="true" />
