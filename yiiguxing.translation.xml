@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="base Url协议" />
       <item value="Repaint Boundary" />
       <item value="milliseconds" />
       <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
@@ -53,7 +54,6 @@
       <item value="Snapshot" />
       <item value="Return a new [MutableState] initialized with the passed in [value] The MutableState class is a single value holder whose reads and writes are observed by Compose. Additionally, writes to it are transacted as part of the [Snapshot] system. @param value the initial value for the [MutableState] @param policy a policy to controls how changes are handled in mutable snapshots." />
       <item value="enable Placeholders" />
-      <item value="UNSPLASH STARTING PAGE INDEX" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631582169807" />
+    <option name="lastTrimTime" value="1632408292463" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
