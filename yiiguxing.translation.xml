@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constrained Axis" />
+      <item value="Unconstrained Box" />
       <item value="manual" />
       <item value="edge To Edge" />
       <item value="immersive Sticky" />
@@ -52,8 +54,6 @@
       <item value="PROVICE" />
       <item value="Lots" />
       <item value="Prking Item" />
-      <item value="隐私政策" />
-      <item value="Combines cells with adaptive number of rows or columns. It will try to position as many rows or columns as possible on the condition that every cell has at least [minSize] space and all extra space distributed evenly. For example, for the vertical [LazyVerticalGrid] Adaptive(20.dp) would mean that there will be as many columns as possible and every column will be at least 20.dp and all the columns will have equal width. If the screen is 88.dp wide then there will be 4 columns 22.dp each." />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632408292463" />
+    <option name="lastTrimTime" value="1632986288618" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
