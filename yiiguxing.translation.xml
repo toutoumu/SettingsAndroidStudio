@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Securet" />
       <item value="CLINICS" />
       <item value="constrained Axis" />
       <item value="Unconstrained Box" />
@@ -53,7 +54,6 @@
       <item value="Tween Spec" />
       <item value="duration Millis" />
       <item value="PROVICE" />
-      <item value="Lots" />
     </histories>
     <option name="languageScores">
       <map>
