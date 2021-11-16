@@ -4,8 +4,26 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Repaint Boundary" />
+      <item value="Securet" />
+      <item value="CLINICS" />
+      <item value="constrained Axis" />
+      <item value="Unconstrained Box" />
+      <item value="manual" />
+      <item value="edge To Edge" />
+      <item value="immersive Sticky" />
+      <item value="immersive" />
+      <item value="lean Back" />
+      <item value="You only need to call this method if you need the binding to be initialized before calling [runApp]." />
+      <item value="microseconds" />
       <item value="milliseconds" />
+      <item value="Zero is at the bottom and positive values are above it: `⇈` Alphabetical content with a [GrowthDirection.forward] would have the A at the bottom and the Z at the top. This is an unusual configuration." />
+      <item value="axis Direction" />
+      <item value="This app needs access to location when open and in the background." />
+      <item value="This app needs access to location when in the background." />
+      <item value="This app needs access to location in the background." />
+      <item value="NS Location When In Use Usage Description" />
+      <item value="base Url协议" />
+      <item value="Repaint Boundary" />
       <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
       <item value="indicator Decoration" />
       <item value="line Connector Decoration" />
@@ -36,24 +54,6 @@
       <item value="Tween Spec" />
       <item value="duration Millis" />
       <item value="PROVICE" />
-      <item value="Lots" />
-      <item value="Prking Item" />
-      <item value="隐私政策" />
-      <item value="Combines cells with adaptive number of rows or columns. It will try to position as many rows or columns as possible on the condition that every cell has at least [minSize] space and all extra space distributed evenly. For example, for the vertical [LazyVerticalGrid] Adaptive(20.dp) would mean that there will be as many columns as possible and every column will be at least 20.dp and all the columns will have equal width. If the screen is 88.dp wide then there will be 4 columns 22.dp each." />
-      <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the [OnBackPressedDispatcher] of the [LocalOnBackPressedDispatcherOwner]. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. @sample androidx.activity.compose.samples.BackHandler @param enabled if this BackHandler should be enabled @param onBack the action invoked by pressing the system back" />
-      <item value="Caches the [PagingData] such that any downstream collection from this flow will share the same [PagingData]. The flow is kept active as long as the given [scope] is active. To avoid leaks, make sure to use a [scope] that is already managed (like a ViewModel scope) or manually cancel it when you don't need paging anymore. A common use case for this caching is to cache [PagingData] in a ViewModel. This can ensure that, upon configuration change (e.g. rotation), then new Activity will receive the existing data immediately rather than fetching it from scratch. Calling [cachedIn] is required to allow calling [submitData][androidx.paging.AsyncPagingDataAdapter] on the same instance of [PagingData] emitted by [Pager] or any of its transformed derivatives, as reloading data from scratch on the same generation of [PagingData] is an unsupported operation. Note that this does not turn the `Flow&lt;PagingData&gt;` into a hot stream. It won't execute any unnecessary code unless it is being collected." />
-      <item value="repository" />
-      <item value="coroutine" />
-      <item value="Onboarding" />
-      <item value="Tell Compose runtime that this object will not change so it can perform optimizations" />
-      <item value="This app draws behind the system bars, so we want to handle fitting system windows" />
-      <item value="expect" />
-      <item value="用户协议" />
-      <item value="Remember the value produced by [init]. It behaves similarly to [remember], but the stored value will survive the activity or process recreation using the saved instance state mechanism (for example it happens when the screen is rotated in the Android application). @sample androidx.compose.runtime.saveable.samples.RememberSaveable If you use it with types which can be stored inside the Bundle then it will be saved and restored automatically using [autoSaver], otherwise you will need to provide a custom [Saver] implementation via the [saver] param. @sample androidx.compose.runtime.saveable.samples.RememberSaveableCustomSaver You can use it with a value stored inside [androidx.compose.runtime.mutableStateOf]. @sample androidx.compose.runtime.saveable.samples.RememberSaveableWithMutableState If the value inside the MutableState can be stored inside the Bundle it would be saved and restored automatically, otherwise you will need to provide a custom [Saver] implementation via an overload with which has `stateSaver` param. @sample androidx.compose.runtime.saveable.samples.RememberSaveableWithMutableStateAndCustomSaver @param inputs A set of inputs such that, when any of them have changed, will cause the state to reset and [init] to be rerun @param saver The [Saver] object which defines how the state is saved and restored. @param key An optional key to be used as a key for the saved value. If not provided we use the automatically generated by the Compose runtime which is unique for the every exact code location in the composition tree @param init A factory function to create the initial value of this state" />
-      <item value="Snapshot" />
-      <item value="Return a new [MutableState] initialized with the passed in [value] The MutableState class is a single value holder whose reads and writes are observed by Compose. Additionally, writes to it are transacted as part of the [Snapshot] system. @param value the initial value for the [MutableState] @param policy a policy to controls how changes are handled in mutable snapshots." />
-      <item value="enable Placeholders" />
-      <item value="UNSPLASH STARTING PAGE INDEX" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631582169807" />
+    <option name="lastTrimTime" value="1633685484202" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
