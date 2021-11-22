@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="工单" />
       <item value="Securet" />
       <item value="CLINICS" />
       <item value="constrained Axis" />
@@ -53,11 +54,10 @@
       <item value="shrink Towards" />
       <item value="Tween Spec" />
       <item value="duration Millis" />
-      <item value="PROVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
+        <entry key="CHINESE" value="896" />
         <entry key="ENGLISH" value="896" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -76,13 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633685484202" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1637541517472" />
   </component>
 </application>
