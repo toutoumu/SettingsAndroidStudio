@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="提现" />
       <item value="名片" />
       <item value="商" />
       <item value="Regist" />
@@ -53,12 +54,11 @@
       <item value="obscure Text" />
       <item value="periodic" />
       <item value="{@macro flutter.widgets.widgetsApp.builder} Material specific features such as [showDialog] and [showMenu], and widgets such as [Tooltip], [PopupMenuButton], also require a [Navigator] to properly function." />
-      <item value="Makes `Counter` readable inside the devtools by listing all of its properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="902" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="903" />
+        <entry key="ENGLISH" value="903" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
