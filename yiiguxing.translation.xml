@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="报名" />
+      <item value="is Applyed" />
+      <item value="is Mine" />
       <item value="留言" />
       <item value="提现" />
       <item value="名片" />
@@ -51,14 +54,11 @@
       <item value="Cubit" />
       <item value="Comsummer" />
       <item value="Gem files will remain installed in" />
-      <item value="Clip Oval" />
-      <item value="obscure Text" />
-      <item value="periodic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="906" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
