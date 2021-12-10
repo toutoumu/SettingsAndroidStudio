@@ -4,6 +4,19 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="销售" />
+      <item value="报名" />
+      <item value="is Applyed" />
+      <item value="is Mine" />
+      <item value="留言" />
+      <item value="提现" />
+      <item value="名片" />
+      <item value="商" />
+      <item value="Regist" />
+      <item value="propagate Min Constraints" />
+      <item value="粘滞" />
+      <item value="邀请" />
+      <item value="工单" />
       <item value="Securet" />
       <item value="CLINICS" />
       <item value="constrained Axis" />
@@ -41,24 +54,11 @@
       <item value="UNIDENTIFIED" />
       <item value="Cubit" />
       <item value="Comsummer" />
-      <item value="Gem files will remain installed in" />
-      <item value="Clip Oval" />
-      <item value="obscure Text" />
-      <item value="periodic" />
-      <item value="{@macro flutter.widgets.widgetsApp.builder} Material specific features such as [showDialog] and [showMenu], and widgets such as [Tooltip], [PopupMenuButton], also require a [Navigator] to properly function." />
-      <item value="Makes `Counter` readable inside the devtools by listing all of its properties" />
-      <item value="Declare the preferred height of the content to match the height of the navigation bars when present at the bottom of the screen. This is very handy when used with `Spacer` to push content below the navigation bars: ``` Column { Content to be drawn above status bars (y-axis) Spacer(Modifier.navigationBarHeight()) } ``` It's also useful when used to draw a scrim which matches the navigation bars: ``` Spacer( Modifier.navigationBarHeight() .fillMaxWidth() .drawBackground(MaterialTheme.colors.background.copy(alpha = 0.3f) ) ``` Internally this matches the behavior of the [Modifier.height] modifier." />
-      <item value="Apply additional space which matches the height of the status bars height along the top edge of the content." />
-      <item value="velocity" />
-      <item value="shrink Towards" />
-      <item value="Tween Spec" />
-      <item value="duration Millis" />
-      <item value="PROVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="907" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
@@ -76,13 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633685484202" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1638773869743" />
   </component>
 </application>
