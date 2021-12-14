@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="合作" />
       <item value="tracking" />
       <item value="audit" />
       <item value="销售" />
@@ -53,7 +54,6 @@
       <item value="Creates a border radius where all radii are [Radius.circular(radius)]." />
       <item value="The minimum size of the button itself. The size of the rectangle the button lies within may be larger per [tapTargetSize]. This value must be less than or equal to [maximumSize]." />
       <item value="side" />
-      <item value="UNIDENTIFIED" />
     </histories>
     <option name="languageScores">
       <map>
