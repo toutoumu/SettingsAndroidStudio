@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="emoji_text" type="PLAIN_TEXT" />
       <mapping pattern="timeline_category" type="PLAIN_TEXT" />
       <mapping pattern="部门动态" type="PLAIN_TEXT" />
