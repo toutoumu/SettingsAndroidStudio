@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="propagate Min Constraints" />
       <item value="合作" />
       <item value="tracking" />
       <item value="audit" />
@@ -16,7 +17,6 @@
       <item value="名片" />
       <item value="商" />
       <item value="Regist" />
-      <item value="propagate Min Constraints" />
       <item value="粘滞" />
       <item value="邀请" />
       <item value="工单" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="907" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="ENGLISH" value="908" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
