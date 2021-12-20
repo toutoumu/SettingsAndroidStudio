@@ -1,0 +1,8 @@
+<templateSet group="AndroidComposeCustom">
+  <template name="iiiAndroidView" value="AndroidView(&#10;                                {&#10;                                    return@AndroidView bind.root&#10;                                },&#10;                                modifier = Modifier.padding(0.dp),&#10;                            )" description="AndroidView" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
