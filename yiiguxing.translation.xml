@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="collided" />
       <item value="mutable" />
       <item value="Repair" />
       <item value="合作" />
@@ -53,12 +54,11 @@
       <item value="Rectang" />
       <item value="Rectangle" />
       <item value="circular" />
-      <item value="Creates a border radius where all radii are [Radius.circular(radius)]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
