@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="仓库" />
       <item value="paint" />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="collided" />
@@ -53,11 +54,10 @@
       <item value="Add your grabbing widget here," />
       <item value="maintain Back Layer State" />
       <item value="reveal Back Layer At Start" />
-      <item value="Rectang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
+        <entry key="CHINESE" value="913" />
         <entry key="ENGLISH" value="913" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
