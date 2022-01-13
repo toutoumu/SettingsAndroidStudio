@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="parallax" />
       <item value="protocol" />
       <item value="INTERNET" />
       <item value="AUTHENTICATION AGENT ERROR" />
@@ -53,12 +54,11 @@
       <item value="indicator Decoration" />
       <item value="line Connector Decoration" />
       <item value="Creates a snapping position that is given a positionFactor [positionFactor]: 1 = Full size; 0 = Smallest size. Can be bigger than 1 and smaller than 0 if that is wanted." />
-      <item value="This sets the position of the snapping sheet directly without any animation. To use animation, see the [snapToPosition] method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="917" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
