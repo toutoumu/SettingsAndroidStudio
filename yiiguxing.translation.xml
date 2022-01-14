@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a new persistent list with the specified element inserted at the specified index." />
       <item value="TRADITIONAL CHINESE" />
       <item value="parallax" />
       <item value="protocol" />
@@ -53,12 +54,11 @@
       <item value="Repaint Boundary" />
       <item value="The extent of each tile in the main axis. If provided it would define the logical pixels taken by each tile in the main-axis." />
       <item value="indicator Decoration" />
-      <item value="line Connector Decoration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
