@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="语言" />
       <item value="泰语" />
       <item value="GERMAN" />
       <item value="GERMANY" />
@@ -53,12 +54,11 @@
       <item value="milliseconds" />
       <item value="Zero is at the bottom and positive values are above it: `⇈` Alphabetical content with a [GrowthDirection.forward] would have the A at the bottom and the Z at the top. This is an unusual configuration." />
       <item value="axis Direction" />
-      <item value="This app needs access to location when open and in the background." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="926" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="927" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
