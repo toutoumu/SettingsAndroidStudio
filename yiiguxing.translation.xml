@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="display Cutout" />
+      <item value="ime" />
+      <item value="Applies any [WindowInsetsCompat] values to [LocalWindowInsets], which are then available within [content]. If you're using this in fragments, you may wish to take a look at [ViewWindowInsetObserver] for a more optimal solution. @param windowInsetsAnimationsEnabled Whether to listen for [WindowInsetsAnimation]s, such as IME animations. @param consumeWindowInsets Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
       <item value="Obsolete Sdk Int" />
       <item value="variant" />
       <item value="语言" />
@@ -51,15 +54,13 @@
       <item value="immersive Sticky" />
       <item value="immersive" />
       <item value="lean Back" />
-      <item value="You only need to call this method if you need the binding to be initialized before calling [runApp]." />
-      <item value="microseconds" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
