@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Obsolete Sdk Int" />
       <item value="variant" />
       <item value="语言" />
       <item value="泰语" />
@@ -53,12 +54,11 @@
       <item value="You only need to call this method if you need the binding to be initialized before calling [runApp]." />
       <item value="microseconds" />
       <item value="milliseconds" />
-      <item value="Zero is at the bottom and positive values are above it: `⇈` Alphabetical content with a [GrowthDirection.forward] would have the A at the bottom and the Z at the top. This is an unusual configuration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="928" />
+        <entry key="ENGLISH" value="929" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
