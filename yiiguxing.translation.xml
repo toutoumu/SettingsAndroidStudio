@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
       <item value="With Out" />
       <item value="display Cutout" />
       <item value="ime" />
@@ -53,12 +54,11 @@
       <item value="manual" />
       <item value="edge To Edge" />
       <item value="immersive Sticky" />
-      <item value="immersive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="932" />
+        <entry key="ENGLISH" value="933" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
