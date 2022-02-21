@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When given a scroll controller that is attached to scrollable view, e.g [ListView] or a [SingleChildScrollView], the sheet will naturally grow and shrink according to the current scroll position of that view. OBS, the scrollable view needs to have the [reverse] parameter set to false if located in the below sheet and true if located in the above sheet. Otherwise, the logic do not behave as intended." />
+      <item value="The snapping position alignment regarding the grabbing content. This is often used when you want a snapping position at the top or bottom of the screen, but want the entire grabbing widget to be visible. For example, if you have a snapping position at the top of the screen, you usually use [GrabbingContentOffset.bottom]. See example: ```dart SnappingPosition.factor( positionFactor: 1.0, grabbingContentOffset: GrabbingContentOffset.bottom, ), ``` Or if you have a snapping position at the bottom of the screen, you usually use [GrabbingContentOffset.bottom]. See example: ```dart SnappingPosition.factor( positionFactor: 0.0, grabbingContentOffset: GrabbingContentOffset.top, ), ```" />
       <item value="grabbing" />
       <item value="snappint" />
       <item value="latitude" />
@@ -52,13 +54,11 @@
       <item value="邀请" />
       <item value="工单" />
       <item value="Securet" />
-      <item value="CLINICS" />
-      <item value="constrained Axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="938" />
+        <entry key="ENGLISH" value="939" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
