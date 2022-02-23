@@ -1,0 +1,5 @@
+<application>
+  <component name="DataService">
+    <option name="function" value="{&quot;useFolder&quot;:true,&quot;usePrefix&quot;:false,&quot;isPageView&quot;:false,&quot;autoDispose&quot;:false,&quot;addLifecycle&quot;:false,&quot;addBinding&quot;:false,&quot;lintNorm&quot;:false,&quot;funTabIndex&quot;:2}" />
+  </component>
+</application>

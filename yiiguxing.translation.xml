@@ -4,7 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="LAUNCHER" />
+      <item value="snappint" />
+      <item value="latitude" />
       <item value="lowering" />
       <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
       <item value="With Out" />
@@ -53,12 +54,11 @@
       <item value="CLINICS" />
       <item value="constrained Axis" />
       <item value="Unconstrained Box" />
-      <item value="manual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="934" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645492978994" />
+    <option name="lastTrimTime" value="1644994470641" />
   </component>
 </application>
