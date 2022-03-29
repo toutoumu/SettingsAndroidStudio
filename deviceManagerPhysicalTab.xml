@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.20.250.8:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-29T03:05:12.150841Z" />
+        <name value="Xiaomi Mi 10" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
