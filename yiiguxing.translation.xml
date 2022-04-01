@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="convert Ble Device" />
+      <item value="request Connection Priority" />
       <item value="temp" />
       <item value="Host\n Certification" />
       <item value="Preferred" />
@@ -52,13 +54,11 @@
       <item value="is Mine" />
       <item value="留言" />
       <item value="提现" />
-      <item value="名片" />
-      <item value="商" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="943" />
-        <entry key="ENGLISH" value="944" />
+        <entry key="CHINESE" value="945" />
+        <entry key="ENGLISH" value="945" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -70,6 +70,7 @@
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="BENGALI" value="2" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
@@ -77,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646270691473" />
+    <option name="lastTrimTime" value="1648780430490" />
   </component>
 </application>
