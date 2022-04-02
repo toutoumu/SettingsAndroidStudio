@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bonded" />
       <item value="Closes and releases resources. This method will be called automatically after calling {@link disconnect()}. When the device disconnected with link loss and {@link ConnectRequestshouldAutoConnect()} returned true you have to call this method to close the connection." />
       <item value="begin Atomic Request Queue" />
       <item value="This method should nullify all services and characteristics of the device. &lt;p&gt; It's called when the device is no longer connected, either due to user action or a link loss, or when the services have changed and new service discovery will be performed." />
@@ -53,12 +54,11 @@
       <item value="On every successful composition, update the callback with the `enabled` value" />
       <item value="propagate Min Constraints" />
       <item value="合作" />
-      <item value="tracking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="951" />
-        <entry key="ENGLISH" value="952" />
+        <entry key="CHINESE" value="952" />
+        <entry key="ENGLISH" value="953" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
