@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Closes and releases resources. This method will be called automatically after calling disconnect(). When the device disconnected with link loss and ConnectRequest.shouldAutoConnect() returned true you have to call this method to close the connection." />
+      <item value="TERMINATE LOCAL HOST" />
       <item value="REASON CANCELLED" />
       <item value="set Report Delay" />
       <item value="multiple" />
@@ -52,13 +54,11 @@
       <item value="Wildcards" />
       <item value="Provide a Key used for the initial load for the next PagingSource due to invalidation of this PagingSource. The Key is provided to load via LoadParams.key. The Key returned by this method should cause load to load enough items to fill the viewport around the last accessed position, allowing the next generation to transparently animate in. The last accessed position can be retrieved via state.anchorPosition, which is typically the top-most or bottom-most item in the viewport due to access being triggered by binding items as they scroll into view. For example, if items are loaded based on integer position keys, you can return state.anchorPosition. Alternately, if items contain a key used to load, get the key from the item in the page at index state.anchorPosition. Params: state - PagingState of the currently fetched data, which includes the most recently accessed position in the list via PagingState.anchorPosition. Returns: Key passed to load after invalidation used for initial load of the next generation. The Key returned by getRefreshKey should load pages centered around user's current viewport. If the correct Key cannot be determined, null can be returned to allow load decide what default key to use." />
       <item value="reverse Layout" />
-      <item value="typography" />
-      <item value="总是" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="955" />
+        <entry key="CHINESE" value="956" />
+        <entry key="ENGLISH" value="957" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
