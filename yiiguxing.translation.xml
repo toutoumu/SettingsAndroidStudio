@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Report Delay" />
       <item value="multiple" />
       <item value="bonded" />
       <item value="Closes and releases resources. This method will be called automatically after calling {@link disconnect()}. When the device disconnected with link loss and {@link ConnectRequestshouldAutoConnect()} returned true you have to call this method to close the connection." />
@@ -53,12 +54,11 @@
       <item value="typography" />
       <item value="总是" />
       <item value="On every successful composition, update the callback with the `enabled` value" />
-      <item value="propagate Min Constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
