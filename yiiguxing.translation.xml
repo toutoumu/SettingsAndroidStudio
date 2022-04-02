@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="begin Atomic Request Queue" />
       <item value="This method should nullify all services and characteristics of the device. &lt;p&gt; It's called when the device is no longer connected, either due to user action or a link loss, or when the services have changed and new service discovery will be performed." />
       <item value="on Services Invalidated" />
       <item value="Connects with a Bluetooth LE GATT service and takes care of its notifications. The service runs as a foreground service, which is generally required so that it can run even while the containing app has no UI. It is also possible to have the service started up as part of the OS boot sequence using code similar to the following: &lt;pre&gt; class OsNotificationReceiver : BroadcastReceiver() { override fun onReceive(context: Context?, intent: Intent?) { when (intent?.action) { Start our Gatt service as a result of the system booting up Intent.ACTION_BOOT_COMPLETED -&gt; { context?.startForegroundService(Intent(context, GattService::class.java)) } } } } &lt;pre&gt;" />
@@ -53,12 +54,11 @@
       <item value="合作" />
       <item value="tracking" />
       <item value="audit" />
-      <item value="销售" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="949" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="CHINESE" value="950" />
+        <entry key="ENGLISH" value="951" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
