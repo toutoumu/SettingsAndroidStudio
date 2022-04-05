@@ -4,9 +4,9 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TERMINATE LOCAL HOST" />
       <item value="This method replaces the {@link BleManagershouldAutoConnect()} method. &lt;p&gt; Sets whether to connect to the remote device just once (false) or to add the address to white list of devices that will be automatically connect as soon as they become available (true). In the latter case, if Bluetooth adapter is enabled, Android scans periodically for devices from the white list and, if an advertising packet is received from such, it tries to connect to it. When the connection is lost, the system will keep trying to reconnect to it. If method is called with parameter set to true, and the connection to the device is lost, the {@link BleManagerCallbacksonLinkLossOccurred(BluetoothDevice)} callback is called instead of {@link BleManagerCallbacksonDeviceDisconnected(BluetoothDevice)}. &lt;p&gt; This feature works much better on newer Android phone models and may have issues on older phones. &lt;p&gt; This method should only be used with bonded devices, as otherwise the device may change it's address. It will however work also with non-bonded devices with private static address. A connection attempt to a non-bonded device with private resolvable address will fail. &lt;p&gt; The first connection to a device will always be created with autoConnect flag to false (see {@link BluetoothDeviceconnectGatt(Context, boolean, BluetoothGattCallback)}). This is to make it quick as the user most probably waits for a quick response. If autoConnect is used (true), the following connections will be done using {@link BluetoothGattconnect()}, which forces the autoConnect parameter to true. @param autoConnect true to use autoConnect feature on the second and following connections. The first connection is always done with autoConnect parameter equal to false, to make it faster and allow to timeout it the device is unreachable. Default value is false. @return The request." />
       <item value="Closes and releases resources. This method will be called automatically after calling disconnect(). When the device disconnected with link loss and ConnectRequest.shouldAutoConnect() returned true you have to call this method to close the connection." />
-      <item value="TERMINATE LOCAL HOST" />
       <item value="REASON CANCELLED" />
       <item value="set Report Delay" />
       <item value="multiple" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
