@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="部门动态" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping pattern="timeline_category" type="PLAIN_TEXT" />
       <mapping ext="dart2" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <mapping pattern="attrs_form" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
