@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="start Time Us" />
       <item value="send Next When Last Success" />
       <item value="interval Between Two Package" />
       <item value="TERMINATE LOCAL HOST" />
@@ -53,12 +54,11 @@
       <item value="parallax" />
       <item value="protocol" />
       <item value="INTERNET" />
-      <item value="AUTHENTICATION AGENT ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="960" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="CHINESE" value="961" />
+        <entry key="ENGLISH" value="962" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
