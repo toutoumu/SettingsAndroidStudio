@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="SUBSAMPLING" />
       <item value="ACCESS LOCATION EXTRA COMMANDS" />
       <item value="Langurage" />
       <item value="start Time Us" />
@@ -52,12 +53,11 @@
       <item value="KOREAN" />
       <item value="TRADITIONAL CHINESE" />
       <item value="Returns a new persistent list with the specified element inserted at the specified index." />
-      <item value="parallax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="963" />
-        <entry key="ENGLISH" value="964" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="965" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650686405245" />
+    <option name="lastTrimTime" value="1651125608113" />
   </component>
 </application>
