@@ -2,7 +2,6 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:com.tonggao , level:DEBUG " />
         <option value="package:com.tonggao " />
         <option value="com.tonggao " />
         <option value="level:DEBUG  ,package:mine " />
