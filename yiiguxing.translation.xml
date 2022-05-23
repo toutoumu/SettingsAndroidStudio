@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="shrink Towards" />
+      <item value="shrink Out" />
       <item value="coerce In" />
       <item value="For the [WindowInsetsCompat.Type.ime]. On [Build.VERSION_CODES.R] and above, the soft keyboard can be detected and [ime] will animate when it shows. Developers should set `android:windowSoftInputMode=&quot;adjustResize&quot;` in their `AndroidManifest.xml` file and call `WindowCompat.setDecorFitsSystemWindows(window, false)` in their [android.app.Activity.onCreate]." />
       <item value="state Hidden" />
@@ -51,13 +53,11 @@
       <item value="Obsolete Sdk Int" />
       <item value="variant" />
       <item value="语言" />
-      <item value="泰语" />
-      <item value="GERMAN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
