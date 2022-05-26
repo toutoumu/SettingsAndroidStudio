@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="associated" />
       <item value="Tween Spec" />
       <item value="va Window Compat" />
       <item value="navigation Bar Divider Color" />
@@ -52,12 +53,11 @@
       <item value="latitude" />
       <item value="lowering" />
       <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
-      <item value="With Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="976" />
-        <entry key="ENGLISH" value="977" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
