@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="Tween Spec" />
       <item value="va Window Compat" />
       <item value="navigation Bar Divider Color" />
       <item value="An insets type representing any system bars for displaying status." />
@@ -52,7 +53,6 @@
       <item value="lowering" />
       <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
       <item value="With Out" />
-      <item value="display Cutout" />
     </histories>
     <option name="languageScores">
       <map>
