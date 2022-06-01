@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="Theme applied to the Android Window as soon as the process has started. This theme determines the color of the Android Window while your Flutter UI initializes, as well as behind your Flutter UI while its running. This Theme is only used starting with V2 of Flutter's Android embedding. --&gt;" />
+      <item value="heme applied to the Android Window as soon as the process has started. This theme determines the color of the Android Window while your Flutter UI initializes, as well as behind your Flutter UI while its running. This Theme is only used starting with V2 of Flutter's Android embedding." />
       <item value="milliseconds" />
       <item value="Specifies the style to use for the system overlays that are visible (if any). This method will schedule the embedder update to be run in a microtask. Any subsequent calls to this method during the current event loop will overwrite the pending value, such that only the last specified value takes effect. Call this API in code whose lifecycle matches that of the desired system UI styles. For instance, to change the system UI style on a new page, consider calling when pushingpopping a new [PageRoute]. However, the [AppBar] widget automatically sets the system overlay style based on its [AppBar.brightness], so configure that instead of calling this method directly. Likewise, do the same for [CupertinoNavigationBar] via [CupertinoNavigationBar.backgroundColor]. If a particular style is not supported on the platform, selecting it will have no effect. {@tool snippet} ```dart @override Widget build(BuildContext context) { SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.dark); return const Placeholder(); } ``` {@end-tool} For more complex control of the system overlay styles, consider using an [AnnotatedRegion] widget instead of calling [setSystemUIOverlayStyle] directly. This widget places a value directly into the layer tree where it can be hit-tested by the framework. On every frame, the framework will hit-test and select the annotated region it finds under the status and navigation bar and synthesize them into a single style. This can be used to configure the system styles when an app bar is not used. {@tool sample --template=stateful_widget_material} The following example creates a widget that changes the status bar color to a random value on Android. See code in examplesapilibservicessystem_chromesystem_chrome.set_system_u_i_overlay_style.1.dart {@end-tool} See also:" />
       <item value="If the home property is specified, the routes table cannot include an entry for &quot;&quot;, since it would be redundant." />
@@ -51,13 +53,11 @@
       <item value="Applies any [WindowInsetsCompat] values to [LocalWindowInsets], which are then available within [content]. If you're using this in fragments, you may wish to take a look at [ViewWindowInsetObserver] for a more optimal solution. @param windowInsetsAnimationsEnabled Whether to listen for [WindowInsetsAnimation]s, such as IME animations. @param consumeWindowInsets Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
       <item value="Obsolete Sdk Int" />
       <item value="variant" />
-      <item value="语言" />
-      <item value="泰语" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="CHINESE" value="974" />
+        <entry key="ENGLISH" value="975" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
