@@ -3,14 +3,20 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
-      <item value="Theme applied to the Android Window as soon as the process has started. This theme determines the color of the Android Window while your Flutter UI initializes, as well as behind your Flutter UI while its running. This Theme is only used starting with V2 of Flutter's Android embedding. --&gt;" />
-      <item value="heme applied to the Android Window as soon as the process has started. This theme determines the color of the Android Window while your Flutter UI initializes, as well as behind your Flutter UI while its running. This Theme is only used starting with V2 of Flutter's Android embedding." />
-      <item value="milliseconds" />
-      <item value="Specifies the style to use for the system overlays that are visible (if any). This method will schedule the embedder update to be run in a microtask. Any subsequent calls to this method during the current event loop will overwrite the pending value, such that only the last specified value takes effect. Call this API in code whose lifecycle matches that of the desired system UI styles. For instance, to change the system UI style on a new page, consider calling when pushingpopping a new [PageRoute]. However, the [AppBar] widget automatically sets the system overlay style based on its [AppBar.brightness], so configure that instead of calling this method directly. Likewise, do the same for [CupertinoNavigationBar] via [CupertinoNavigationBar.backgroundColor]. If a particular style is not supported on the platform, selecting it will have no effect. {@tool snippet} ```dart @override Widget build(BuildContext context) { SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.dark); return const Placeholder(); } ``` {@end-tool} For more complex control of the system overlay styles, consider using an [AnnotatedRegion] widget instead of calling [setSystemUIOverlayStyle] directly. This widget places a value directly into the layer tree where it can be hit-tested by the framework. On every frame, the framework will hit-test and select the annotated region it finds under the status and navigation bar and synthesize them into a single style. This can be used to configure the system styles when an app bar is not used. {@tool sample --template=stateful_widget_material} The following example creates a widget that changes the status bar color to a random value on Android. See code in examplesapilibservicessystem_chromesystem_chrome.set_system_u_i_overlay_style.1.dart {@end-tool} See also:" />
-      <item value="If the home property is specified, the routes table cannot include an entry for &quot;&quot;, since it would be redundant." />
-      <item value="Diagnosticable" />
-      <item value="Waits for multiple futures to complete and collects their results. Returns a future which will complete once all the provided futures have completed, either with their results, or with an error if any of the provided futures fail. The value of the returned future will be a list of all the values that were produced in the order that the futures are provided by iterating [futures]. If any future completes with an error, then the returned future completes with that error. If further futures also complete with errors, those errors are discarded. If `eagerError` is true, the returned future completes with an error immediately on the first error from one of the futures. Otherwise all futures must complete before the returned future is completed (still with the first error; the remaining errors are silently dropped). In the case of an error, [cleanUp] (if provided), is invoked on any non-null result of successful futures. This makes it possible to `cleanUp` resources that would otherwise be lost (since the returned future does not provide access to these values). The [cleanUp] function is unused if there is no error. The call to [cleanUp] should not throw. If it does, the error will be an uncaught asynchronous error." />
-      <item value="Waits for multiple futures to complete and collects their results." />
+      <item value="associated" />
+      <item value="Tween Spec" />
+      <item value="va Window Compat" />
+      <item value="navigation Bar Divider Color" />
+      <item value="An insets type representing any system bars for displaying status." />
+      <item value="TYPE APPLICATION PANEL" />
+      <item value="window Is Translucent" />
+      <item value="shrink Towards" />
+      <item value="shrink Out" />
+      <item value="coerce In" />
+      <item value="For the [WindowInsetsCompat.Type.ime]. On [Build.VERSION_CODES.R] and above, the soft keyboard can be detected and [ime] will animate when it shows. Developers should set `android:windowSoftInputMode=&quot;adjustResize&quot;` in their `AndroidManifest.xml` file and call `WindowCompat.setDecorFitsSystemWindows(window, false)` in their [android.app.Activity.onCreate]." />
+      <item value="state Hidden" />
+      <item value="reverse Layout" />
+      <item value="Coroutines" />
       <item value="PREFER SETTINGS" />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="SUBSAMPLING" />
@@ -47,17 +53,11 @@
       <item value="latitude" />
       <item value="lowering" />
       <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
-      <item value="With Out" />
-      <item value="display Cutout" />
-      <item value="ime" />
-      <item value="Applies any [WindowInsetsCompat] values to [LocalWindowInsets], which are then available within [content]. If you're using this in fragments, you may wish to take a look at [ViewWindowInsetObserver] for a more optimal solution. @param windowInsetsAnimationsEnabled Whether to listen for [WindowInsetsAnimation]s, such as IME animations. @param consumeWindowInsets Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
-      <item value="Obsolete Sdk Int" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653976118024" />
+    <option name="lastTrimTime" value="1653462285061" />
   </component>
 </application>
