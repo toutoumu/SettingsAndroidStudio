@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="- [permanent] keeps the Instance in memory and persist it, not following `Get.smartManagement` rules. Although, can be removed by `GetInstance.reset()` and `Get.delete()`" />
+      <item value="- [permanent] keeps the Instance in memory and persist it," />
+      <item value="permanent" />
+      <item value="- [tag] optionally, use a [tag] as an &quot;id&quot; to create multiple records of the same `Type&lt;S&gt;` the [tag] does not conflict with the same tags used by other dependencies Types." />
+      <item value="conflict" />
+      <item value="No need to define the generic type `&lt;[S]&gt;` as it's inferred from the [dependency] parameter." />
+      <item value="Injects" />
       <item value="associated" />
       <item value="Tween Spec" />
       <item value="va Window Compat" />
@@ -46,18 +53,11 @@
       <item value="Preferred" />
       <item value="set Preferred Orientations" />
       <item value="The snapping position aligns at the top part of the grabbing content" />
-      <item value="When given a scroll controller that is attached to scrollable view, e.g [ListView] or a [SingleChildScrollView], the sheet will naturally grow and shrink according to the current scroll position of that view. OBS, the scrollable view needs to have the [reverse] parameter set to false if located in the below sheet and true if located in the above sheet. Otherwise, the logic do not behave as intended." />
-      <item value="The snapping position alignment regarding the grabbing content. This is often used when you want a snapping position at the top or bottom of the screen, but want the entire grabbing widget to be visible. For example, if you have a snapping position at the top of the screen, you usually use [GrabbingContentOffset.bottom]. See example: ```dart SnappingPosition.factor( positionFactor: 1.0, grabbingContentOffset: GrabbingContentOffset.bottom, ), ``` Or if you have a snapping position at the bottom of the screen, you usually use [GrabbingContentOffset.bottom]. See example: ```dart SnappingPosition.factor( positionFactor: 0.0, grabbingContentOffset: GrabbingContentOffset.top, ), ```" />
-      <item value="grabbing" />
-      <item value="snappint" />
-      <item value="latitude" />
-      <item value="lowering" />
-      <item value="Whether to consume any [WindowInsetsCompat]s which are dispatched to the host view. Defaults to `true`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="984" />
+        <entry key="ENGLISH" value="985" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653462285061" />
+    <option name="lastTrimTime" value="1654653771846" />
   </component>
 </application>
