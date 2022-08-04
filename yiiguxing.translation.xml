@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="CALL STATE RINGING" />
       <item value="整机扫码过站" />
       <item value="A material design back button." />
       <item value="prevent Duplicates" />
@@ -52,12 +53,11 @@
       <item value="This method should nullify all services and characteristics of the device. &lt;p&gt; It's called when the device is no longer connected, either due to user action or a link loss, or when the services have changed and new service discovery will be performed." />
       <item value="on Services Invalidated" />
       <item value="Connects with a Bluetooth LE GATT service and takes care of its notifications. The service runs as a foreground service, which is generally required so that it can run even while the containing app has no UI. It is also possible to have the service started up as part of the OS boot sequence using code similar to the following: &lt;pre&gt; class OsNotificationReceiver : BroadcastReceiver() { override fun onReceive(context: Context?, intent: Intent?) { when (intent?.action) { Start our Gatt service as a result of the system booting up Intent.ACTION_BOOT_COMPLETED -&gt; { context?.startForegroundService(Intent(context, GattService::class.java)) } } } } &lt;pre&gt;" />
-      <item value="Copyright (c) 2020, Nordic Semiconductor All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation andor other materials provided with the distribution. 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="990" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655190874192" />
+    <option name="lastTrimTime" value="1659581174009" />
   </component>
 </application>
