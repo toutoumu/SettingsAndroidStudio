@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="特殊" />
+      <item value="Speacial要求" />
+      <item value="Speacial" />
       <item value="priority" />
       <item value="VISIBILITY SECRET" />
       <item value="CALL STATE RINGING" />
@@ -50,14 +53,11 @@
       <item value="set Report Delay" />
       <item value="multiple" />
       <item value="bonded" />
-      <item value="Closes and releases resources. This method will be called automatically after calling {@link disconnect()}. When the device disconnected with link loss and {@link ConnectRequestshouldAutoConnect()} returned true you have to call this method to close the connection." />
-      <item value="begin Atomic Request Queue" />
-      <item value="This method should nullify all services and characteristics of the device. &lt;p&gt; It's called when the device is no longer connected, either due to user action or a link loss, or when the services have changed and new service discovery will be performed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="993" />
-        <entry key="ENGLISH" value="994" />
+        <entry key="CHINESE" value="996" />
+        <entry key="ENGLISH" value="996" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659581174009" />
+    <option name="lastTrimTime" value="1662013376412" />
   </component>
 </application>
