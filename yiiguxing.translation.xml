@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
     <histories>
+      <item value="质量" />
+      <item value="Qulity" />
       <item value="特殊" />
       <item value="Speacial要求" />
       <item value="Speacial" />
@@ -51,13 +53,11 @@
       <item value="Closes and releases resources. This method will be called automatically after calling disconnect(). When the device disconnected with link loss and ConnectRequest.shouldAutoConnect() returned true you have to call this method to close the connection." />
       <item value="REASON CANCELLED" />
       <item value="set Report Delay" />
-      <item value="multiple" />
-      <item value="bonded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="996" />
-        <entry key="ENGLISH" value="996" />
+        <entry key="CHINESE" value="997" />
+        <entry key="ENGLISH" value="997" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
