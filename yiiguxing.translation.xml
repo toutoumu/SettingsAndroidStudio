@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="执行类型" />
+      <item value="车间名称" />
       <item value="task State" />
       <item value="DROP OLDEST" />
       <item value="&lt;a href=&quot;https:material.iocomponentscheckboxes&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Material Design checkbox&lt;a&gt;. Checkboxes allow users to select one or more items from a set. Checkboxes can turn an option on or off. ![Checkboxes image](https:developer.android.comimagesreferenceandroidxcomposematerialcheckboxes.png) @sample androidx.compose.material.samples.CheckboxSample @see [TriStateCheckbox] if you require support for an indeterminate state, or more advanced color customization between states. @param checked whether Checkbox is checked or unchecked @param onCheckedChange callback to be invoked when checkbox is being clicked, therefore the change of checked state in requested. If null, then this is passive and relies entirely on a higher-level component to control the &quot;checked&quot; state. @param modifier Modifier to be applied to the layout of the checkbox @param enabled whether the component is enabled or grayed out @param interactionSource the [MutableInteractionSource] representing the stream of [Interaction]s for this Checkbox. You can create and pass in your own remembered [MutableInteractionSource] if you want to observe [Interaction]s and customize the appearance behavior of this Checkbox in different [Interaction]s. @param colors [CheckboxColors] that will be used to determine the color of the checkmark box border in different states. See [CheckboxDefaults.colors]." />
@@ -52,13 +54,11 @@
       <item value="ACCESS LOCATION EXTRA COMMANDS" />
       <item value="Langurage" />
       <item value="start Time Us" />
-      <item value="send Next When Last Success" />
-      <item value="interval Between Two Package" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1001" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="CHINESE" value="1003" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
