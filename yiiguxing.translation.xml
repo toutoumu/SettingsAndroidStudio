@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DROP OLDEST" />
+      <item value="&lt;a href=&quot;https:material.iocomponentscheckboxes&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Material Design checkbox&lt;a&gt;. Checkboxes allow users to select one or more items from a set. Checkboxes can turn an option on or off. ![Checkboxes image](https:developer.android.comimagesreferenceandroidxcomposematerialcheckboxes.png) @sample androidx.compose.material.samples.CheckboxSample @see [TriStateCheckbox] if you require support for an indeterminate state, or more advanced color customization between states. @param checked whether Checkbox is checked or unchecked @param onCheckedChange callback to be invoked when checkbox is being clicked, therefore the change of checked state in requested. If null, then this is passive and relies entirely on a higher-level component to control the &quot;checked&quot; state. @param modifier Modifier to be applied to the layout of the checkbox @param enabled whether the component is enabled or grayed out @param interactionSource the [MutableInteractionSource] representing the stream of [Interaction]s for this Checkbox. You can create and pass in your own remembered [MutableInteractionSource] if you want to observe [Interaction]s and customize the appearance behavior of this Checkbox in different [Interaction]s. @param colors [CheckboxColors] that will be used to determine the color of the checkmark box border in different states. See [CheckboxDefaults.colors]." />
       <item value="performance" />
       <item value="性能" />
       <item value="质量" />
@@ -52,13 +54,11 @@
       <item value="send Next When Last Success" />
       <item value="interval Between Two Package" />
       <item value="TERMINATE LOCAL HOST" />
-      <item value="This method replaces the {@link BleManagershouldAutoConnect()} method. &lt;p&gt; Sets whether to connect to the remote device just once (false) or to add the address to white list of devices that will be automatically connect as soon as they become available (true). In the latter case, if Bluetooth adapter is enabled, Android scans periodically for devices from the white list and, if an advertising packet is received from such, it tries to connect to it. When the connection is lost, the system will keep trying to reconnect to it. If method is called with parameter set to true, and the connection to the device is lost, the {@link BleManagerCallbacksonLinkLossOccurred(BluetoothDevice)} callback is called instead of {@link BleManagerCallbacksonDeviceDisconnected(BluetoothDevice)}. &lt;p&gt; This feature works much better on newer Android phone models and may have issues on older phones. &lt;p&gt; This method should only be used with bonded devices, as otherwise the device may change it's address. It will however work also with non-bonded devices with private static address. A connection attempt to a non-bonded device with private resolvable address will fail. &lt;p&gt; The first connection to a device will always be created with autoConnect flag to false (see {@link BluetoothDeviceconnectGatt(Context, boolean, BluetoothGattCallback)}). This is to make it quick as the user most probably waits for a quick response. If autoConnect is used (true), the following connections will be done using {@link BluetoothGattconnect()}, which forces the autoConnect parameter to true. @param autoConnect true to use autoConnect feature on the second and following connections. The first connection is always done with autoConnect parameter equal to false, to make it faster and allow to timeout it the device is unreachable. Default value is false. @return The request." />
-      <item value="Closes and releases resources. This method will be called automatically after calling disconnect(). When the device disconnected with link loss and ConnectRequest.shouldAutoConnect() returned true you have to call this method to close the connection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1000" />
+        <entry key="ENGLISH" value="1001" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
