@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="horizontal Arrangement" />
       <item value="执行类型" />
       <item value="车间名称" />
       <item value="task State" />
@@ -53,12 +54,11 @@
       <item value="SUBSAMPLING" />
       <item value="ACCESS LOCATION EXTRA COMMANDS" />
       <item value="Langurage" />
-      <item value="start Time Us" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
