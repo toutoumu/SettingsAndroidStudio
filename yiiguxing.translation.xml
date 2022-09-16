@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="百分比" />
       <item value="propagate Min Constraints" />
       <item value="Change the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
       <item value="改善策略" />
@@ -53,11 +54,10 @@
       <item value="coerce In" />
       <item value="For the [WindowInsetsCompat.Type.ime]. On [Build.VERSION_CODES.R] and above, the soft keyboard can be detected and [ime] will animate when it shows. Developers should set `android:windowSoftInputMode=&quot;adjustResize&quot;` in their `AndroidManifest.xml` file and call `WindowCompat.setDecorFitsSystemWindows(window, false)` in their [android.app.Activity.onCreate]." />
       <item value="state Hidden" />
-      <item value="reverse Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
+        <entry key="CHINESE" value="1009" />
         <entry key="ENGLISH" value="1009" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
