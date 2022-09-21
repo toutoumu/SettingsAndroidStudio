@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CHANNEL IN MONO" />
+      <item value="CHANNEL IN STEREO" />
       <item value="CHANNEL CONFIGURATION MONO" />
       <item value="Returns the minimum buffer size required for the successful creation of an AudioRecord object, in byte units. Note that this size doesn't guarantee a smooth recording under load, and higher values should be chosen according to the expected frequency at which the AudioRecord instance will be polled for new data. See AudioRecord(int, int, int, int, int) for more information on valid configuration values." />
       <item value="frequency" />
@@ -52,13 +54,11 @@
       <item value="Tween Spec" />
       <item value="va Window Compat" />
       <item value="navigation Bar Divider Color" />
-      <item value="An insets type representing any system bars for displaying status." />
-      <item value="TYPE APPLICATION PANEL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1014" />
-        <entry key="ENGLISH" value="1015" />
+        <entry key="CHINESE" value="1016" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
