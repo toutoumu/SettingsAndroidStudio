@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CHANNEL CONFIGURATION MONO" />
+      <item value="frequency" />
       <item value="polidea" />
       <item value="density" />
       <item value="Overdue" />
@@ -52,13 +54,11 @@
       <item value="An insets type representing any system bars for displaying status." />
       <item value="TYPE APPLICATION PANEL" />
       <item value="window Is Translucent" />
-      <item value="shrink Towards" />
-      <item value="shrink Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1011" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
