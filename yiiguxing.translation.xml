@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="applicable" />
       <item value="work shop" />
       <item value="CHANNEL IN MONO" />
       <item value="CHANNEL IN STEREO" />
@@ -53,12 +54,11 @@
       <item value="Injects" />
       <item value="associated" />
       <item value="Tween Spec" />
-      <item value="va Window Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1017" />
-        <entry key="ENGLISH" value="1018" />
+        <entry key="CHINESE" value="1018" />
+        <entry key="ENGLISH" value="1019" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
