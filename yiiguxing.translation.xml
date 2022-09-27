@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This callback is invoked when the user interacts with the hardware keyboard. While implementing this callback, return true to stop propagation of this event. If you return false, the key event will be sent to this [onKeyEvent]'s parent." />
       <item value="match Height Constraints First" />
       <item value="applicable" />
       <item value="work shop" />
@@ -53,12 +54,11 @@
       <item value="conflict" />
       <item value="No need to define the generic type `&lt;[S]&gt;` as it's inferred from the [dependency] parameter." />
       <item value="Injects" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1019" />
-        <entry key="ENGLISH" value="1020" />
+        <entry key="CHINESE" value="1020" />
+        <entry key="ENGLISH" value="1021" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
