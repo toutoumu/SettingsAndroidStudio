@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MONDAY" />
       <item value="预约" />
       <item value="This callback is invoked when the user interacts with the hardware keyboard. While implementing this callback, return true to stop propagation of this event. If you return false, the key event will be sent to this [onKeyEvent]'s parent." />
       <item value="match Height Constraints First" />
@@ -53,7 +54,6 @@
       <item value="permanent" />
       <item value="- [tag] optionally, use a [tag] as an &quot;id&quot; to create multiple records of the same `Type&lt;S&gt;` the [tag] does not conflict with the same tags used by other dependencies Types." />
       <item value="conflict" />
-      <item value="No need to define the generic type `&lt;[S]&gt;` as it's inferred from the [dependency] parameter." />
     </histories>
     <option name="languageScores">
       <map>
