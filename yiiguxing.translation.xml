@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="折扣" />
       <item value="上架" />
       <item value="商品" />
       <item value="BookListItem( modifier = Modifier .fillMaxWidth() .padding(start = 12.dp, end = 12.dp, top = 14.dp, bottom = 14.dp), user = ServiceDto(), isDisplay = false, fragment = this@ShopOrderFragment ) DataSelectItem(text = &quot;服务人员&quot;, placeHolder = &quot;请选择&quot;) { } DataSelectItem(text = &quot;客户权益&quot;, placeHolder = &quot;选择权益&quot;) { } 改价 ChangePrice(showBlueText = true) BookListItem( modifier = Modifier .fillMaxWidth() .padding(start = 12.dp, end = 12.dp, top = 14.dp, bottom = 14.dp), user = ServiceDto(), isDisplay = false, fragment = this@ShopOrderFragment ) DataSelectItem(text = &quot;服务人员&quot;, placeHolder = &quot;请选择&quot;) { } DataSelectItem(text = &quot;客户权益&quot;, placeHolder = &quot;选择权益&quot;) { }" />
@@ -53,11 +54,10 @@
       <item value="obscure Text" />
       <item value="shrink Wrap" />
       <item value="Constrained Box" />
-      <item value="Clamping Scroll Physics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1020" />
+        <entry key="CHINESE" value="1021" />
         <entry key="ENGLISH" value="1021" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
@@ -80,6 +80,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664171970379" />
+    <option name="lastTrimTime" value="1668411116147" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20221003001367340" />
+      </app-key>
+    </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
