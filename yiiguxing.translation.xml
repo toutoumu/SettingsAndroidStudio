@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="user Coupon Id" />
       <item value="折扣" />
       <item value="上架" />
       <item value="商品" />
@@ -53,7 +54,6 @@
       <item value="prevent Duplicates" />
       <item value="obscure Text" />
       <item value="shrink Wrap" />
-      <item value="Constrained Box" />
     </histories>
     <option name="languageScores">
       <map>
