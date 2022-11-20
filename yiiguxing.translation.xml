@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Shop List" />
       <item value="IS MULTIPLE CHOICE" />
       <item value="user Coupon Id" />
       <item value="折扣" />
@@ -53,7 +54,6 @@
       <item value="整机扫码过站" />
       <item value="A material design back button." />
       <item value="prevent Duplicates" />
-      <item value="obscure Text" />
     </histories>
     <option name="languageScores">
       <map>
