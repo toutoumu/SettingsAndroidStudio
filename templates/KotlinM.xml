@@ -37,7 +37,7 @@
       <option name="KOTLIN_COMMENT" value="false" />
     </context>
   </template>
-  <template name="mimageCircle" value="Image(&#10;            modifier = modifier&#10;                .size($size$.dp)&#10;                .aspectRatio(1f)&#10;                .background(color = Color(0xfff1f1f1), shape = CircleShape)&#10;                .clip(shape = CircleShape),&#10;            bitmap = ImageBitmap.imageResource(id = R.drawable.$image$),&#10;            contentScale = ContentScale.Inside,&#10;            contentDescription = &quot;&quot;&#10;        )" description="圆形图片" toReformat="true" toShortenFQNames="true">
+  <template name="mimageCircle" value="Image(&#10;            modifier = Modifier&#10;                .size($size$.dp)&#10;                .aspectRatio(1f)&#10;                .background(color = Color(0xfff1f1f1), shape = CircleShape)&#10;                .clip(shape = CircleShape),&#10;            bitmap = ImageBitmap.imageResource(id = R.drawable.$image$),&#10;            contentScale = ContentScale.Inside,&#10;            contentDescription = &quot;&quot;&#10;        )" description="圆形图片" toReformat="true" toShortenFQNames="true">
     <variable name="size" expression="" defaultValue="&quot;44&quot;" alwaysStopAt="true" />
     <variable name="image" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -45,7 +45,7 @@
       <option name="KOTLIN_COMMENT" value="false" />
     </context>
   </template>
-  <template name="mtext" value="Text(&#10;                    modifier = Modifier.padding(top = $size1$.dp, end = $size2$.dp, bottom = $size3$.dp, start = $size4$.dp),&#10;                    text = $text$,&#10;                    fontSize = $fontSize$.sp,&#10;                    lineHeight = $fontSize$.sp,&#10;                    color = Color(0xff323232),&#10;                    textAlign = TextAlign.Center&#10;                )" description="text组件" toReformat="true" toShortenFQNames="true">
+  <template name="mtext" value="Text(&#10;                    modifier = Modifier.padding(top = $size1$.dp, end = $size2$.dp, bottom = $size3$.dp, start = $size4$.dp),&#10;                    text = &quot;$text$&quot;,&#10;                    fontSize = $fontSize$.sp,&#10;                    lineHeight = $fontSize$.sp,&#10;                    color = Color(0xff323232),&#10;                    textAlign = TextAlign.Center&#10;                )" description="text组件" toReformat="true" toShortenFQNames="true">
     <variable name="size1" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
     <variable name="size2" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
     <variable name="size3" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
