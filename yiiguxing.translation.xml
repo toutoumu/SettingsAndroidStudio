@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="382" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="member Id ID" />
       <item value="Bluetooth Headset" />
       <item value="staff Id" />
       <item value="get Shop List" />
@@ -53,7 +54,6 @@
       <item value="priority" />
       <item value="VISIBILITY SECRET" />
       <item value="CALL STATE RINGING" />
-      <item value="整机扫码过站" />
     </histories>
     <option name="languageScores">
       <map>
