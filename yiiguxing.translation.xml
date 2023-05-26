@@ -2,63 +2,62 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="382" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="member Id ID" />
-      <item value="Bluetooth Headset" />
-      <item value="staff Id" />
-      <item value="get Shop List" />
-      <item value="IS MULTIPLE CHOICE" />
-      <item value="user Coupon Id" />
-      <item value="折扣" />
-      <item value="上架" />
-      <item value="商品" />
-      <item value="BookListItem( modifier = Modifier .fillMaxWidth() .padding(start = 12.dp, end = 12.dp, top = 14.dp, bottom = 14.dp), user = ServiceDto(), isDisplay = false, fragment = this@ShopOrderFragment ) DataSelectItem(text = &quot;服务人员&quot;, placeHolder = &quot;请选择&quot;) { } DataSelectItem(text = &quot;客户权益&quot;, placeHolder = &quot;选择权益&quot;) { } 改价 ChangePrice(showBlueText = true) BookListItem( modifier = Modifier .fillMaxWidth() .padding(start = 12.dp, end = 12.dp, top = 14.dp, bottom = 14.dp), user = ServiceDto(), isDisplay = false, fragment = this@ShopOrderFragment ) DataSelectItem(text = &quot;服务人员&quot;, placeHolder = &quot;请选择&quot;) { } DataSelectItem(text = &quot;客户权益&quot;, placeHolder = &quot;选择权益&quot;) { }" />
-      <item value="The decay animation spec to use for decayed flings." />
-      <item value="mall Id" />
-      <item value="summary" />
-      <item value="MONDAY" />
-      <item value="预约" />
-      <item value="This callback is invoked when the user interacts with the hardware keyboard. While implementing this callback, return true to stop propagation of this event. If you return false, the key event will be sent to this [onKeyEvent]'s parent." />
-      <item value="match Height Constraints First" />
-      <item value="applicable" />
-      <item value="work shop" />
-      <item value="CHANNEL IN MONO" />
-      <item value="CHANNEL IN STEREO" />
-      <item value="CHANNEL CONFIGURATION MONO" />
-      <item value="Returns the minimum buffer size required for the successful creation of an AudioRecord object, in byte units. Note that this size doesn't guarantee a smooth recording under load, and higher values should be chosen according to the expected frequency at which the AudioRecord instance will be polled for new data. See AudioRecord(int, int, int, int, int) for more information on valid configuration values." />
-      <item value="frequency" />
-      <item value="polidea" />
-      <item value="density" />
-      <item value="Overdue" />
-      <item value="百分比" />
-      <item value="propagate Min Constraints" />
-      <item value="Change the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
-      <item value="改善策略" />
-      <item value="列" />
-      <item value="column" />
-      <item value="show Execute Dialog" />
-      <item value="horizontal Arrangement" />
-      <item value="执行类型" />
-      <item value="车间名称" />
-      <item value="task State" />
-      <item value="DROP OLDEST" />
-      <item value="&lt;a href=&quot;https:material.iocomponentscheckboxes&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Material Design checkbox&lt;a&gt;. Checkboxes allow users to select one or more items from a set. Checkboxes can turn an option on or off. ![Checkboxes image](https:developer.android.comimagesreferenceandroidxcomposematerialcheckboxes.png) @sample androidx.compose.material.samples.CheckboxSample @see [TriStateCheckbox] if you require support for an indeterminate state, or more advanced color customization between states. @param checked whether Checkbox is checked or unchecked @param onCheckedChange callback to be invoked when checkbox is being clicked, therefore the change of checked state in requested. If null, then this is passive and relies entirely on a higher-level component to control the &quot;checked&quot; state. @param modifier Modifier to be applied to the layout of the checkbox @param enabled whether the component is enabled or grayed out @param interactionSource the [MutableInteractionSource] representing the stream of [Interaction]s for this Checkbox. You can create and pass in your own remembered [MutableInteractionSource] if you want to observe [Interaction]s and customize the appearance behavior of this Checkbox in different [Interaction]s. @param colors [CheckboxColors] that will be used to determine the color of the checkmark box border in different states. See [CheckboxDefaults.colors]." />
-      <item value="performance" />
-      <item value="性能" />
-      <item value="质量" />
-      <item value="Qulity" />
-      <item value="特殊" />
-      <item value="Speacial要求" />
-      <item value="Speacial" />
-      <item value="priority" />
-      <item value="VISIBILITY SECRET" />
-      <item value="CALL STATE RINGING" />
+      <item value="整机扫码过站" />
+      <item value="A material design back button." />
+      <item value="prevent Duplicates" />
+      <item value="obscure Text" />
+      <item value="shrink Wrap" />
+      <item value="Constrained Box" />
+      <item value="Clamping Scroll Physics" />
+      <item value="growable" />
+      <item value="- [permanent] keeps the Instance in memory and persist it, not following `Get.smartManagement` rules. Although, can be removed by `GetInstance.reset()` and `Get.delete()`" />
+      <item value="- [permanent] keeps the Instance in memory and persist it," />
+      <item value="permanent" />
+      <item value="- [tag] optionally, use a [tag] as an &quot;id&quot; to create multiple records of the same `Type&lt;S&gt;` the [tag] does not conflict with the same tags used by other dependencies Types." />
+      <item value="conflict" />
+      <item value="No need to define the generic type `&lt;[S]&gt;` as it's inferred from the [dependency] parameter." />
+      <item value="Injects" />
+      <item value="associated" />
+      <item value="Tween Spec" />
+      <item value="va Window Compat" />
+      <item value="navigation Bar Divider Color" />
+      <item value="An insets type representing any system bars for displaying status." />
+      <item value="TYPE APPLICATION PANEL" />
+      <item value="window Is Translucent" />
+      <item value="shrink Towards" />
+      <item value="shrink Out" />
+      <item value="coerce In" />
+      <item value="For the [WindowInsetsCompat.Type.ime]. On [Build.VERSION_CODES.R] and above, the soft keyboard can be detected and [ime] will animate when it shows. Developers should set `android:windowSoftInputMode=&quot;adjustResize&quot;` in their `AndroidManifest.xml` file and call `WindowCompat.setDecorFitsSystemWindows(window, false)` in their [android.app.Activity.onCreate]." />
+      <item value="state Hidden" />
+      <item value="reverse Layout" />
+      <item value="Coroutines" />
+      <item value="PREFER SETTINGS" />
+      <item value="FAIL ON PROJECT REPOS" />
+      <item value="SUBSAMPLING" />
+      <item value="ACCESS LOCATION EXTRA COMMANDS" />
+      <item value="Langurage" />
+      <item value="start Time Us" />
+      <item value="send Next When Last Success" />
+      <item value="interval Between Two Package" />
+      <item value="TERMINATE LOCAL HOST" />
+      <item value="This method replaces the {@link BleManagershouldAutoConnect()} method. &lt;p&gt; Sets whether to connect to the remote device just once (false) or to add the address to white list of devices that will be automatically connect as soon as they become available (true). In the latter case, if Bluetooth adapter is enabled, Android scans periodically for devices from the white list and, if an advertising packet is received from such, it tries to connect to it. When the connection is lost, the system will keep trying to reconnect to it. If method is called with parameter set to true, and the connection to the device is lost, the {@link BleManagerCallbacksonLinkLossOccurred(BluetoothDevice)} callback is called instead of {@link BleManagerCallbacksonDeviceDisconnected(BluetoothDevice)}. &lt;p&gt; This feature works much better on newer Android phone models and may have issues on older phones. &lt;p&gt; This method should only be used with bonded devices, as otherwise the device may change it's address. It will however work also with non-bonded devices with private static address. A connection attempt to a non-bonded device with private resolvable address will fail. &lt;p&gt; The first connection to a device will always be created with autoConnect flag to false (see {@link BluetoothDeviceconnectGatt(Context, boolean, BluetoothGattCallback)}). This is to make it quick as the user most probably waits for a quick response. If autoConnect is used (true), the following connections will be done using {@link BluetoothGattconnect()}, which forces the autoConnect parameter to true. @param autoConnect true to use autoConnect feature on the second and following connections. The first connection is always done with autoConnect parameter equal to false, to make it faster and allow to timeout it the device is unreachable. Default value is false. @return The request." />
+      <item value="Closes and releases resources. This method will be called automatically after calling disconnect(). When the device disconnected with link loss and ConnectRequest.shouldAutoConnect() returned true you have to call this method to close the connection." />
+      <item value="REASON CANCELLED" />
+      <item value="set Report Delay" />
+      <item value="multiple" />
+      <item value="bonded" />
+      <item value="Closes and releases resources. This method will be called automatically after calling {@link disconnect()}. When the device disconnected with link loss and {@link ConnectRequestshouldAutoConnect()} returned true you have to call this method to close the connection." />
+      <item value="begin Atomic Request Queue" />
+      <item value="This method should nullify all services and characteristics of the device. &lt;p&gt; It's called when the device is no longer connected, either due to user action or a link loss, or when the services have changed and new service discovery will be performed." />
+      <item value="on Services Invalidated" />
+      <item value="Connects with a Bluetooth LE GATT service and takes care of its notifications. The service runs as a foreground service, which is generally required so that it can run even while the containing app has no UI. It is also possible to have the service started up as part of the OS boot sequence using code similar to the following: &lt;pre&gt; class OsNotificationReceiver : BroadcastReceiver() { override fun onReceive(context: Context?, intent: Intent?) { when (intent?.action) { Start our Gatt service as a result of the system booting up Intent.ACTION_BOOT_COMPLETED -&gt; { context?.startForegroundService(Intent(context, GattService::class.java)) } } } } &lt;pre&gt;" />
+      <item value="Copyright (c) 2020, Nordic Semiconductor All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation andor other materials provided with the distribution. 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1021" />
+        <entry key="CHINESE" value="990" />
+        <entry key="ENGLISH" value="991" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="BOSNIAN" value="1" />
@@ -73,21 +72,12 @@
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668411116147" />
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20221003001367340" />
-      </app-key>
-    </option>
-    <option name="translator" value="BAIDU" />
+    <option name="lastTrimTime" value="1655190874192" />
   </component>
 </application>
