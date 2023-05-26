@@ -26,6 +26,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="CodeVision" />
