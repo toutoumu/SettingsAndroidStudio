@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.duoyoupin.test   level:debug        " />
+    <option name="mostRecentlyUsed" value="package:com.duoyp.com.duoypmall   level:debug        " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.duoyp.com.duoypmall   level:debug        " />
         <option value="package:com.duoyoupin.test   level:debug        " />
         <option value="package:com.duoyoupin.test   level:error       " />
         <option value="package:com.duoyp.com.duoypmall  level:error       " />
