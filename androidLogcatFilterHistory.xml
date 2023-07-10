@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.duoyp.com.duoypmall   level:debug            " />
+    <option name="mostRecentlyUsed" value="package:com.duoyp.com.duoypmall   level:error             " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.duoyp.com.duoypmall   level:error             " />
         <option value="package:com.duoyp.com.duoypmall   level:debug            " />
         <option value="package:com.duoyp.com.duoypmall   level:error           " />
         <option value="package:com.duoyp.com.duoypmall   level:debug          " />
@@ -22,7 +23,6 @@
         <option value="package:com.tonggao , level:DEBUG " />
         <option value="package:com.tonggao " />
         <option value="com.tonggao " />
-        <option value="level:DEBUG  ,package:mine " />
       </list>
     </option>
   </component>
