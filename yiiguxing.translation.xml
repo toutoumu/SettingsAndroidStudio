@@ -85,6 +85,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Your download is pending!" />
       <item value="times" />
     </histories>
   </component>
