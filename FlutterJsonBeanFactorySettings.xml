@@ -1,0 +1,7 @@
+<application>
+  <component name="FlutterJsonBeanFactorySettings">
+    <option name="copyWith" value="true" />
+    <option name="openNullAble" value="true" />
+    <option name="setDefault" value="true" />
+  </component>
+</application>
