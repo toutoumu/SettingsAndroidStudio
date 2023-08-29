@@ -9,7 +9,8 @@
           </Key>
         </key>
         <name value="Xiaomi Mi 10" />
-        <target value="Android 1.0" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
