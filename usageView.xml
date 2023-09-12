@@ -1,4 +1,7 @@
 <application>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
+  </component>
   <component name="UsageViewSettings">
     <option name="FLATTEN_MODULES" value="false" />
     <option name="GROUP_BY_DIRECTORY_STRUCTURE" value="true" />
